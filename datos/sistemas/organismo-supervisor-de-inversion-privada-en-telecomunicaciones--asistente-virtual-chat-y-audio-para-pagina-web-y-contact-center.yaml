@@ -19,5 +19,8 @@ evidencia:
 - url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
+- url: https://www.osiptel.gob.pe/portal-del-usuario/telia-gobpe/
+  fecha_captura: '2026-07-26'
+  descripcion: Pagina oficial de 'Telia', asistente digital de OSIPTEL (vinculo con esta contratacion especifica no confirmado).
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: OSIPTEL opera un asistente virtual llamado 'Telia' (confirmado en su portal oficial), pero no se pudo confirmar si es el mismo proyecto que esta contratacion de IBM Watson Assistant/AWS.

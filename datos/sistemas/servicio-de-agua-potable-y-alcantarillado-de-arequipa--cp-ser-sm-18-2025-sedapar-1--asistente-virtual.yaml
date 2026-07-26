@@ -6,18 +6,24 @@ nivel_gobierno: nacional
 finalidad: SERVICIO DE IMPLEMENTACION DE PLATAFORMA DE CONTACT CENTER OMNICANAL INTEGRANDO UN BOT Y ASISTENTE VIRTUAL PARA LA ATENCION DE LOS USUARIOS EXTERNOS DE SEDAPAR S.A.
 tipo_decision: ''
 supervision_humana_declarada: no_declarado
-proveedor: ''
+proveedor: BELLTECH PERU SAC (RUC 20504747981), contrato N.° 20-2026, vigente 18/03/2026 - 05/05/2028.
 vinculo_contractual: ''
-presupuesto: '770000.0'
-estado: indeterminado
+presupuesto: '710000.0'
+estado: en_operacion
 tecnologias: ''
 clasificacion_riesgo_propia: pendiente_de_clasificar
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
-nivel_confianza: inferido_contratacion
+nivel_confianza: confirmado_fuente_oficial
 evidencia:
 - url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1183724-2026-06-18T10:25:49.205742-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "asistente virtual" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1183724).'
+- url: https://contratacionesabiertas.oece.gob.pe/busqueda?year=2024
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado en la Fase 0: "CONTRATACION DEL SERVICIO DE IMPLEMENTACION DE UN ASISTENTE VIRTUAL CON IA GESTIONADO POR UNA PLATAFORMA OMNICANAL PARA SEDAPAR S.A." No aparece en el catalogo PCM ni en Interfases.'
+- url: https://www.todolicitaciones.pe/licitacion/ocds-dgv273-seacev3-1183724/servicio-de-implementacion-de-plataforma-de-contact-center-omnicanal-integrando-un-bot-y-asistente-virtual-para-la-atencion-de-los
+  fecha_captura: '2026-07-26'
+  descripcion: Adjudicado a Belltech Peru SAC por S/ 710,000 (presupuesto referencial era S/ 770,000). SEDAPAR ya operaba un asistente previo llamado "Celeste" desde 2023; este contrato parece ampliar/reemplazar ese canal.
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionado con el registro sin numero de proceso: mismo objeto contractual (plataforma omnicanal con asistente virtual), confirmado como el mismo proceso CP SER-SM-18-2025-SEDAPAR-1.'

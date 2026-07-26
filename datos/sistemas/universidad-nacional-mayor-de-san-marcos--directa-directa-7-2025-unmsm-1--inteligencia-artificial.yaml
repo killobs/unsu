@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1165948).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Evaluacion de relevancia: Es la compra de un equipo biorreactor (hardware de laboratorio) como insumo de un proyecto de investigacion mas amplio sobre nanobiofertilizantes que usa IA en sus fases de analisis -- el biorreactor en si no es un sistema de IA.'

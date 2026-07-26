@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: 'Sin informacion mas alla del catalogo oficial PCM, que para esta aplicacion no reporta tecnologia ni descripcion (''-'' en la columna de tecnologias). Limitacion de la fuente oficial misma, no de esta investigacion: un estudio academico revisado por pares (Huancapaza Hilasaca, 2025, Interfases n.22) senala que ninguna de las 22 aplicaciones del catalogo PCM analizado tiene ficha tecnica publica.'

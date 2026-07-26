@@ -19,5 +19,8 @@ evidencia:
 - url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
+- url: https://revistafenix.bnp.gob.pe/index.php/fenix/article/view/688
+  fecha_captura: '2026-07-26'
+  descripcion: Articulo institucional de la BNP sobre IA en modernizacion de servicios bibliotecarios (contexto, no confirmacion directa del chatbot).
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: Sin fuente primaria especifica del chatbot encontrada en esta ronda. Hay evidencia de que la IA en bibliotecas es una linea de trabajo activa de la BNP (articulo institucional en su revista FENIX), pero no un anuncio del chatbot en si.

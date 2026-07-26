@@ -9,15 +9,21 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: '289027.61'
-estado: indeterminado
+estado: en_operacion
 tecnologias: ''
 clasificacion_riesgo_propia: pendiente_de_clasificar
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
-nivel_confianza: inferido_contratacion
+nivel_confianza: confirmado_fuente_oficial
 evidencia:
 - url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1182814-2026-02-12T10:06:04.253251-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1182814).'
+- url: https://www.gob.pe/institucion/promperu/noticias/1375589-mincetur-y-promperu-lanzan-asistente-virtual-con-inteligencia-artificial-para-planificar-viajes-al-peru
+  fecha_captura: '2026-07-26'
+  descripcion: 'Comunicado oficial: MINCETUR y PROMPERU lanzan el asistente virtual integrado en peru.travel.'
+- url: https://portaldeturismo.pe/turismo-in-summit-2025-promperu-lanza-planificador-de-viajes-con-ia-para-personalizar-la-experiencia-turistica/
+  fecha_captura: '2026-07-26'
+  descripcion: Anuncio del piloto en Turismo In Summit 2025 (set. 2025), lanzamiento previsto dic. 2025.
 fecha_alta_registro: '2026-07-26'
 notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.

@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1142337).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Evaluacion de relevancia: El monto (S/ 9,348.57) y el nombre exacto de la finalidad coinciden con un programa comercial de MIT Professional Education llamado ''Inteligencia Artificial Generativa Aplicada a la Transformacion Digital''. Es probable que sea la compra de un curso/certificacion para personal del BCRP, no un sistema de IA. No confirmado con fuente que vincule explicitamente al BCRP con el programa.'

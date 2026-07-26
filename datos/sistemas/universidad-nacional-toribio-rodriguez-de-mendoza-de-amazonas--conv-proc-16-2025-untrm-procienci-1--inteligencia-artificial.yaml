@@ -19,5 +19,8 @@ evidencia:
 - url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1122088-2025-06-05T10:14:52.350875-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1122088).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1140822-2025-08-15T10:11:53.167990-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1140822).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionado con conv-proc-24-2025: mismo objeto (muestreador hidraulico de suelos), mismo monto (S/ 10,500.00), mismo proyecto CoffeeMap3D -- probable re-convocatoria del mismo proceso. Evaluacion de relevancia: Es la compra de un muestreador hidraulico de suelos (equipo de campo) para el proyecto CoffeeMap3D -- insumo de investigacion agronomica, no un sistema de IA en si mismo.'

@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1178943).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. No es un sistema de IA independiente: es infraestructura fisica (servidores, gabinetes, adecuacion del ambiente, seguridad) para el laboratorio EleccIA I+LAB del JNE. El sistema de IA real es ''jurado-nacional-de-elecciones--eleccia''. Se conserva como registro de gasto publico relacionado, no como sistema separado.'

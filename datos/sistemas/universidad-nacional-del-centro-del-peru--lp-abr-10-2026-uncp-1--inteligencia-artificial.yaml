@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2026 (ocid: ocds-dgv273-seacev3-1233782).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Evaluacion de relevancia: Es la compra de camaras, filmadoras y drones (equipos audiovisuales convencionales) para un ''Laboratorio de Creatividad con IA'' -- el vinculo con IA es el nombre del laboratorio, no el objeto de la compra en si.'

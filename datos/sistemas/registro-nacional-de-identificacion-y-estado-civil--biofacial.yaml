@@ -9,7 +9,7 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: ''
-estado: indeterminado
+estado: en_operacion
 tecnologias: Reconocimiento facial, Deep Learning
 clasificacion_riesgo_propia: pendiente_de_clasificar
 mapeo_eu_ai_act: ''
@@ -19,5 +19,11 @@ evidencia:
 - url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
+- url: https://play.google.com/store/apps/details?id=pe.gob.reniec.dnibioface
+  fecha_captura: '2026-07-26'
+  descripcion: App DNI BioFacial en Google Play, usada en tramites no presenciales; se reporta uso por cerca de 3 millones de peruanos.
+- url: https://identidad.reniec.gob.pe/innovacion-tecnologica
+  fecha_captura: '2026-07-26'
+  descripcion: Pagina institucional de innovacion tecnologica de RENIEC.
 fecha_alta_registro: '2026-07-26'
 notas: ''

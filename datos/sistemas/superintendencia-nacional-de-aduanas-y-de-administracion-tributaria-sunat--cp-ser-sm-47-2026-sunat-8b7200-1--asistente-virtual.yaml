@@ -9,15 +9,18 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: '0.0'
-estado: indeterminado
+estado: en_operacion
 tecnologias: ''
 clasificacion_riesgo_propia: pendiente_de_clasificar
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
-nivel_confianza: inferido_contratacion
+nivel_confianza: confirmado_fuente_oficial
 evidencia:
 - url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2026-2000-23-2026-07-10T10:41:47.699316-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "asistente virtual" en contrataciones OECE 2026 (ocid: ocds-dgv273-seacev3-2026-2000-23).'
+- url: https://www.sunat.gob.pe/institucional/contactenos/virtual_asistente_Sofia.html
+  fecha_captura: '2026-07-26'
+  descripcion: Asistente Sofia (IBM Watson/IBM Cloud) operativo desde hace anios. Este proceso (2026) es la renovacion anual del contrato de nube -- confirmado como proceso DISTINTO del de 2025 (codigo de oficina 8B7200 se reutiliza anio a anio para contrataciones tecnologicas separadas), no un duplicado.
 fecha_alta_registro: '2026-07-26'
 notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.

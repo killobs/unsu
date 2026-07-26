@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1086360).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional confirmada. Existe un proceso BCRP distinto (LSP-0007-2025-BCRPLIM) que exige capacidades de IA/ML para mantenimiento predictivo de instalaciones -- no se pudo confirmar si es el mismo proceso que este registro.

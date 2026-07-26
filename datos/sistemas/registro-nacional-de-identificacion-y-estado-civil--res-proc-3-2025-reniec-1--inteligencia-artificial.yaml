@@ -19,5 +19,14 @@ evidencia:
 - url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1210646-2026-05-01T10:33:29.522578-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1210646).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1210689-2026-05-01T10:33:07.643799-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1210689).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1214826-2026-05-15T10:33:50.033290-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1214826).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1221986-2026-07-08T12:25:09.214024-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1221986).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionado con reniec-2, reniec-3 y reniec-4: mismo proceso PAS N.° 03-2025/RENIEC/LEY N.° 32416 (chatbot AIVO en PaaS), capturado 4 veces. reniec-4 traia un presupuesto distinto (S/ 1,080,064.00 vs S/ 740,911.56 en los otros tres) -- posible actualizacion del valor referencial entre releases; se conserva la cifra original y se anota la discrepancia. RENIEC ya opera un asistente distinto llamado "Renata"; no esta confirmado si AIVO la reemplaza o es un canal adicional.'

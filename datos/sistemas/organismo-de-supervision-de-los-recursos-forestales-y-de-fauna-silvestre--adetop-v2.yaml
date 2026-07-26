@@ -6,10 +6,10 @@ nivel_gobierno: nacional
 finalidad: Detecta tala selectiva de árboles en bosques amazónicos mediante imágenes satelitales, optimizando la supervisión remota y fiscalización forestal.
 tipo_decision: ''
 supervision_humana_declarada: no_declarado
-proveedor: ''
+proveedor: Desarrollado con apoyo del Servicio Forestal de EE.UU. y las universidades de Sheffield y Cambridge (no es un proveedor comercial peruano).
 vinculo_contractual: ''
 presupuesto: ''
-estado: indeterminado
+estado: en_operacion
 tecnologias: Machine Learning (Random Forest), imágenes satelitales (Sentinel-2, Landsat), visión por computadora, análisis geoespacial
 clasificacion_riesgo_propia: pendiente_de_clasificar
 mapeo_eu_ai_act: ''
@@ -19,5 +19,11 @@ evidencia:
 - url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
+- url: https://www.infobae.com/peru/2025/07/15/peru-lanza-inteligencia-artificial-que-detecta-tala-ilegal-desde-el-espacio-en-tiempo-real/
+  fecha_captura: '2026-07-26'
+  descripcion: Lanzamiento de ADETOP v2, julio 2025.
+- url: https://www.infobae.com/peru/2025/08/31/osinfor-gana-el-premio-mapbiomas-peru-2025-por-innovar-en-monitoreo-forestal-con-inteligencia-artificial/
+  fecha_captura: '2026-07-26'
+  descripcion: OSINFOR gana el Premio MapBiomas Peru 2025 por ADETOP v2 -- reconocimiento externo, no autopromocion.
 fecha_alta_registro: '2026-07-26'
 notas: ''

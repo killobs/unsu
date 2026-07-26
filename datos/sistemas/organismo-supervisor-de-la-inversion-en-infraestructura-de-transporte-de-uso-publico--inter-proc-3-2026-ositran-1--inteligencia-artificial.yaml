@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2026 (ocid: ocds-dgv273-seacev3-1219729).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Evaluacion de relevancia: El nombre de la finalidad (''Inteligencia Artificial Agentica Aplicada a la Transformacion Empresarial'') coincide textualmente con un programa comercial de MIT Professional Education/Global Alumni. El presupuesto (S/ 27,365.88) es compatible con la matricula de un participante en ese tipo de programa ejecutivo. Probable compra de capacitacion, no un sistema de IA. No confirmado con fuente que vincule explicitamente a OSITRAN.'

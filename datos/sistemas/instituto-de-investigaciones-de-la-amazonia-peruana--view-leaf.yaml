@@ -19,5 +19,8 @@ evidencia:
 - url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
+- url: https://repositorio.iiap.gob.pe/items/16ebf6f5-e154-4961-8666-3e4af2b2b750
+  fecha_captura: '2026-07-26'
+  descripcion: Dataset de clasificacion de hojas de especies amazonicas del IIAP -- posible base cientifica, no confirma la app terminada.
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: 'Sin evidencia adicional encontrada: la aplicacion no aparece indexada en tiendas de apps ni en el sitio del IIAP. Existe un dataset publico del IIAP de clasificacion de hojas (CNN/VGG-19) tematicamente relacionado, pero no menciona la app ''View Leaf'' por nombre. Es el registro con la verificacion mas debil del conjunto.'

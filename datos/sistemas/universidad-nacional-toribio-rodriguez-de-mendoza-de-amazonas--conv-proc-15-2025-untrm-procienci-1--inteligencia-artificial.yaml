@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1120944).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Evaluacion de relevancia: Es la compra de un espectrometro NIR (equipo de laboratorio) para el proyecto de investigacion CoffeeMap3D, que si usa sensoramiento remoto e IA en sus fases de analisis de datos -- pero esta contratacion puntual es instrumentacion cientifica, no un sistema de IA.'

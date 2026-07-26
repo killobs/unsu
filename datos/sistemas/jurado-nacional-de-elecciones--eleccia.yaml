@@ -9,7 +9,7 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: ''
-estado: indeterminado
+estado: en_operacion
 tecnologias: Inteligencia Artificial, procesamiento jurídico automatizado, evaluación documental
 clasificacion_riesgo_propia: pendiente_de_clasificar
 mapeo_eu_ai_act: ''
@@ -19,5 +19,14 @@ evidencia:
 - url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
+- url: https://peru21.pe/politica/elecciones-2026-herramienta-del-jne-permite-gestionar-mas-de-111-mil-expedientes-de-inscripcion-de-candidatos/
+  fecha_captura: '2026-07-26'
+  descripcion: 'En uso real: mas de 111,000 expedientes de inscripcion de candidatos gestionados, tiempos de revision reducidos de 96 a 18 horas.'
+- url: https://portal.jne.gob.pe/portal_documentos/files/d19e2fc8-b554-4b70-a563-f9f9efd65101.pdf
+  fecha_captura: '2026-07-26'
+  descripcion: Directiva oficial del JNE para el uso de EleccIA en las Elecciones Generales 2026.
+- url: https://larepublica.pe/politica/2026/07/16/jne-advierte-deficit-de-s261-millones-que-pone-en-riesgo-erm-es-de-suma-urgencia-contar-con-los-recursos-hnews-1145600
+  fecha_captura: '2026-07-26'
+  descripcion: 'Julio 2026: el JNE advierte un deficit presupuestal de S/ 261 millones que pone en riesgo la continuidad del sistema para las Elecciones Regionales y Municipales 2026.'
 fecha_alta_registro: '2026-07-26'
 notas: ''

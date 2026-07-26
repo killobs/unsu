@@ -9,7 +9,7 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: ''
-estado: indeterminado
+estado: en_operacion
 tecnologias: IA Generativa, NLP, análisis jurídico automatizado
 clasificacion_riesgo_propia: pendiente_de_clasificar
 mapeo_eu_ai_act: ''
@@ -19,5 +19,11 @@ evidencia:
 - url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
+- url: https://www.pj.gob.pe/wps/wcm/connect/cortesuprema/s_cortes_suprema_home/as_inicio/as_enlaces_destacados/as_imagen_prensa/as_notas_noticias/2025/cs_n-pj-presenta-asistente-de-inteligencia-artificial-curia-para-optimizar-servicio-de-justicia-14032025
+  fecha_captura: '2026-07-26'
+  descripcion: Presentacion oficial de CURIA por el Poder Judicial, marzo 2025.
+- url: https://www.gob.pe/institucion/pj/noticias/1326966-poder-judicial-implementa-herramienta-ia-chatbot-curia-en-tres-cortes-superiores-de-lima-metropolitana
+  fecha_captura: '2026-07-26'
+  descripcion: Implementacion en tres Cortes Superiores de Lima Metropolitana.
 fecha_alta_registro: '2026-07-26'
 notas: ''

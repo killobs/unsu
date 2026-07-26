@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2026 (ocid: ocds-dgv273-seacev3-1223687).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional encontrada mas alla del registro de contratacion. Proceso reciente (2026), posiblemente sin cobertura publica todavia.

@@ -9,15 +9,21 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: '66670.0'
-estado: indeterminado
+estado: en_operacion
 tecnologias: ''
 clasificacion_riesgo_propia: pendiente_de_clasificar
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
-nivel_confianza: inferido_contratacion
+nivel_confianza: confirmado_fuente_oficial
 evidencia:
 - url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-1983-32-2025-06-26T10:13:27.949622-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-2025-1983-32).'
+- url: https://www.gob.pe/institucion/citemadera/noticias/1403361-tecnologia-arbortron-fortalece-la-identificacion-de-especies-maderables-y-la-trazabilidad-forestal-en-la-amazonia
+  fecha_captura: '2026-07-26'
+  descripcion: 'ArborTron: dispositivo portatil de vision artificial que identifica 53 especies maderables en campo sin conexion, CITEmadera-ITP en alianza con OSINFOR.'
+- url: https://innovacion.concytec.gob.pe/2025/casos_de_exito/instituto-tecnologico-de-la-produccionarbortron-identifica-la-especies-de-madera-con-precision/
+  fecha_captura: '2026-07-26'
+  descripcion: Caso de exito documentado por CONCYTEC.
 fecha_alta_registro: '2026-07-26'
 notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.

@@ -9,15 +9,18 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: '798074.68'
-estado: indeterminado
+estado: en_operacion
 tecnologias: ''
 clasificacion_riesgo_propia: pendiente_de_clasificar
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
-nivel_confianza: inferido_contratacion
+nivel_confianza: confirmado_fuente_oficial
 evidencia:
 - url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-2000-13-2025-07-23T10:11:04.839169-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "asistente virtual" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-2025-2000-13).'
+- url: https://www.gob.pe/25674-conoce-al-asistente-virtual-sofia
+  fecha_captura: '2026-07-26'
+  descripcion: Renovacion 2025 del contrato de nube de Sofia -- proceso distinto de la renovacion 2026 (CP SER-SM-47-2026), no duplicado.
 fecha_alta_registro: '2026-07-26'
 notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.

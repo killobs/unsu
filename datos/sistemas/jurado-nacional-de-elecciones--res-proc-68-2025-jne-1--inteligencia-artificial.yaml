@@ -19,5 +19,11 @@ evidencia:
 - url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1179231-2025-12-21T10:00:46.364480-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1179231).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1179462-2026-04-10T10:15:16.249852-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1179462).'
+- url: https://eseg.jne.gob.pe/assets/pdf/publicaciones/Relatoria-Digital_Congreso-Internacional.pdf
+  fecha_captura: '2026-07-26'
+  descripcion: Relatoria oficial del congreso, confirma que el evento se ejecuto (27-29 nov. 2025).
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionado con res-proc-75-2025-jne-1: finalidad textual identica (servicio de produccion del I Congreso Internacional "Justicia Electoral y Gobernanza en tiempos de Inteligencia Artificial", Lima, 27-29 nov. 2025), casi con certeza items del mismo procedimiento. No es un sistema de IA: es el servicio de produccion del I Congreso Internacional ''Justicia Electoral y Gobernanza en tiempos de Inteligencia Artificial'' (Lima, 27-29 nov. 2025), organizado por el JNE. Se conserva como registro de gasto publico relacionado a IA, no como sistema.'

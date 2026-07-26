@@ -9,7 +9,7 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: ''
-estado: indeterminado
+estado: en_operacion
 tecnologias: Inteligencia Artificial, NLP, emparejamiento inteligente, microservicios web, ontologías ocupacionales
 clasificacion_riesgo_propia: pendiente_de_clasificar
 mapeo_eu_ai_act: ''
@@ -19,5 +19,11 @@ evidencia:
 - url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
+- url: https://www.gob.pe/institucion/mtpe/noticias/647328-mtpe-lanza-su-nueva-bolsa-de-trabajo-con-inteligencia-artificial-con-acceso-gratuito-para-promover-mas-de-140-mil-empleos-al-ano
+  fecha_captura: '2026-07-26'
+  descripcion: Lanzamiento oficial MTPE, meta declarada de 140,000 empleos/anio.
+- url: https://www.infobae.com/america/peru/2022/09/07/mtpe-implementa-inteligencia-artificial-en-su-bolsa-de-trabajo-para-impulsar-la-busqueda-de-empleo/
+  fecha_captura: '2026-07-26'
+  descripcion: 'Cobertura de prensa: 104,264 vacantes promovidas ene-ago 2022 (+24% vs 2021).'
 fecha_alta_registro: '2026-07-26'
 notas: ''

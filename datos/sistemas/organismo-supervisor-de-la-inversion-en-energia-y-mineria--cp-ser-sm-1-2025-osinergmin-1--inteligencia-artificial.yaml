@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-2025-1921-113).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional encontrada. El analisis de nombres/codigos SEACE sugiere que este proceso (plataforma e infraestructura de datos e IA, S/ 5.9M) es COMPLEMENTARIO al proceso SM-2 (implementacion de soluciones de IA generativa, S/ 6M) -- infraestructura base vs. soluciones aplicadas -- no el mismo proceso duplicado, aunque no se pudo confirmar de forma concluyente.
