@@ -58,11 +58,15 @@ def _coincide_frase_exacta(termino, resultado):
 def _url_evidencia(resultado):
     releases = resultado.get("releases", [])
     if releases and releases[0].get("url"):
-        return releases[0]["url"]
-    sources = resultado.get("compiledRelease", {}).get("sources", [])
-    if sources:
-        return sources[0].get("url", "")
-    return ""
+        url = releases[0]["url"]
+    else:
+        sources = resultado.get("compiledRelease", {}).get("sources", [])
+        url = sources[0].get("url", "") if sources else ""
+    # La propia API del OECE devuelve, en algunas releases historicas, URLs con
+    # el dominio anterior "osce.gob.pe" que ya no resuelve (DNS muerto,
+    # confirmado a mano). El dominio vigente es "oece.gob.pe" -- se normaliza
+    # aqui para no guardar enlaces rotos como evidencia.
+    return url.replace("contratacionesabiertas.osce.gob.pe", "contratacionesabiertas.oece.gob.pe")
 
 
 def barrer(años):

@@ -16,7 +16,7 @@ mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: inferido_contratacion
 evidencia:
-- url: https://contratacionesabiertas.osce.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-1983-32-2025-06-26T10:13:27.949622-05:00
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-1983-32-2025-06-26T10:13:27.949622-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-2025-1983-32).'
 fecha_alta_registro: '2026-07-26'
