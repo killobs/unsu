@@ -10,7 +10,7 @@ El valor del proyecto está en el archivo acumulado y en la comparación entre l
 - ✅ Fase 0 — prueba de detectabilidad ([docs/fase-0-detectabilidad.md](docs/fase-0-detectabilidad.md))
 - ✅ Fase 1 — carga inicial: 28 fichas de sistema, 27 fichas de entidad, dos líneas base citadas (Interfases + catálogo PCM) y dos candidatos descubiertos por barrido de contrataciones
 - ✅ Fase 2 — captura automática: extractores para OECE y PNSSP, workflows diarios/semanales, alertas automáticas por fallo repetido. `normas_gobpe.py` y `planes_gobierno_digital.py` documentados como pendientes (sin índice centralizado que scrapear, ver `docs/bitacora.md`)
-- ⏳ Fase 3 — capa de historial (diffs desde Git) — no iniciada
+- ✅ Fase 3 — capa de historial: `historial/generar_historial.py` lee `git log`/`git show` y compara los YAML ya parseados campo por campo (incluida una comparación por clave natural para `obligaciones` y `evidencia`, no por bloque completo) — no reimplementa diffing de texto, esa parte la sigue haciendo Git
 - ⏳ Fase 4 — sitio público (Next.js, Cloudflare Pages) — no iniciada
 
 ## Restricciones del proyecto

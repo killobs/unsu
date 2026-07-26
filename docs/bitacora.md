@@ -27,3 +27,10 @@
 - `.github/workflows/captura-diaria.yml` (contrataciones recientes + PNSSP) y `captura-semanal.yml` (barrido histórico completo de contrataciones) — commitean solo si `git diff --cached` no está vacío, y llaman a `extractores/comun/alertar.py` al final, que abre un issue con `gh issue create` si algún extractor lleva 2+ corridas fallando (evita duplicar issues buscando uno abierto con el mismo título primero).
 - Única dependencia externa nueva: `PyYAML`, para escribir los YAML deterministas. Ya estaba disponible en este entorno; se declaró en `requirements.txt` para que el workflow de GitHub Actions la instale.
 - Resultado de la primera corrida real: 34 sistemas y 15 entidades nuevas desde `oece_contrataciones.py` (candidatos, no confirmados), 1 entidad actualizada por `pnssp.py` (PCM, 5 software con licencia libre declarada, sin repositorio verificable).
+- Repositorio publicado en `https://github.com/killobs/unsu` (creado como privado por defecto; se cambió a público a pedido explícito, requisito del prompt original §1.3 para minutos de GitHub Actions gratis ilimitados).
+
+## 2026-07-26 — Fase 3 (capa de historial)
+
+- `historial/generar_historial.py`: usa `git log --follow` y `git show` para leer cada versión de una ficha, y compara los diccionarios YAML ya parseados campo por campo — no reimplementa diffing de texto, eso lo sigue haciendo Git (prompt original §7, Fase 3).
+- Ajuste tras la primera prueba: el diff ingenuo campo-por-campo reportaba la lista completa de `obligaciones` como "cambiada" aunque solo una obligación se hubiera actualizado (probado con el cambio real que dejó `pnssp.py` en la PCM). Se agregó una comparación por clave natural (`obligacion` para obligaciones, `url` para evidencia) que reporta `obligaciones[Código fuente publicado].evidencia: [] -> [...]` en vez de las seis obligaciones completas dos veces.
+- No se generó ni commiteó un historial estático por cada una de las ~104 fichas: con solo dos commits en el repo, sería puro ruido de "alta inicial" repetido 104 veces. El script se deja como utilidad que corre bajo demanda (por archivo) y que el sitio (Fase 4) va a poder invocar en tiempo de build.
