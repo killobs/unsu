@@ -1,5 +1,6 @@
 id: jurado-nacional-de-elecciones
 nombre: JURADO NACIONAL DE ELECCIONES
+jurisdiccion: PE
 sector: Electoral
 nivel_gobierno: nacional
 obligaciones:

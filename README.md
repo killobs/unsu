@@ -12,6 +12,7 @@ El valor del proyecto está en el archivo acumulado y en la comparación entre l
 - ✅ Fase 2 — captura automática: extractores para OECE y PNSSP, workflows diarios/semanales, alertas automáticas por fallo repetido. `normas_gobpe.py` y `planes_gobierno_digital.py` documentados como pendientes (sin índice centralizado que scrapear, ver `docs/bitacora.md`)
 - ✅ Fase 3 — capa de historial: `historial/generar_historial.py` lee `git log`/`git show` y compara los YAML ya parseados campo por campo (incluida una comparación por clave natural para `obligaciones` y `evidencia`, no por bloque completo) — no reimplementa diffing de texto, esa parte la sigue haciendo Git
 - ✅ Fase 4 — sitio en `sitio/` (Next.js 16, App Router, export estático): índice filtrable por sector/riesgo/nivel de confianza, ficha por sistema, ficha por entidad con sus obligaciones, panel de cumplimiento con cuenta regresiva al 10 de setiembre de 2026, bilingüe (es/en). **Falta conectar el hosting en Cloudflare Pages** — eso requiere tu cuenta, ver abajo.
+- ✅ Bloque "fundacionales" de [docs/estrategia.md](docs/estrategia.md): licencia dual, esquema publicado como especificación independiente, dataset completo descargable en un solo archivo, campo de jurisdicción. **Pendientes del resto de la estrategia** (README en inglés formato estudio de caso, model cards completas, mapeo ISO 42001, informe de cumplimiento exportable, guía de reutilización, `docs/retomar.md`, estado de última captura visible en el sitio) — ver la auditoría completa en `docs/bitacora.md`, entrada del 2026-07-26.
 
 ## Restricciones del proyecto
 
@@ -38,10 +39,14 @@ registro-ia-publica/
 │   ├── linea-base-interfases.csv  22 aplicaciones del catálogo académico de Interfases, con cita
 │   └── linea-base-pcm.csv         24 aplicaciones del catálogo oficial PCM/SGTD, con cita
 ├── docs/
+│   ├── estrategia.md               para qué existe el proyecto y qué decisiones no se toman en contra
 │   ├── verificacion-terreno.md
 │   ├── fase-0-detectabilidad.md
-│   ├── metodologia.md             criterios de detección y clasificación de riesgo (ES/EN)
-│   └── bitacora.md                decisiones técnicas y su motivo
+│   ├── metodologia.md              criterios de detección y clasificación de riesgo (ES/EN)
+│   ├── esquema/                    especificación de datos, versionada e independiente (ES/EN)
+│   └── bitacora.md                 decisiones técnicas y su motivo
+├── LICENSE                         código, MIT
+├── LICENSE-DATOS.md                datos, CC BY-SA 4.0 (ES/EN)
 ├── requirements.txt
 └── README.md
 ```
@@ -70,8 +75,12 @@ Cada push a `main` (incluidos los commits automáticos de captura diaria/semanal
 
 ## Esquema de datos
 
-Ver [docs/metodologia.md](docs/metodologia.md) §5-6 para los campos de `datos/sistemas/*.yaml` y `datos/entidades/*.yaml`, en orden determinista para que el diff de Git sea legible.
+Especificación versionada e independiente en [docs/esquema/](docs/esquema/) — pensada para que alguien pueda adoptarla en otro país, no solo para documentar este repositorio. Ver también [docs/metodologia.md](docs/metodologia.md) §5-6 para los criterios de llenado.
+
+## Licencia
+
+Licencia dual: el **código** (`extractores/`, `sitio/`, `historial/`) es MIT — ver [LICENSE](LICENSE). Los **datos** (`datos/`) son CC BY-SA 4.0 (atribución + compartir igual) — ver [LICENSE-DATOS.md](LICENSE-DATOS.md). Cualquier uso de la línea base de Interfases requiere además su cita académica completa, detallada en ese mismo archivo.
 
 ## Fuentes
 
-Ver la tabla de fuentes en el prompt original del proyecto y las citas dentro de cada ficha de `datos/sistemas/`.
+Ver la tabla de fuentes en el prompt original del proyecto y las citas dentro de cada ficha de `datos/sistemas/`. La estrategia y las decisiones de posicionamiento del proyecto están en [docs/estrategia.md](docs/estrategia.md).

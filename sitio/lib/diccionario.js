@@ -57,6 +57,10 @@ export const diccionario = {
     volverEntidad: "← Volver a la entidad",
     piePropia: "Clasificación de riesgo propia del proyecto, no oficial.",
     pieFuente: "Código y datos: ",
+    pieDescarga: "Descargar todo el conjunto de datos (JSON)",
+    pieLicencia: "Código bajo licencia MIT, datos bajo CC BY-SA 4.0.",
+    pieInterfases:
+      "Incluye la línea base de Huancapaza Hilasaca, J. E. (2025). Implementación de inteligencia artificial en el Estado peruano: catálogo analítico de aplicaciones. Interfases, (22), 143-158.",
     estados: {
       en_operacion: "En operación",
       piloto: "Piloto",
@@ -142,6 +146,10 @@ export const diccionario = {
     volverEntidad: "← Back to entity",
     piePropia: "Risk classification is the project's own, not official.",
     pieFuente: "Code and data: ",
+    pieDescarga: "Download the full dataset (JSON)",
+    pieLicencia: "Code under MIT license, data under CC BY-SA 4.0.",
+    pieInterfases:
+      "Includes the baseline from Huancapaza Hilasaca, J. E. (2025). Implementación de inteligencia artificial en el Estado peruano: catálogo analítico de aplicaciones. Interfases, (22), 143-158.",
     estados: {
       en_operacion: "In operation",
       piloto: "Pilot",

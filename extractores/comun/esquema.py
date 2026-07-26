@@ -1,8 +1,11 @@
 """Esquema de datos y utilidades de lectura/escritura determinista.
 
-Ver docs/metodologia.md §5-6 para la definición de cada campo. El orden de
-las claves es parte del contrato: no se reordena entre corridas, para que
-el diff de Git muestre solo lo que cambió de verdad (ver prompt original, §4).
+La especificación versionada e independiente vive en docs/esquema/ (pensada
+para ser adoptada por otro país, no solo para documentar este repositorio).
+Este módulo es la implementación de esa especificación para este repositorio
+en particular. El orden de las claves es parte del contrato: no se reordena
+entre corridas, para que el diff de Git muestre solo lo que cambió de verdad
+(ver prompt original, §4).
 """
 import glob
 import os
@@ -22,7 +25,10 @@ SISTEMA_ORDEN = [
     "nivel_confianza", "evidencia", "fecha_alta_registro", "notas",
 ]
 
-ENTIDAD_ORDEN = ["id", "nombre", "sector", "nivel_gobierno", "obligaciones"]
+ENTIDAD_ORDEN = ["id", "nombre", "jurisdiccion", "sector", "nivel_gobierno", "obligaciones"]
+
+# ISO 3166-1 alpha-2. Un solo valor por ahora -- ver docs/esquema/ §"segundo acto".
+JURISDICCION_POR_DEFECTO = "PE"
 
 OBLIGACIONES_BASE = [
     "Politica institucional de IA aprobada",
@@ -73,10 +79,11 @@ def cargar_entidades():
     return entidades
 
 
-def entidad_nueva(nombre, sector="Por clasificar", nivel_gobierno="nacional"):
+def entidad_nueva(nombre, sector="Por clasificar", nivel_gobierno="nacional", jurisdiccion=JURISDICCION_POR_DEFECTO):
     return {
         "id": slugify(nombre),
         "nombre": nombre,
+        "jurisdiccion": jurisdiccion,
         "sector": sector,
         "nivel_gobierno": nivel_gobierno,
         "obligaciones": [

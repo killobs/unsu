@@ -38,44 +38,13 @@ Lista de términos vigente (ver también `docs/fase-0-detectabilidad.md` para el
 
 Mapeo a EU AI Act y NIST AI RMF: se registra como referencia comparada, no como equivalencia jurídica — el marco peruano y el europeo no son intercambiables.
 
-### 5. Esquema de la ficha de sistema (`datos/sistemas/{id}.yaml`)
+### 5–6. Esquema de las fichas de sistema y entidad
 
-Campos en orden determinista (el orden es parte del contrato — no se reordena entre actualizaciones, para que el diff de Git sea legible):
-
-```
-id                        identificador estable (slug: entidad-nombre)
-entidad_id                referencia a datos/entidades/{id}.yaml
-nombre                    nombre del aplicativo
-sector
-nivel_gobierno            nacional | regional
-finalidad
-tipo_decision             qué decide o asiste a decidir
-supervision_humana_declarada   si | no | no_declarado
-proveedor
-vinculo_contractual
-presupuesto
-estado                    en_operacion | piloto | contratado_sin_desplegar | descontinuado | indeterminado
-tecnologias
-clasificacion_riesgo_propia
-mapeo_eu_ai_act
-mapeo_nist_ai_rmf
-nivel_confianza
-evidencia                 lista de {url, fecha_captura, descripcion}
-fecha_alta_registro
-notas
-```
-
-### 6. Esquema de la ficha de entidad (`datos/entidades/{id}.yaml`)
-
-```
-id
-nombre
-sector
-nivel_gobierno
-obligaciones               lista de {obligacion, estado, fecha_limite, evidencia}
-```
-
-Estados de obligación: `cumplido_con_evidencia`, `no_cumplido`, `no_verificable_desde_fuentes_publicas`, `no_aplica_todavia`. El estado "no verificable" nunca se convierte en "no cumplido" sin evidencia positiva de incumplimiento.
+La especificación completa de campos ya no vive aquí — se publicó como estándar abierto, versionado e
+independiente en [`docs/esquema/`](esquema/README.md), pensado para que otra jurisdicción pueda adoptarlo sin
+depender del código de este repositorio. Esta sección de metodología se queda con los *criterios de llenado*
+(qué significa cada valor, cuándo usar cada estado); `docs/esquema/` se queda con la *forma* (qué campos existen,
+de qué tipo, en qué orden).
 
 ---
 
@@ -99,6 +68,11 @@ The OECE open-contracting search API does fuzzy single-word matching, not exact-
 
 **This is the project's own classification, not Peru's official one** (no official per-system risk list exists yet). Loosely modeled on the EU AI Act's four tiers, applied with independent judgment: high risk (affects a fundamental right or has legal consequences), limited risk (direct citizen interaction, no rights decision), minimal risk (internal use only), or pending classification (insufficient source information).
 
-### 5–6. Schemas
+### 5–6. Record schemas
 
-See the Spanish section above — field names are kept in Spanish throughout the dataset for consistency with the sources, with English labels reserved for the bilingual site UI layer (Phase 4).
+The full field specification no longer lives here — it was published as an open, versioned, independent standard
+at [`docs/esquema/`](esquema/README.md), meant to be adoptable by another jurisdiction without depending on this
+repository's code. This methodology section keeps the *fill-in criteria* (what each value means, when to use
+each state); `docs/esquema/` keeps the *shape* (which fields exist, of what type, in what order). Field names are
+kept in Spanish throughout the dataset for consistency with the sources, with English labels reserved for the
+bilingual site UI layer (Phase 4).

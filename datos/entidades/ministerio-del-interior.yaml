@@ -1,5 +1,6 @@
 id: ministerio-del-interior
 nombre: MINISTERIO DEL INTERIOR
+jurisdiccion: PE
 sector: Interior
 nivel_gobierno: nacional
 obligaciones:

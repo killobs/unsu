@@ -1,5 +1,6 @@
 id: poder-judicial
 nombre: PODER JUDICIAL
+jurisdiccion: PE
 sector: Justicia
 nivel_gobierno: nacional
 obligaciones:

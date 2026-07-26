@@ -6,11 +6,15 @@ export default function Pie({ locale }) {
     <footer className="pie">
       <div className="contenedor">
         <p>{d.piePropia}</p>
+        <p>{d.pieInterfases}</p>
+        <p>{d.pieLicencia}</p>
         <p>
           {d.pieFuente}
           <a href="https://github.com/killobs/unsu" target="_blank" rel="noreferrer">
             github.com/killobs/unsu
           </a>
+          {" · "}
+          <a href="/datos.json">{d.pieDescarga}</a>
         </p>
       </div>
     </footer>
