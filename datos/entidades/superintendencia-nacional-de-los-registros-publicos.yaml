@@ -1,0 +1,29 @@
+id: superintendencia-nacional-de-los-registros-publicos
+nombre: SUPERINTENDENCIA NACIONAL DE LOS REGISTROS PÚBLICOS
+sector: Justicia y registros
+nivel_gobierno: nacional
+obligaciones:
+- obligacion: Politica institucional de IA aprobada
+  estado: no_verificable_desde_fuentes_publicas
+  fecha_limite: ''
+  evidencia: []
+- obligacion: Proyectos de IA incorporados en el Plan de Gobierno Digital
+  estado: no_verificable_desde_fuentes_publicas
+  fecha_limite: ''
+  evidencia: []
+- obligacion: Codigo fuente publicado en la Plataforma Nacional de Software Publico Peruano
+  estado: no_verificable_desde_fuentes_publicas
+  fecha_limite: ''
+  evidencia: []
+- obligacion: Documentacion de sistemas de riesgo alto
+  estado: no_verificable_desde_fuentes_publicas
+  fecha_limite: ''
+  evidencia: []
+- obligacion: Mecanismos de supervision humana declarados
+  estado: no_verificable_desde_fuentes_publicas
+  fecha_limite: ''
+  evidencia: []
+- obligacion: Transparencia algoritmica frente al usuario
+  estado: no_verificable_desde_fuentes_publicas
+  fecha_limite: ''
+  evidencia: []

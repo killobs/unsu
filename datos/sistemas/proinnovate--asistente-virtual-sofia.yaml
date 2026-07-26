@@ -1,0 +1,23 @@
+id: proinnovate--asistente-virtual-sofia
+entidad_id: proinnovate
+nombre: Asistente virtual SOFIA
+sector: Innovación y producción
+nivel_gobierno: nacional
+finalidad: ''
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: ''
+estado: indeterminado
+tecnologias: IBM Cloud
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/busqueda?year=2024
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado en la Fase 0 buscando "asistente virtual" en contrataciones OECE 2024: "SERVICIO DE SUSCRIPCION A IBM CLOUD O EQUIVALENTE PARA MANTENER EN FUNCIONAMIENTO EL ASISTENTE VIRTUAL SOFIA". No aparece en el catalogo PCM ni en Interfases.'
+fecha_alta_registro: '2026-07-26'
+notas: Pendiente de confirmacion oficial.

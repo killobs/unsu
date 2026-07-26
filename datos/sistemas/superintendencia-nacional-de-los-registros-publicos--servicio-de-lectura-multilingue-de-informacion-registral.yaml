@@ -1,0 +1,23 @@
+id: superintendencia-nacional-de-los-registros-publicos--servicio-de-lectura-multilingue-de-informacion-registral
+entidad_id: superintendencia-nacional-de-los-registros-publicos
+nombre: Servicio de lectura multilingüe de información registral
+sector: Justicia y registros
+nivel_gobierno: nacional
+finalidad: Lectura en audio de esquelas de títulos registrales en lenguas nativas (aimara, quechua) y otros idiomas.
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: ''
+estado: indeterminado
+tecnologias: IA, texto a voz, OCR, traducción automática multilingüe
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: confirmado_fuente_oficial
+evidencia:
+- url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
+  fecha_captura: '2026-07-26'
+  descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
+fecha_alta_registro: '2026-07-26'
+notas: ''

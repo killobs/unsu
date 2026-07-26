@@ -1,0 +1,23 @@
+id: servicio-de-agua-potable-y-alcantarillado-de-arequipa-sedapar-s-a--asistente-virtual-con-ia-plataforma-omnicanal
+entidad_id: servicio-de-agua-potable-y-alcantarillado-de-arequipa-sedapar-s-a
+nombre: Asistente virtual con IA (plataforma omnicanal)
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: ''
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: ''
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/busqueda?year=2024
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado en la Fase 0: "CONTRATACION DEL SERVICIO DE IMPLEMENTACION DE UN ASISTENTE VIRTUAL CON IA GESTIONADO POR UNA PLATAFORMA OMNICANAL PARA SEDAPAR S.A." No aparece en el catalogo PCM ni en Interfases.'
+fecha_alta_registro: '2026-07-26'
+notas: Pendiente de confirmacion oficial.

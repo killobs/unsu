@@ -1,0 +1,23 @@
+id: ministerio-de-educacion--smart-churay-yachay
+entidad_id: ministerio-de-educacion
+nombre: Smart Churay Yachay
+sector: Educación
+nivel_gobierno: nacional
+finalidad: ''
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: ''
+estado: indeterminado
+tecnologias: Inteligencia artificial, recursos offline, librerías DeepSeek y QWen, servicios en la nube
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: confirmado_fuente_oficial
+evidencia:
+- url: https://doi.org/10.26439/interfases2025.n022.8263
+  fecha_captura: '2026-07-26'
+  descripcion: 'Documentado en Huancapaza Hilasaca, J. E. (2025). Implementacion de inteligencia artificial en el Estado peruano: catalogo analitico de aplicaciones. Interfases, (22), 143-158. https://doi.org/10.26439/interfases2025.n022.8263 (archivado en datos/documentos/2025-12_interfases-huancapaza-catalogo-ia.pdf); ausente del catalogo PCM/SGTD version 2026-06-10 -- posible baja, cambio de nombre o reorganizacion, no confirmado.'
+fecha_alta_registro: '2026-07-26'
+notas: Presente en la linea base de Interfases (datos de agosto 2025) pero ausente en el catalogo oficial PCM mas reciente disponible (junio 2026). Estado indeterminado hasta verificar directamente con la entidad.

@@ -1,0 +1,1 @@
+{"aggregations":{"año":[{"count":3,"value":"2024","name":"2024"},{"count":1,"value":"2023","name":"2023"},{"count":2,"value":"2022","name":"2022"}]}}

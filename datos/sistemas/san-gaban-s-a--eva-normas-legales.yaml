@@ -1,0 +1,23 @@
+id: san-gaban-s-a--eva-normas-legales
+entidad_id: san-gaban-s-a
+nombre: EVA Normas Legales
+sector: Energía
+nivel_gobierno: nacional
+finalidad: Entidad virtual autónoma que identifica y selecciona normas legales publicadas diariamente en El Peruano de interés para San Gabán S.A. y notifica vía e-mail.
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: ''
+estado: indeterminado
+tecnologias: API ChatGPT, Power Automate
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: confirmado_fuente_oficial
+evidencia:
+- url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
+  fecha_captura: '2026-07-26'
+  descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
+fecha_alta_registro: '2026-07-26'
+notas: ''
