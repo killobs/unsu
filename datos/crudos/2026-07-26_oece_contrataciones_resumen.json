@@ -1,0 +1,182 @@
+[
+  {
+    "termino": "inteligencia artificial",
+    "año": "2025",
+    "bruto": 50,
+    "frase_exacta": 29
+  },
+  {
+    "termino": "inteligencia artificial",
+    "año": "2026",
+    "bruto": 45,
+    "frase_exacta": 6
+  },
+  {
+    "termino": "aprendizaje automático",
+    "año": "2025",
+    "bruto": 50,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "aprendizaje automático",
+    "año": "2026",
+    "bruto": 50,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "machine learning",
+    "año": "2025",
+    "bruto": 6,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "machine learning",
+    "año": "2026",
+    "bruto": 10,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "reconocimiento facial",
+    "año": "2025",
+    "bruto": 18,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "reconocimiento facial",
+    "año": "2026",
+    "bruto": 9,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "biometría",
+    "año": "2025",
+    "bruto": 0,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "biometría",
+    "año": "2026",
+    "bruto": 0,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "analítica predictiva",
+    "año": "2025",
+    "bruto": 13,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "analítica predictiva",
+    "año": "2026",
+    "bruto": 10,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "procesamiento de lenguaje natural",
+    "año": "2025",
+    "bruto": 50,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "procesamiento de lenguaje natural",
+    "año": "2026",
+    "bruto": 50,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "chatbot",
+    "año": "2025",
+    "bruto": 4,
+    "frase_exacta": 4
+  },
+  {
+    "termino": "chatbot",
+    "año": "2026",
+    "bruto": 0,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "asistente virtual",
+    "año": "2025",
+    "bruto": 50,
+    "frase_exacta": 4
+  },
+  {
+    "termino": "asistente virtual",
+    "año": "2026",
+    "bruto": 50,
+    "frase_exacta": 1
+  },
+  {
+    "termino": "visión computacional",
+    "año": "2025",
+    "bruto": 4,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "visión computacional",
+    "año": "2026",
+    "bruto": 3,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "modelo predictivo",
+    "año": "2025",
+    "bruto": 50,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "modelo predictivo",
+    "año": "2026",
+    "bruto": 50,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "algoritmo de scoring",
+    "año": "2025",
+    "bruto": 0,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "algoritmo de scoring",
+    "año": "2026",
+    "bruto": 0,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "deep learning",
+    "año": "2025",
+    "bruto": 5,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "deep learning",
+    "año": "2026",
+    "bruto": 9,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "IA generativa",
+    "año": "2025",
+    "bruto": 2,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "IA generativa",
+    "año": "2026",
+    "bruto": 0,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "voicebot",
+    "año": "2025",
+    "bruto": 0,
+    "frase_exacta": 0
+  },
+  {
+    "termino": "voicebot",
+    "año": "2026",
+    "bruto": 1,
+    "frase_exacta": 1
+  }
+]

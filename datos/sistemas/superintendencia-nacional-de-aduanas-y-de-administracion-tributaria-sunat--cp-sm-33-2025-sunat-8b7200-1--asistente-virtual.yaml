@@ -1,0 +1,23 @@
+id: superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--cp-sm-33-2025-sunat-8b7200-1--asistente-virtual
+entidad_id: superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat
+nombre: CP-SM-33-2025-SUNAT/8B7200-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: SERVICIO DE SUSCRIPCIÓN A IBM CLOUD O EQUIVALENTE PARA MANTENER EN FUNCIONAMIENTO EL ASISTENTE VIRTUAL SOFIA
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '798074.68'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.osce.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-2000-13-2025-07-23T10:11:04.839169-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "asistente virtual" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-2025-2000-13).'
+fecha_alta_registro: '2026-07-26'
+notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.

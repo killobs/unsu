@@ -1,0 +1,23 @@
+id: fondo-mivivienda-s-a--cp-abr-5-2025-fmv-2--inteligencia-artificial
+entidad_id: fondo-mivivienda-s-a
+nombre: CP-ABR-5-2025-FMV-2
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: SERVICIO DE IMPLEMENTACIÓN DE UNA PLATAFORMA OMNICANAL DE ATENCIÓN CIUDADANA CON INTELIGENCIA ARTIFICIAL CONVERSACIONAL EN EL FONDO MIVIVIENDA
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '483034.92'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1162794-2026-03-06T10:09:38.200781-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1162794).'
+fecha_alta_registro: '2026-07-26'
+notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.

@@ -1,0 +1,23 @@
+id: creacion-y-mejoramiento-del-servicio-de-catastro-en-distritos-seleccionados-de-las-provincias-de-lima-lambayeque-chiclayo-y-piura--conv-proc-42-2025-ue003-sdc-lt1-1--inteligencia-artificial
+entidad_id: creacion-y-mejoramiento-del-servicio-de-catastro-en-distritos-seleccionados-de-las-provincias-de-lima-lambayeque-chiclayo-y-piura
+nombre: CONV-PROC-42-2025-UE003-SDC- LT1-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Servicio de Desarrollo de aplicaciones basadas en Inteligencia Artificial para la Gestión del SICUN
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '33040.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1201828-2026-06-03T10:33:52.172427-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1201828).'
+fecha_alta_registro: '2026-07-26'
+notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.

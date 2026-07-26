@@ -9,7 +9,7 @@ El valor del proyecto está en el archivo acumulado y en la comparación entre l
 - ✅ Verificación de terreno ([docs/verificacion-terreno.md](docs/verificacion-terreno.md))
 - ✅ Fase 0 — prueba de detectabilidad ([docs/fase-0-detectabilidad.md](docs/fase-0-detectabilidad.md))
 - ✅ Fase 1 — carga inicial: 28 fichas de sistema, 27 fichas de entidad, dos líneas base citadas (Interfases + catálogo PCM) y dos candidatos descubiertos por barrido de contrataciones
-- ⏳ Fase 2 — captura automática (GitHub Actions) — no iniciada
+- ✅ Fase 2 — captura automática: extractores para OECE y PNSSP, workflows diarios/semanales, alertas automáticas por fallo repetido. `normas_gobpe.py` y `planes_gobierno_digital.py` documentados como pendientes (sin índice centralizado que scrapear, ver `docs/bitacora.md`)
 - ⏳ Fase 3 — capa de historial (diffs desde Git) — no iniciada
 - ⏳ Fase 4 — sitio público (Next.js, Cloudflare Pages) — no iniciada
 
@@ -21,8 +21,17 @@ Costo cero de operación. Sin base de datos. Repositorio público. Nada de Verce
 
 ```
 registro-ia-publica/
+├── .github/workflows/
+│   ├── captura-diaria.yml
+│   └── captura-semanal.yml
+├── extractores/
+│   ├── oece_contrataciones.py     detección por términos en contrataciones (activo)
+│   ├── pnssp.py                   verificación de publicación de código fuente (activo)
+│   ├── normas_gobpe.py            políticas institucionales (pendiente, ver docs/bitacora.md)
+│   ├── planes_gobierno_digital.py proyectos de IA declarados por entidad (pendiente, ídem)
+│   └── comun/                     cliente HTTP, esquema YAML, evidencia, estado de corridas
 ├── datos/
-│   ├── crudos/                    resultados brutos de barridos (ej. Fase 0)
+│   ├── crudos/                    resultados brutos de barridos y estado de extractores
 │   ├── sistemas/                  una ficha YAML por sistema detectado
 │   ├── entidades/                 una ficha YAML por entidad, con estado de cumplimiento
 │   ├── documentos/                PDF y capturas archivadas con fecha en el nombre
@@ -33,10 +42,11 @@ registro-ia-publica/
 │   ├── fase-0-detectabilidad.md
 │   ├── metodologia.md             criterios de detección y clasificación de riesgo (ES/EN)
 │   └── bitacora.md                decisiones técnicas y su motivo
+├── requirements.txt
 └── README.md
 ```
 
-Los directorios `extractores/` (captura automática) y `sitio/` (interfaz pública) se crean en las fases 2 y 4, respectivamente — no antes, para no adelantar trabajo sobre premisas aún no confirmadas.
+El directorio `sitio/` (interfaz pública) se crea en la Fase 4 — no antes, para no adelantar trabajo sobre premisas aún no confirmadas.
 
 ## Esquema de datos
 

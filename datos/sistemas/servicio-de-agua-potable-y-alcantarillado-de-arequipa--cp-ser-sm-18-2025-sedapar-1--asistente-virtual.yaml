@@ -1,0 +1,23 @@
+id: servicio-de-agua-potable-y-alcantarillado-de-arequipa--cp-ser-sm-18-2025-sedapar-1--asistente-virtual
+entidad_id: servicio-de-agua-potable-y-alcantarillado-de-arequipa
+nombre: CP SER-SM-18-2025-SEDAPAR-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: SERVICIO DE IMPLEMENTACION DE PLATAFORMA DE CONTACT CENTER OMNICANAL INTEGRANDO UN BOT Y ASISTENTE VIRTUAL PARA LA ATENCION DE LOS USUARIOS EXTERNOS DE SEDAPAR S.A.
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '770000.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1183724-2026-06-18T10:25:49.205742-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "asistente virtual" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1183724).'
+fecha_alta_registro: '2026-07-26'
+notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.

@@ -1,6 +1,6 @@
-id: presidencia-del-consejo-de-ministros
-nombre: PRESIDENCIA DEL CONSEJO DE MINISTROS
-sector: Gobierno digital
+id: universidad-nacional-de-huancavelica
+nombre: UNIVERSIDAD NACIONAL DE HUANCAVELICA
+sector: Por clasificar
 nivel_gobierno: nacional
 obligaciones:
 - obligacion: Politica institucional de IA aprobada
@@ -14,10 +14,7 @@ obligaciones:
 - obligacion: Codigo fuente publicado en la Plataforma Nacional de Software Publico Peruano
   estado: no_verificable_desde_fuentes_publicas
   fecha_limite: ''
-  evidencia:
-  - url: https://www.softwarepublico.gob.pe/catalogo/catalogo_servicios.aspx
-    fecha_captura: '2026-07-26'
-    descripcion: '5 software(s) registrados en PNSSP, con licencia declarada libre/abierta: ChatBOT Normativo - YachAI-Bot, GOBI - Guía de Orientación Basada en Inteligencia, GenIA - Sistema Inteligente de Transcripción y Documentación de Reuniones, Invoker Refirma, Sistema de Registro de Visitas. Sin enlace a repositorio de código verificable en la ficha de detalle.'
+  evidencia: []
 - obligacion: Documentacion de sistemas de riesgo alto
   estado: no_verificable_desde_fuentes_publicas
   fecha_limite: ''

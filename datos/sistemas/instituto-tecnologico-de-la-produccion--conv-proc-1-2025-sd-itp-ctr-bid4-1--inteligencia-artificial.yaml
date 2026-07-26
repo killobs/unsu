@@ -1,0 +1,23 @@
+id: instituto-tecnologico-de-la-produccion--conv-proc-1-2025-sd-itp-ctr-bid4-1--inteligencia-artificial
+entidad_id: instituto-tecnologico-de-la-produccion
+nombre: CONV-PROC-1-2025-SD-ITP/CTR-BID4-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: AMPLIACIÓN DE LA CAPACIDAD DE IDENTIFICACIÓN DE ESPECIES MADERABLES CON HERRAMIENTA TECNOLÓGICA QUE USA INTELIGENCIA ARTIFICIAL - ARBORTRON
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '66670.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.osce.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-1983-32-2025-06-26T10:13:27.949622-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-2025-1983-32).'
+fecha_alta_registro: '2026-07-26'
+notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.

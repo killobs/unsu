@@ -1,0 +1,23 @@
+id: banco-central-de-reserva-del-peru--inter-proc-19-2025-bcrplim-1--inteligencia-artificial
+entidad_id: banco-central-de-reserva-del-peru
+nombre: INTER-PROC-19-2025-BCRPLIM-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Programa de Inteligencia Artificial Generativa Aplicada a la Transformación Digital
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '9348.57'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1142337-2025-08-23T22:31:46.364673-05:00
+  fecha_captura: '2026-07-26'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1142337).'
+fecha_alta_registro: '2026-07-26'
+notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
