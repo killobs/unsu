@@ -1,0 +1,21 @@
+import { obtenerSistemas, obtenerSistema, obtenerEntidad } from "@/lib/datos";
+import FichaSistema from "@/components/FichaSistema";
+
+export function generateStaticParams() {
+  return obtenerSistemas().map((s) => ({ id: s.id }));
+}
+
+export default async function PaginaSistemaEs({ params }) {
+  const { id } = await params;
+  const sistema = obtenerSistema(id);
+  const entidad = sistema ? obtenerEntidad(sistema.entidad_id) : null;
+  return (
+    <FichaSistema
+      locale="es"
+      sistema={sistema}
+      entidad={entidad}
+      hrefEntidad={(eid) => `/entidades/${eid}`}
+      hrefIndice="/"
+    />
+  );
+}

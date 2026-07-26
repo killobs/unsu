@@ -11,7 +11,7 @@ El valor del proyecto está en el archivo acumulado y en la comparación entre l
 - ✅ Fase 1 — carga inicial: 28 fichas de sistema, 27 fichas de entidad, dos líneas base citadas (Interfases + catálogo PCM) y dos candidatos descubiertos por barrido de contrataciones
 - ✅ Fase 2 — captura automática: extractores para OECE y PNSSP, workflows diarios/semanales, alertas automáticas por fallo repetido. `normas_gobpe.py` y `planes_gobierno_digital.py` documentados como pendientes (sin índice centralizado que scrapear, ver `docs/bitacora.md`)
 - ✅ Fase 3 — capa de historial: `historial/generar_historial.py` lee `git log`/`git show` y compara los YAML ya parseados campo por campo (incluida una comparación por clave natural para `obligaciones` y `evidencia`, no por bloque completo) — no reimplementa diffing de texto, esa parte la sigue haciendo Git
-- ⏳ Fase 4 — sitio público (Next.js, Cloudflare Pages) — no iniciada
+- ✅ Fase 4 — sitio en `sitio/` (Next.js 16, App Router, export estático): índice filtrable por sector/riesgo/nivel de confianza, ficha por sistema, ficha por entidad con sus obligaciones, panel de cumplimiento con cuenta regresiva al 10 de setiembre de 2026, bilingüe (es/en). **Falta conectar el hosting en Cloudflare Pages** — eso requiere tu cuenta, ver abajo.
 
 ## Restricciones del proyecto
 
@@ -46,7 +46,27 @@ registro-ia-publica/
 └── README.md
 ```
 
-El directorio `sitio/` (interfaz pública) se crea en la Fase 4 — no antes, para no adelantar trabajo sobre premisas aún no confirmadas.
+```
+sitio/                             Next.js, export estático (Fase 4)
+├── app/(es)/                      árbol en español: /, /sistemas/[id], /entidades/[id], /metodologia
+├── app/(en)/en/                   árbol en inglés: /en, /en/systems/[id], /en/entities/[id], /en/methodology
+├── lib/datos.js                   lee datos/*.yaml en tiempo de build (sin base de datos, igual que el resto)
+├── lib/diccionario.js             textos de interfaz en ambos idiomas (los VALORES de los datos siguen en español)
+└── components/                    Cabecera, Pie, PanelCumplimiento, IndiceCliente (filtros), fichas
+```
+
+Los valores de los datos (nombres, finalidades, sectores) permanecen en español — traducirlos es curaduría aparte, no de esta fase. Solo la interfaz (navegación, encabezados, etiquetas de estado) es bilingüe.
+
+### Desplegar en Cloudflare Pages
+
+Esto necesita tu cuenta de Cloudflare, no lo puedo hacer yo:
+
+1. En el dashboard de Cloudflare Pages, conectar el repositorio `killobs/unsu`.
+2. Directorio raíz del build: `sitio`
+3. Comando de build: `npm run build`
+4. Directorio de salida: `out`
+
+Cada push a `main` (incluidos los commits automáticos de captura diaria/semanal) va a redesplegar el sitio con los datos más recientes.
 
 ## Esquema de datos
 
