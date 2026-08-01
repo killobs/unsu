@@ -11,13 +11,16 @@ export default function Cabecera({ locale }) {
     <header className="cabecera">
       <div className="contenedor">
         <Link href={enlaces.inicio} className="marca">
-          {d.tituloSitio}
+          <span className="marca__nombre">{d.marca}</span>
+          <span className="marca__producto">{d.heroProducto}</span>
         </Link>
         <nav className="navegacion">
           <Link href={enlaces.inicio}>{d.navSistemas}</Link>
           <Link href={enlaces.entidades}>{d.navEntidades}</Link>
           <Link href={enlaces.metodologia}>{d.navMetodologia}</Link>
-          <Link href={enlaces.otroIdioma}>{d.navIdioma}</Link>
+          <Link href={enlaces.otroIdioma} className="navegacion__idioma">
+            {d.navIdioma}
+          </Link>
         </nav>
       </div>
     </header>

@@ -1,4 +1,9 @@
-export const metadata = { title: "Metodología — Registro de IA Pública" };
+export const metadata = {
+  title: "Metodología",
+  description:
+    "Criterios de detección, clasificación de riesgo, niveles de confianza y reglas de evidencia del Registro de IA Pública.",
+  alternates: { canonical: "/metodologia", languages: { "es-PE": "/metodologia", en: "/en/methodology" } },
+};
 
 export default function PaginaMetodologiaEs() {
   return (

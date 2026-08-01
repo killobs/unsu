@@ -16,6 +16,15 @@ export default function IndiceCliente({ locale, sistemas, baseHrefSistema }) {
     [sistemas]
   );
 
+  const hayFiltro = Boolean(busqueda || sector || riesgo || confianza);
+
+  function limpiar() {
+    setBusqueda("");
+    setSector("");
+    setRiesgo("");
+    setConfianza("");
+  }
+
   const filtrados = useMemo(() => {
     const q = busqueda.trim().toLowerCase();
     return sistemas.filter((s) => {
@@ -72,6 +81,17 @@ export default function IndiceCliente({ locale, sistemas, baseHrefSistema }) {
             ))}
           </select>
         </label>
+      </div>
+
+      <div className="resultados">
+        <span className="resultados__conteo" aria-live="polite">
+          {d.conteoResultados(filtrados.length, sistemas.length)}
+        </span>
+        {hayFiltro ? (
+          <button type="button" className="resultados__limpiar" onClick={limpiar}>
+            {d.limpiarFiltros}
+          </button>
+        ) : null}
       </div>
 
       {filtrados.length === 0 ? (

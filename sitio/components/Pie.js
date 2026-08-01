@@ -5,6 +5,7 @@ export default function Pie({ locale }) {
   return (
     <footer className="pie">
       <div className="contenedor">
+        <p>{d.piePropiedad}</p>
         <p>{d.piePropia}</p>
         <p>{d.pieInterfases}</p>
         <p>{d.pieLicencia}</p>

@@ -1,4 +1,9 @@
-export const metadata = { title: "Methodology — Public AI Registry" };
+export const metadata = {
+  title: "Methodology",
+  description:
+    "Detection criteria, risk classification, confidence levels and evidence rules behind the Public AI Registry.",
+  alternates: { canonical: "/en/methodology", languages: { "es-PE": "/metodologia", en: "/en/methodology" } },
+};
 
 export default function PaginaMetodologiaEn() {
   return (

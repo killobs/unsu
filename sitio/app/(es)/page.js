@@ -1,7 +1,12 @@
-import { obtenerSistemas, obtenerEntidades, resumenCumplimiento } from "@/lib/datos";
+import { obtenerSistemas, obtenerEntidades, resumenCumplimiento, resumenRegistro } from "@/lib/datos";
 import { t } from "@/lib/diccionario";
+import Hero from "@/components/Hero";
+import Cifras from "@/components/Cifras";
+import DistribucionRiesgo from "@/components/DistribucionRiesgo";
+import Confianza from "@/components/Confianza";
 import PanelCumplimiento from "@/components/PanelCumplimiento";
 import IndiceCliente from "@/components/IndiceCliente";
+import { Revelar } from "@/components/Movimiento";
 
 export default function PaginaInicioEs() {
   const d = t("es");
@@ -12,13 +17,23 @@ export default function PaginaInicioEs() {
     entidadNombre: entidadesPorId[s.entidad_id]?.nombre ?? s.entidad_id,
   }));
   const cumplimiento = resumenCumplimiento();
+  const resumen = resumenRegistro();
 
   return (
     <>
-      <h1>{d.inicioTitulo}</h1>
-      <p className="intro">{d.inicioIntro}</p>
-      <PanelCumplimiento locale="es" cumplimiento={cumplimiento} numeroEntidades={entidades.length} />
-      <IndiceCliente locale="es" sistemas={sistemas} baseHrefSistema="/sistemas" />
+      <Hero locale="es" />
+      <Cifras locale="es" resumen={resumen} obligaciones={cumplimiento.total} />
+      <DistribucionRiesgo locale="es" porRiesgo={resumen.porRiesgo} total={resumen.sistemas} />
+      <Confianza locale="es" porConfianza={resumen.porConfianza} total={resumen.sistemas} />
+
+      <section className="bloque" id="registro">
+        <Revelar>
+          <h2 className="bloque__titulo">{d.registroTitulo}</h2>
+          <p className="bloque__intro">{d.inicioIntro}</p>
+          <PanelCumplimiento locale="es" cumplimiento={cumplimiento} numeroEntidades={entidades.length} />
+        </Revelar>
+        <IndiceCliente locale="es" sistemas={sistemas} baseHrefSistema="/sistemas" />
+      </section>
     </>
   );
 }
