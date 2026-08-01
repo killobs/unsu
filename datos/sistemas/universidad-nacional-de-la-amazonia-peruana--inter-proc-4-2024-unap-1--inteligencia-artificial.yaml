@@ -1,0 +1,23 @@
+id: universidad-nacional-de-la-amazonia-peruana--inter-proc-4-2024-unap-1--inteligencia-artificial
+entidad_id: universidad-nacional-de-la-amazonia-peruana
+nombre: INTER-PROC-4-2024-UNAP-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: CONTRATACIÓN DEL SERVICIO DE IMPLEMENTACIÓN DEL PLAN INTEGRAL DE NEUROSUPPORT A TRAVÉS DE LA INTELIGENCIA ARTIFICIAL EN LA UNIVERSIDAD NACIONAL DE LA AMAZONIA PERUANA
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: FUNDACION INSTITUTO CIENTIFICO NEUROINTEGRAL S.A.S.
+vinculo_contractual: ''
+presupuesto: '94599.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: pendiente_de_clasificar
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-1892-32-2024-12-25T09:57:51.490107-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2024 (ocid: ocds-dgv273-seacev3-2024-1892-32).'
+fecha_alta_registro: '2026-07-27'
+notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.

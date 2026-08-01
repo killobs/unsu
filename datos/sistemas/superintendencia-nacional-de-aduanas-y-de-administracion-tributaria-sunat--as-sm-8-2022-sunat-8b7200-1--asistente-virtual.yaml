@@ -1,0 +1,23 @@
+id: superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--as-sm-8-2022-sunat-8b7200-1--asistente-virtual
+entidad_id: superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat
+nombre: AS-SM-8-2022-SUNAT/8B7200-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: SERVICIO DE SUSCRIPCIÓN DE PLATAFORMA PARA EL ASISTENTE VIRTUAL SOFIA Y SERVICIOS COGNITIVOS DE LA MARCA IBM WATSON ASSISTANT O EQUIVALENTE
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: MDP CONSULTING SAC
+vinculo_contractual: ''
+presupuesto: '359007.43'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: limitado
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-2000-204-2025-06-25T16:53:56.506209-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "asistente virtual" en contrataciones OECE 2022 (ocid: ocds-dgv273-seacev3-2022-2000-204).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Asistente virtual SOFIA de atención al contribuyente.'

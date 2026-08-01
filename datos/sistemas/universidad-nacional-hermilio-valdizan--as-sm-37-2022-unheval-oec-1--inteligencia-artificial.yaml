@@ -1,0 +1,23 @@
+id: universidad-nacional-hermilio-valdizan--as-sm-37-2022-unheval-oec-1--inteligencia-artificial
+entidad_id: universidad-nacional-hermilio-valdizan
+nombre: AS-SM-37-2022-UNHEVAL/OEC-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: ADQUISICIÓN DE VEHÍCULO AÉREO NO TRIPULADO PARA AGRICULTURA CON INTELIGENCIA ARTIFICIAL
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: MANUFACTURA Y TECNOLOGIA DE EXPORTACION S.R.L
+vinculo_contractual: ''
+presupuesto: '48890.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: minimo
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-1903-92-2025-06-25T17:26:04.662089-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2022 (ocid: ocds-dgv273-seacev3-2022-1903-92).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Uso agrícola en investigación, sin decisión sobre personas.'

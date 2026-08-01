@@ -1,0 +1,23 @@
+id: registro-nacional-de-identificacion-y-estado-civil--cp-sm-19-2022-reniec-1--biometria
+entidad_id: registro-nacional-de-identificacion-y-estado-civil
+nombre: CP-SM-19-2022-RENIEC-1
+sector: Identidad y registros
+nivel_gobierno: nacional
+finalidad: SERVICIO DE IMPLEMENTACIÓN Y DESPLIEGUE DE UN PILOTO DE PLATAFORMA DE ENROLAMIENTO Y VERIFICACIÓN DE BIOMETRÍA IRIS
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: CONSORCIO FAD BIOMETRICS
+vinculo_contractual: ''
+presupuesto: '1934277.36'
+estado: piloto
+tecnologias: ''
+clasificacion_riesgo_propia: alto
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-30-47-2025-06-25T17:09:36.316590-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "biometría" en contrataciones OECE 2022 (ocid: ocds-dgv273-seacev3-2022-30-47).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Verificación biométrica para identidad (ejemplo literal de la metodología §4).'

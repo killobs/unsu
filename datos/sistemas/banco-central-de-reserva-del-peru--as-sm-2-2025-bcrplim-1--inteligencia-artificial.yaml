@@ -6,12 +6,12 @@ nivel_gobierno: nacional
 finalidad: Adquisición, instalación y puesta en funcionamiento de una solución IoT de gestión de mantenimiento predictivo y prescriptivo asistido por Inteligencia Artificial (IA)
 tipo_decision: ''
 supervision_humana_declarada: no_declarado
-proveedor: ''
+proveedor: DIN AUTOMATIZACION S.A.C.
 vinculo_contractual: ''
 presupuesto: '564889.6'
 estado: indeterminado
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: minimo
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: inferido_contratacion
@@ -19,5 +19,8 @@ evidencia:
 - url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1086360-2025-10-12T10:05:21.876168-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1086360).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-1926-213-2025-06-23T17:54:57.476007-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2024 (ocid: ocds-dgv273-seacev3-2024-1926-213).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional confirmada. Existe un proceso BCRP distinto (LSP-0007-2025-BCRPLIM) que exige capacidades de IA/ML para mantenimiento predictivo de instalaciones -- no se pudo confirmar si es el mismo proceso que este registro.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional confirmada. Existe un proceso BCRP distinto (LSP-0007-2025-BCRPLIM) que exige capacidades de IA/ML para mantenimiento predictivo de instalaciones -- no se pudo confirmar si es el mismo proceso que este registro. Clasificación de riesgo: Uso interno, sin interacción con el público.'

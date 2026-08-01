@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: ''
 estado: en_operacion
 tecnologias: Machine Learning (Random Forest), imágenes satelitales (Sentinel-2, Landsat), visión por computadora, análisis geoespacial
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: alto
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -26,4 +26,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: OSINFOR gana el Premio MapBiomas Peru 2025 por ADETOP v2 -- reconocimiento externo, no autopromocion.
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: 'Clasificación de riesgo: Interpretación del proyecto, no ejemplo literal de la metodología: la detección alimenta fiscalización con consecuencias legales para el titular de la concesión.'

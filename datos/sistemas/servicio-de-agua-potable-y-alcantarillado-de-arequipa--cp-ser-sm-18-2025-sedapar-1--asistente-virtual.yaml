@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: '710000.0'
 estado: en_operacion
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -26,4 +26,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Adjudicado a Belltech Peru SAC por S/ 710,000 (presupuesto referencial era S/ 770,000). SEDAPAR ya operaba un asistente previo llamado "Celeste" desde 2023; este contrato parece ampliar/reemplazar ese canal.
 fecha_alta_registro: '2026-07-26'
-notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionado con el registro sin numero de proceso: mismo objeto contractual (plataforma omnicanal con asistente virtual), confirmado como el mismo proceso CP SER-SM-18-2025-SEDAPAR-1.'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Fusionado con el registro sin numero de proceso: mismo objeto contractual (plataforma omnicanal con asistente virtual), confirmado como el mismo proceso CP SER-SM-18-2025-SEDAPAR-1. Clasificación de riesgo: Contact center con bot de atención.'

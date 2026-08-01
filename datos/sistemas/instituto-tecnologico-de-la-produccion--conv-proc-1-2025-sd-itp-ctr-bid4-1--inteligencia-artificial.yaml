@@ -6,12 +6,12 @@ nivel_gobierno: nacional
 finalidad: AMPLIACIÓN DE LA CAPACIDAD DE IDENTIFICACIÓN DE ESPECIES MADERABLES CON HERRAMIENTA TECNOLÓGICA QUE USA INTELIGENCIA ARTIFICIAL - ARBORTRON
 tipo_decision: ''
 supervision_humana_declarada: no_declarado
-proveedor: ''
+proveedor: SOSTENIBILIDAD DE BOSQUES PARA EL DESARROLLO Y CAMBIO CLIMATICO E.I.R.L.
 vinculo_contractual: ''
 presupuesto: '66670.0'
 estado: en_operacion
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -22,8 +22,8 @@ evidencia:
 - url: https://www.gob.pe/institucion/citemadera/noticias/1403361-tecnologia-arbortron-fortalece-la-identificacion-de-especies-maderables-y-la-trazabilidad-forestal-en-la-amazonia
   fecha_captura: '2026-07-26'
   descripcion: 'ArborTron: dispositivo portatil de vision artificial que identifica 53 especies maderables en campo sin conexion, CITEmadera-ITP en alianza con OSINFOR.'
-- url: https://innovacion.concytec.gob.pe/2025/casos_de_exito/instituto-tecnologico-de-la-produccionarbortron-identifica-la-especies-de-madera-con-precision/
+- url: http://web.archive.org/web/20250626132652/https://innovacion.concytec.gob.pe/2025/casos_de_exito/instituto-tecnologico-de-la-produccionarbortron-identifica-la-especies-de-madera-con-precision/
   fecha_captura: '2026-07-26'
-  descripcion: Caso de exito documentado por CONCYTEC.
+  descripcion: 'Caso de exito documentado por CONCYTEC. El original (innovacion.concytec.gob.pe) dejo de resolver; se cita la copia archivada del 2025-06-26.'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Clasificación de riesgo: Herramienta de identificación; no decide sobre derechos.'

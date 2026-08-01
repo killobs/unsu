@@ -6,12 +6,12 @@ nivel_gobierno: nacional
 finalidad: Servicio de Desarrollo de aplicaciones basadas en Inteligencia Artificial para la Gestión del SICUN
 tipo_decision: ''
 supervision_humana_declarada: no_declarado
-proveedor: ''
+proveedor: ONLY SOLUTIONS S.A.C.
 vinculo_contractual: ''
 presupuesto: '33040.0'
 estado: indeterminado
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: minimo
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: inferido_contratacion
@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1201828).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Gestión interna de un servicio catastral.'

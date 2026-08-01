@@ -1,0 +1,23 @@
+id: instituto-nacional-de-enfermedades-neoplasicas--as-sm-18-2020-inen-1--reconocimiento-facial
+entidad_id: instituto-nacional-de-enfermedades-neoplasicas
+nombre: AS-SM-18-2020-INEN-1
+sector: Salud
+nivel_gobierno: nacional
+finalidad: ADQUISICION DE SISTEMA DE CONTROL DE ASISTENCIA CON RECONOCIMIENTO FACIAL
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: ''
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: minimo
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-10194-62-2025-06-29T17:41:34.770993-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "reconocimiento facial" en contrataciones OECE 2020 (ocid: ocds-dgv273-seacev3-2020-10194-62).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Control de asistencia interno. NOTA: procesa datos biométricos de trabajadores, supuesto que la metodología §4 aún no contempla. La fuente declara presupuesto 0, que se registra como no publicado.'

@@ -1,0 +1,23 @@
+id: organismo-supervisor-de-inversion-privada-en-telecomunicaciones--as-sm-14-2021-osiptel-1--asistente-virtual
+entidad_id: organismo-supervisor-de-inversion-privada-en-telecomunicaciones
+nombre: AS-SM-14-2021-OSIPTEL-1
+sector: Telecomunicaciones
+nivel_gobierno: nacional
+finalidad: Servicio de diseño, desarrollo, implementación y soporte de un asistente virtual (Chat y Audio) para página web y contact center
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ALTIMEA COMMUNICATION SOCIEDAD ANONIMA CERRADA
+vinculo_contractual: ''
+presupuesto: '337800.0'
+estado: indeterminado
+tecnologias: IA conversacional, IBM Watson Assistant, servicios en la nube (AWS, VPC)
+clasificacion_riesgo_propia: limitado
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-1920-69-2025-06-26T17:40:04.664053-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "asistente virtual" en contrataciones OECE 2021 (ocid: ocds-dgv273-seacev3-2021-1920-69).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Asistente virtual de atención al usuario.'

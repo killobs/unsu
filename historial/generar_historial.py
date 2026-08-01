@@ -29,8 +29,17 @@ RAIZ = os.path.normpath(os.path.join(os.path.dirname(__file__), ".."))
 
 
 def _ejecutar_git(args):
+    # encoding explícito: sin él, Python decodifica la salida de git con la
+    # codificación local, que en Windows es cp1252, y revienta con las tildes
+    # de cualquier ficha. Git entrega UTF-8 siempre.
     resultado = subprocess.run(
-        ["git", *args], cwd=RAIZ, capture_output=True, text=True, check=True,
+        ["git", *args],
+        cwd=RAIZ,
+        capture_output=True,
+        text=True,
+        check=True,
+        encoding="utf-8",
+        errors="replace",
     )
     return resultado.stdout
 

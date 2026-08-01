@@ -1,0 +1,2994 @@
+{
+ "banco-central-de-reserva-del-peru--as-sm-2-2025-bcrplim-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-2-2025-BCRPLIM-1",
+  "descripcion": "Adquisición, instalación y puesta en funcionamiento de una solución IoT de gestión de mantenimiento predictivo y prescriptivo asistido por Inteligencia Artificial (IA)",
+  "items": [
+   "Adquisición, instalación y puesta en funcionamiento de una solución IoT de gestión de mantenimiento predictivo y prescriptivo asistido por Inteligencia Artificial (IA)"
+  ],
+  "valor": 564889.6,
+  "fecha": "2025-01-21",
+  "proveedor": "DIN AUTOMATIZACION S.A.C.",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-1086360"
+ },
+ "banco-central-de-reserva-del-peru--inter-proc-19-2025-bcrplim-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Contratación Internacional",
+  "titulo": "INTER-PROC-19-2025-BCRPLIM-1",
+  "descripcion": "Programa de Inteligencia Artificial Generativa Aplicada a la Transformación Digital",
+  "items": [
+   "Programa de Inteligencia Artificial Generativa Aplicada a la Transformación Digital"
+  ],
+  "valor": 9348.57,
+  "fecha": "2025-08-18",
+  "proveedor": "Global Alumni Corp",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-1142337"
+ },
+ "banco-central-de-reserva-del-peru--lp-sm-8-2024-bcrplim-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Licitación Pública",
+  "titulo": "LP-SM-8-2024-BCRPLIM-1",
+  "descripcion": "Adquisición, instalación y puesta en funcionamiento de una solución IoT de gestión de mantenimiento predictivo y prescriptivo asistido por Inteligencia Artificial (IA)",
+  "items": [
+   "Adquisición, instalación y puesta en funcionamiento de una solución IoT de gestión de mantenimiento predictivo y prescriptivo asistido por Inteligencia Artificial (IA)"
+  ],
+  "valor": 564889.6,
+  "fecha": "2024-10-25",
+  "proveedor": "",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-2024-1926-213"
+ },
+ "banco-de-la-nacion--as-sm-16-2022-bn-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-16-2022-BN-1",
+  "descripcion": "Servicio de mantenimiento predictivo, preventivo y correctivo de la infraestructura fisica del Centro de Procesamiento de Datos de recuperacion ante desastres del Banco de la Nacion Sede Chiclayo",
+  "items": [
+   "Servicio de mantenimiento predictivo preventivo y correctivo de la infraestructura fisica del centro de procesamiento - Sistema electrico estabilizado",
+   "Servicio de mantenimiento predictivo preventivo y correctivo de la infraestructura fisica del centro de procesamiento - Sistema electrico de emergencia",
+   "Servicio de mantenimiento predictivo preventivo y correctivo de la infraestructura fisica del centro de procesamiento - Sistema de climatizacion"
+  ],
+  "valor": 499700.0,
+  "fecha": "2022-08-10",
+  "proveedor": "",
+  "postores": 30,
+  "ocid": "ocds-dgv273-seacev3-2022-2525-111"
+ },
+ "banco-de-la-nacion--as-sm-17-2022-bn-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-17-2022-BN-1",
+  "descripcion": "Servicio de mantenimiento predictivo, preventivo y correctivo de la infraestructura fisica del Centro de Computo Alterno del BN San Isidro",
+  "items": [
+   "Sistema eléctrico estabilizado (UPS) y Comercial (Tableros y Transformadores)",
+   "Sistema  Climatizacion (AA Precisión y AA Confort)"
+  ],
+  "valor": 1698174.0,
+  "fecha": "2022-08-10",
+  "proveedor": "CONFIANZA - ELECTRICOM",
+  "postores": 35,
+  "ocid": "ocds-dgv273-seacev3-2022-2525-112"
+ },
+ "banco-de-la-nacion--cp-sm-1-2024-bn-1--automatizacion-robotica-de-procesos": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-1-2024-BN-1",
+  "descripcion": "Servicio de suscripción de licencia de software para la automatización robótica de procesos (RPA) en procesos de la Gerencia de Operaciones",
+  "items": [
+   "Servicio de suscripción de licencia de software para la automatización robótica de procesos (RPA) en procesos de la Gerencia de Operaciones"
+  ],
+  "valor": 1856400.0,
+  "fecha": "2024-02-02",
+  "proveedor": "",
+  "postores": 13,
+  "ocid": "ocds-dgv273-seacev3-2024-2525-24"
+ },
+ "banco-de-la-nacion--cp-sm-13-2021-bn-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-13-2021-BN-1",
+  "descripcion": "Servicio de mantenimiento predictivo preventivo y correctivo de la infraestructura fisica del centro de procesamiento de datos de recuperacion antes desastres del Banco de la Nacion Sede Chiclayo",
+  "items": [
+   "Servicio de mantenimiento predictivo preventivo y correctivo de la infraestructura fisica del centro de procesamiento - Sistema de climatizacion",
+   "Servicio de mantenimiento predictivo preventivo y correctivo de la infraestructura fisica del centro de procesamiento - Sistema electrico de emergencia",
+   "Servicio de mantenimiento predictivo preventivo y correctivo de la infraestructura fisica del centro de procesamiento - Sistema electrico estabilizado"
+  ],
+  "valor": 0.0,
+  "fecha": "2021-10-13",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2021-2525-91"
+ },
+ "banco-de-la-nacion--cp-sm-18-2021-bn-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-18-2021-BN-1",
+  "descripcion": "Servicio de mantenimiento predictivo preventivo y correctivo de la infraestructura fisica del centro de computo alterno del Banco de la Nacion San Isidro",
+  "items": [
+   "Sistema  Climatizacion (AA Precisión y AA Confort)",
+   "Sistema Eléctrico Emergencia (GE y TTA) y Mecánico Estructural (Sala Cofre)",
+   "Sistema eléctrico estabilizado (UPS) y Comercial (Tableros y Transformadores)"
+  ],
+  "valor": 1960869.67,
+  "fecha": "2021-11-26",
+  "proveedor": "CONFIANZA-ELECTRICOM",
+  "postores": 27,
+  "ocid": "ocds-dgv273-seacev3-2021-2525-92"
+ },
+ "banco-de-la-nacion--cp-sm-31-2021-bn-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-31-2021-BN-1",
+  "descripcion": "Servicio de mantenimiento predictivo, preventivo y correctivo de la infraestructura fisica del centro de computo principal del BN-San Borja",
+  "items": [
+   "Sistema de Climatización (AA Precisión",
+   "Sistema electrico estabilizado UPS y comercial - tableros y transformadores"
+  ],
+  "valor": 2938800.0,
+  "fecha": "2021-12-22",
+  "proveedor": "CONSORCIO CONFIANZA-ELECTRICOM",
+  "postores": 27,
+  "ocid": "ocds-dgv273-seacev3-2021-2525-178"
+ },
+ "biblioteca-nacional-del-peru--chatbot-bibliotecario": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "comision-de-promocion-del-peru-para-la-exportacion-y-el-turismo-promperu--inter-proc-566-2025-promperu-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Contratación Internacional",
+  "titulo": "INTER-PROC-566-2025-PROMPERU-1",
+  "descripcion": "SERVICIO DE CONFIGURACIÓN E IMPLEMENTACIÓN DE UNA HERRAMIENTA DE PLANIFICACIÓN DE VIAJES CON INTELIGENCIA ARTIFICIAL PARA EL SECTOR TURISMO",
+  "items": [
+   "SERVICIO DE CONFIGURACIÓN E IMPLEMENTACIÓN DE UNA HERRAMIENTA DE PLANIFICACIÓN DE VIAJES CON INTELIGENCIA ARTIFICIAL PARA EL SECTOR TURISMO"
+  ],
+  "valor": 289027.61,
+  "fecha": "2025-12-30",
+  "proveedor": "MINDTRIP, INC",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-1182814"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-1-2021-cg-ue2-bid-sbcc-1--mineria-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-1-2021-CG-UE2-BID SBCC-1",
+  "descripcion": "Contratación de un servicio de Firma Consultora para el Análisis, diseño, desarrollo e implementación de una plataforma de inteligencia de negocios y minería de datos para la Subgerencia de Control de Megaproyectos",
+  "items": [
+   "Contratación de un servicio de Firma Consultora para el Análisis, diseño, desarrollo e implementación de una plataforma de inteligencia de negocios y minería de datos para la Subge"
+  ],
+  "valor": 1484617.1,
+  "fecha": "2021-12-29",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2021-185233-142"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-1-2024-cgr-ue002-sbcc-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-1-2024-CGR-UE002-SBCC-1",
+  "descripcion": "Contratación de una firma para el servicio del diseño, desarrollo e implementación del proyecto interno 3.3.2 sistema que potencie el analisis de datos e informacion con inteligencia artificial y negocios",
+  "items": [
+   "Contratación de una firma para el servicio del diseño, desarrollo e implementación del proyecto interno 3.3.2 sistema que potencie el analisis de datos e informacion con inteligenc"
+  ],
+  "valor": 2191968.0,
+  "fecha": "2024-06-26",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2024-185233-22"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-10-2024-cg-ue02-bid-scc-1--chatbot": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-10-2024-CG-UE02-BID SCC-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE UNA FIRMA CONSULTORA PARA LA IMPLEMENTACIÓN DE UN ASISTENTE VIRTUAL (CHATBOT) EN LOS SISTEMAS DE DECLARACIONES JURADAS",
+  "items": [
+   "CONTRATACIÓN DEL SERVICIO DE UNA FIRMA CONSULTORA PARA LA IMPLEMENTACIÓN DE UN ASISTENTE VIRTUAL (CHATBOT) EN LOS SISTEMAS DE DECLARACIONES JURADAS"
+  ],
+  "valor": 652532.0,
+  "fecha": "2024-09-24",
+  "proveedor": "JOGZAR CONSULTING SAC. - EXODUS BUSINESS  IT CONSULTING SAC.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2024-185233-53"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-2-2024-cg-ue02-bid-sci-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-2-2024-CG-UE02-BID SCI-1",
+  "descripcion": "Contratación de un consultor individual para que realice la función de especialista en ciencia de datos en el marco de la implementación del laboratorio de control para innovar los servicios de control gubernamental",
+  "items": [
+   "Contratación de un consultor individual para que realice la función de especialista en ciencia de datos en el marco de la implementación del laboratorio de control para innovar los"
+  ],
+  "valor": 42500.0,
+  "fecha": "2024-06-25",
+  "proveedor": "NEIRA CAMPOS MIKE ALEX",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2024-185233-18"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-48-2025-cg-ue02-bid-sci-1--mineria-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-48-2025-CG-UE02-BID-SCI-1",
+  "descripcion": "CONTRATACIÓN DE UN CONSULTOR ESPECIALISTA EN SUPERVISIÓN DE PROYECTOS PARA LA IMPLEMENTACIÓN DE UNA SOLUCIÓN DE INTELIGENCIA DE NEGOCIOS PARA LA SUBGERENCIA DE FISCALIZACIÓN, BASADA EN LA PLATAFORMA DE MINERÍA DE DATOS DE LA CGR, EN EL MARCO DE LA ACCIÓN DE INVERSIÓN 1.2.4",
+  "items": [
+   "CONTRATACIÓN DE UN CONSULTOR ESPECIALISTA EN SUPERVISIÓN DE PROYECTOS PARA LA IMPLEMENTACIÓN DE UNA SOLUCIÓN DE INTELIGENCIA DE NEGOCIOS PARA LA SUBGERENCIA DE FISCALIZACIÓN, BASAD"
+  ],
+  "valor": 121000.0,
+  "fecha": "2025-12-26",
+  "proveedor": "CASTAÑEDA SANTOS CARLOS ALBERTO",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-1181628"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-51-2021-cg-ue02-bid-sd-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-51-2021-CG-UE02-BID SD-1",
+  "descripcion": "Consultor para el servicio de desarrollo de algoritmos predictivos y aplicaciones de ciencia de datos",
+  "items": [
+   "CONTRATACIÓN DE UN (01) CONSULTOR INDIVIDUAL PARA EL SERVICIO DE DESARROLLO DE ALGORITMOS PREDICTIVOS Y APLICACIONES DE CIENCIA DE DATOS"
+  ],
+  "valor": 10800.0,
+  "fecha": "2021-11-19",
+  "proveedor": "DAGA ACEVEDO MIRKO DAVID",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2021-185233-74"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-7-2024-cgr-ue002-sbcc-1--mineria-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-7-2024-CGR-UE002-SBCC-1",
+  "descripcion": "CONTRATACIÓN DE UN SERVICIO DE FIRMA CONSULTORA PARA EL ANÁLISIS, DISEÑO, DESARROLLO E IMPLEMENTACIÓN DE UNA PLATAFORMA DE INTELIGENCIA DE NEGOCIOS Y MINERÍA DE DATOS PARA LA SUBGERENCIA DE CONTROL DE MEGAPROYECTOS",
+  "items": [
+   "CONTRATACIÓN DE UN SERVICIO DE FIRMA CONSULTORA PARA EL ANÁLISIS, DISEÑO, DESARROLLO E IMPLEMENTACIÓN DE UNA PLATAFORMA DE INTELIGENCIA DE NEGOCIOS Y MINERÍA DE DATOS PARA LA SUBGE"
+  ],
+  "valor": 4862000.0,
+  "fecha": "2024-09-24",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2024-185233-52"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-75-2021-cg-ue02-bid-sd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-75-2021-CG-UE02-BID SD-1",
+  "descripcion": "Contratación de un Consultor Individual para la Realización del Diagnóstico Situacional y el Planteamiento Técnico del Producto 1.2 Sistema Potencializado de Detección y Fiscalización Patrimonial y de Intereses Basado en Inteligencia Artificial y Datos Masivos. Sistema de Declaraciones Juradas Potencializado del Proyecto Mejoramiento de los Servicios de Control Gubernamental para un Control Efectivo, Preventivo y Facilitador de la Gestión Pública - Sub Producto Rediseño de los Sistemas de Declaraciones Juradas",
+  "items": [
+   "Contratación de un Consultor Individual para la Realización del Diagnóstico Situacional y el Planteamiento Técnico del Producto 1.2 Sistema Potencializado de Detección y Fiscalizac"
+  ],
+  "valor": 18000.0,
+  "fecha": "2021-12-30",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2021-185233-194"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-76-2021-cg-ue02-bid-sd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-76-2021-CG-UE02-BID SD-1",
+  "descripcion": "Contratación de un Consultor Individual para la realización del Diagnóstico Situacional y el Planteamiento Técnico del Producto 1.2 Sistema Potencializado de Detección y Fiscalización Patrimonial y de Intereses basado en Inteligencia Artificial y Datos Masivos. Sistema de Declaraciones Juradas Potencializado del Proyecto Mejoramiento de los Servicios de Control Gubernamental para un Control Efectivo, Preventivo y Facilitador de la Gestión Pública - Sub Producto Implementación de la Solución para el Análisis de la Información - Big Data",
+  "items": [
+   "Contratación de un Consultor Individual para la realización del Diagnóstico Situacional y el Planteamiento Técnico del Producto 1.2 Sistema Potencializado de Detección y Fiscalizac"
+  ],
+  "valor": 20000.0,
+  "fecha": "2021-12-30",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2021-185233-195"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-77-2021-cg-ue02-bid-sd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-77-2021-CG-UE02-BID SD-1",
+  "descripcion": "Contratación de un Consultor Individual para la realización del Diagnóstico Situacional y el Planteamiento Técnico del Producto 1.2 Sistema Potencializado de Detección y Fiscalización Patrimonial y de Intereses Basado en Inteligencia Artificial y Datos Masivos. Sistema de Declaraciones Juradas Potencializado  del Proyecto Mejoramiento de los Servicios de Control Gubernamental para un Control Efectivo, Preventivo y Facilitador de la Gestión Pública - Sub Producto Optimización del Proceso de Fiscalización de Declaraciones Juradas",
+  "items": [
+   "Contratación de un Consultor Individual para la realización del Diagnóstico Situacional y el Planteamiento Técnico del Producto 1.2 Sistema Potencializado de Detección y Fiscalizac"
+  ],
+  "valor": 20000.0,
+  "fecha": "2021-12-30",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2021-185233-196"
+ },
+ "contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-78-2021-cg-ue02-bid-sd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-78-2021-CG-UE02-BID SD-1",
+  "descripcion": "Consultor Individual para la Integración del Diagnóstico Situacional y el Planteamiento Técnico del Producto 1.2 Sistema Potencializado de Detección y Fiscalización Patrimonial y de Intereses Basado en Inteligencia Artificial y Datos Masivos. Sistema de Declaraciones Juradas Potencializado del Proyecto Mejoramiento de los Servicios de Control Gubernamental para un Control Efectivo, Preventivo y Facilitador de la Gestión Pública",
+  "items": [
+   "Consultor Individual para la Integración del Diagnóstico Situacional y el Planteamiento Técnico del Producto 1.2 Sistema Potencializado de Detección y Fiscalización Patrimonial y d"
+  ],
+  "valor": 27000.0,
+  "fecha": "2021-12-30",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2021-185233-197"
+ },
+ "creacion-y-mejoramiento-del-servicio-de-catastro-en-distritos-seleccionados-de-las-provincias-de-lima-lambayeque-chiclayo-y-piura--conv-proc-42-2025-ue003-sdc-lt1-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-42-2025-UE003-SDC- LT1-1",
+  "descripcion": "Servicio de Desarrollo de aplicaciones basadas en Inteligencia Artificial para la Gestión del SICUN",
+  "items": [
+   "SERVICIO DE DESARROLLO DE APLICACIONES BASADAS EN INTELIGENCIA ARTIFICIAL PARA LA GESTION DEL SICUN"
+  ],
+  "valor": 33040.0,
+  "fecha": "2026-04-06",
+  "proveedor": "ONLY SOLUTIONS S.A.C.",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-1201828"
+ },
+ "empresa-de-administracion-de-infraestructura-electrica-s-a--as-sm-39-2023-adinelsa-1--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-39-2023-ADINELSA-1",
+  "descripcion": "ADQUISICION DE CAMARAS TERMOGRAFICAS Y CAMARA PARA LOCALIZAR DESCARGAS PARCIALES (EFECTO CORONA) PARA EL MANTENIMIENTO PREDICTIVO EN LOS SISTEMAS ELECTRICOS RURALES DE ADINELSA",
+  "items": [
+   "CAMARA DE TERMOGRAFIA INFRARROJA DIGITAL",
+   "CAMARA DE DETECCION DE DESCARGAS PARCIALES (EFECTO CORONA)"
+  ],
+  "valor": 206580.0,
+  "fecha": "2023-11-29",
+  "proveedor": "LOGYTEC S.A.",
+  "postores": 11,
+  "ocid": "ocds-dgv273-seacev3-2023-2528-30"
+ },
+ "empresa-de-electricidad-del-peru-s-a-electroperu--as-sm-27-2024-electroperu-1--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-27-2024-ELECTROPERU-1",
+  "descripcion": "ADQUISICION DE CAMARA TERMOGRAFICA PARA MANTENIMIENTO PREDICTIVO SAM-RON",
+  "items": [
+   "ADQUISICION DE CAMARA TERMOGRAFICA PARA MANTENIMIENTO PREDICTIVO SAM-RON"
+  ],
+  "valor": 331007.7,
+  "fecha": "2024-09-30",
+  "proveedor": "LOGYTEC S.A.",
+  "postores": 16,
+  "ocid": "ocds-dgv273-seacev3-2024-2391-16"
+ },
+ "empresa-de-electricidad-del-peru-s-a-electroperu--lp-abr-1-2026-electroperu-1--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Licitación Pública Abreviada",
+  "titulo": "LP-ABR-1-2026-ELECTROPERU-1",
+  "descripcion": "ADQUISICION DE FILTROS PARA EQUIPO DE MICRO FILTRADO PARA EL MANTENIMIENTO PREDICTIVO EN LAS UNIDADES HIDRAULICAS DE GENERACION DE LAS CENTRALES HIDROELECTRICAS SANTIAGO ANTUNEZ DE MAYOLO Y RESTITUCION",
+  "items": [
+   "ADQUISICION DE FILTROS PARA EQUIPO DE MICRO FILTRADO PARA EL MANTENIMIENTO PREDICTIVO EN LAS UNIDADES HIDRAULICAS DE GENERACION DE LAS CENTRALES HIDROELECTRICAS SANTIAGO NUÑEZ DE M"
+  ],
+  "valor": 100225.72,
+  "fecha": "2026-03-09",
+  "proveedor": "CONSORCIO VACAMEX",
+  "postores": 15,
+  "ocid": "ocds-dgv273-seacev3-2026-2391-112"
+ },
+ "empresa-de-generacion-electrica-del-sur-s-a--as-sm-11-2021-egesur-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-11-2021-EGESUR-1",
+  "descripcion": "Mantenimiento predictivo de generadores C.H. Aricota",
+  "items": [
+   "Mantenimiento predictivo de generadores C.H. Aricota"
+  ],
+  "valor": 94571.1,
+  "fecha": "2021-09-29",
+  "proveedor": "",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2021-2395-55"
+ },
+ "empresa-de-generacion-electrica-del-sur-s-a--as-sm-15-2020-egesur-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-15-2020-EGESUR-1",
+  "descripcion": "MANTENIMIENTO PREDICTIVO DE GENERADOR 1 DE ARICOTA",
+  "items": [
+   "MANTENIMIENTO PREDICTIVO DE GENERADOR 1 DE ARICOTA."
+  ],
+  "valor": 91139.94,
+  "fecha": "2020-12-30",
+  "proveedor": "",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-2020-2395-61"
+ },
+ "empresa-de-generacion-electrica-del-sur-s-a--as-sm-16-2022-egesur-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-16-2022-EGESUR-1",
+  "descripcion": "Servicio de mantenimiento predictivo de grupos de generación Wartsila",
+  "items": [
+   "Servicio de mantenimiento predictivo de grupos de generación Wartsila"
+  ],
+  "valor": 0.0,
+  "fecha": "2022-09-20",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2022-2395-5"
+ },
+ "empresa-de-generacion-electrica-del-sur-s-a--as-sm-19-2019-egesur-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-19-2019-EGESUR-1",
+  "descripcion": "Servicio de mantenimiento predictivo",
+  "items": [
+   "Servicio de mantenimiento predictivo"
+  ],
+  "valor": 0.0,
+  "fecha": "2019-12-27",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2019-2395-36"
+ },
+ "empresa-de-generacion-electrica-del-sur-s-a--as-sm-25-2021-egesur-1--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-25-2021-EGESUR-1",
+  "descripcion": "Equipo de mantenimiento predictivo",
+  "items": [
+   "Equipo de mantenimiento predictivo"
+  ],
+  "valor": 120596.0,
+  "fecha": "2021-11-30",
+  "proveedor": "",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-2021-2395-45"
+ },
+ "empresa-de-generacion-electrica-machupicchu--as-sm-14-2024-egemsa-1--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-14-2024-EGEMSA-1",
+  "descripcion": "ADQUISICION DE CAMARA TERMOGRAFICA PARA TRABAJOS DE MANTENIMIENTO PREDICTIVO EN LA CENTRAL HIDROELECTRICA MACHUPICCHU",
+  "items": [
+   "ADQUISICION DE CAMARA TERMOGRAFICA PARA TRABAJOS DE MANTENIMIENTO PREDICTIVO EN LA CENTRAL HIDROELECTRICA MACHUPICCHU"
+  ],
+  "valor": 354907.49,
+  "fecha": "2024-08-22",
+  "proveedor": "",
+  "postores": 11,
+  "ocid": "ocds-dgv273-seacev3-2024-2396-52"
+ },
+ "empresa-de-generacion-electrica-machupicchu--as-sm-14-2024-egemsa-2--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-14-2024-EGEMSA-2",
+  "descripcion": "ADQUISICION DE CAMARA TERMOGRAFICA PARA TRABAJOS DE MANTENIMIENTO PREDICTIVO EN LA CENTRAL HIDROELECTRICA MACHUPICCHU",
+  "items": [
+   "ADQUISICION DE CAMARA TERMOGRAFICA PARA TRABAJOS DE MANTENIMIENTO PREDICTIVO EN LA CENTRAL HIDROELECTRICA MACHUPICCHU"
+  ],
+  "valor": 354907.49,
+  "fecha": "2024-09-13",
+  "proveedor": "INSTEC S.A.",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-1051448"
+ },
+ "empresa-de-generacion-electrica-san-gaban-s-a--cp-abr-13-2026-san-gaban-s-a-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público Abreviado",
+  "titulo": "CP-ABR-13-2026-SAN GABAN S.A.-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE LOS TRANSFORMADORES DE POTENCIA DE LOS GRUPOS 1 Y 2 DE LA C.H. SAN GABÁN II",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE LOS TRANSFORMADORES DE POTENCIA DE LOS GRUPOS 1 Y 2 DE LA C.H. SAN GABÁN II"
+  ],
+  "valor": 139506.18,
+  "fecha": "2026-05-29",
+  "proveedor": "ELECTRO REGSA S.A.C.",
+  "postores": 10,
+  "ocid": "ocds-dgv273-seacev3-2026-2397-26"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-26-2022-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-26-2022-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CORRECTIVO EN LAS REDES DE DISTRIBUCIÓN DE LA UE SULLANA",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CORRECTIVO EN LAS REDES DE DISTRIBUCIÓN DE LA UE SULLANA"
+  ],
+  "valor": 367870.37,
+  "fecha": "2022-04-22",
+  "proveedor": "FLASHOVER E.I.R.L.",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-2022-200190-206"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-28-2021-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-28-2021-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO Y ATENCIÓN DE EMERGENCIAS PARA LA U.E. PAITA DE ENOSA.",
+  "items": [
+   "SERVICIO DE LAS ACTIVIDADES DE MANTENIMIENTO DEL ÁREA TÉCNICA DE LA U.E. PAITA - ELECTRONOROESTE S.A"
+  ],
+  "valor": 397304.29,
+  "fecha": "2021-10-15",
+  "proveedor": "",
+  "postores": 18,
+  "ocid": "ocds-dgv273-seacev3-2021-200190-375"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-28-2021-electronoroeste-sa-enosa-2--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-28-2021-ELECTRONOROESTE SA (ENOSA)-2",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO Y ATENCIÓN DE EMERGENCIAS PARA LA U.E. PAITA DE ENOSA.",
+  "items": [
+   "SERVICIO DE LAS ACTIVIDADES DE MANTENIMIENTO DEL ÁREA TÉCNICA DE LA U.E. PAITA - ELECTRONOROESTE S.A"
+  ],
+  "valor": 397304.29,
+  "fecha": "2021-12-03",
+  "proveedor": "CONSORCIO GEBAUDE - E&J",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-763031"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-3-2022-electronoroeste-sa-enosa-3--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-3-2022-ELECTRONOROESTE SA (ENOSA)-3",
+  "descripcion": "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y AMPLIACIONES POR DEMANDA EN REDES DE DISTRIBUCIÓN DE ELECTRONOROESTE S.A.-ZONA II y ZONA III",
+  "items": [
+   "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y ",
+   "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y "
+  ],
+  "valor": 15719745.19,
+  "fecha": "2022-09-01",
+  "proveedor": "CONSORCIO ISITEC SAC - CORSA",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-2022-200190-18"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-40-2021-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-40-2021-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO Y ATENCIÓN DE EMERGENCIAS PARA LA UNIDAD EMPRESARIAL PIURA DE ENOSA",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO Y ATENCIÓN DE EMERGENCIAS PARA LA UNIDAD EMPRESARIAL PIURA DE ENOSA."
+  ],
+  "valor": 346277.01,
+  "fecha": "2021-12-17",
+  "proveedor": "",
+  "postores": 8,
+  "ocid": "ocds-dgv273-seacev3-2021-200190-383"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-64-2022-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-64-2022-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO Y ATENCIÓN DE EMERGENCIAS PARA LA U.E. PAITA DE ENOSA",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO Y ATENCIÓN DE EMERGENCIAS PARA LA U.E. PAITA DE ENOSA"
+  ],
+  "valor": 397501.46,
+  "fecha": "2022-08-15",
+  "proveedor": "INDUSTRIAS Y NEGOCIOS GENERALES INDUZA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA",
+  "postores": 15,
+  "ocid": "ocds-dgv273-seacev3-2022-200190-262"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-ser-sm-12-2025-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-12-2025-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ALUMBRADO PÚBLICO, ATENCIÓN DE EMERGENCIAS MAYORES, REMODELACIONES Y AMPLIACIONES POR DEMANDA EN REDES DE DISTRIBUCION ENOSA EN LA UNIDAD EMPRESARIAL SULLANA",
+  "items": [
+   "SERVICIO DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y AMPLIACIONES POR "
+  ],
+  "valor": 13423922.58,
+  "fecha": "2025-10-23",
+  "proveedor": "ATECHNOLOGY CONSTRUCCIÓN",
+  "postores": 18,
+  "ocid": "ocds-dgv273-seacev3-2025-200190-53"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-ser-sm-22-2025-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-22-2025-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ALUMBRADO PÚBLICO, ATENCIÓN DE EMERGENCIAS MAYORES Y REMODELACIONES EN REDES DE DISTRIBUCIÓN DE ENOSA ¿ DE LA UNIDAD OPERATIVA TALARA",
+  "items": [
+   "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ALUMBRADO PÚBLICO, ATENCIÓN DE EMERGENCIA"
+  ],
+  "valor": 13168537.05,
+  "fecha": "2025-12-02",
+  "proveedor": "",
+  "postores": 13,
+  "ocid": "ocds-dgv273-seacev3-2025-200190-75"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-ser-sm-23-2025-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-23-2025-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ALUMBRADO PÚBLICO, ATENCIÓN DE EMERGENCIAS MAYORES Y REMODELACIONES EN REDES DE DISTRIBUCIÓN DE ENOSA ¿ DE LA UNIDAD EMPRESARIAL PAITA",
+  "items": [
+   "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA,\\nCALIDAD DEL PRODUCTO, ALUMBRADO PÚBLICO, ATENCIÓN DE EMERGENCI"
+  ],
+  "valor": 8133200.57,
+  "fecha": "2025-12-05",
+  "proveedor": "SD ELECTRIC SOCIEDAD ANONIMA CERRADA",
+  "postores": 13,
+  "ocid": "ocds-dgv273-seacev3-1176590"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-ser-sm-24-2025-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-24-2025-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y AMPLIACIONES POR DEMANDA EN REDES DE DISTRIBUCIÓN DE LA UE TUMBES -  ELECTRONOROESTE S.A.",
+  "items": [
+   "SERVICIO DE ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y AMPLIACIONES POR DEMA"
+  ],
+  "valor": 15972838.16,
+  "fecha": "2025-11-28",
+  "proveedor": "Consorcio Corporación Peruana de Mantenimiento Eléctrico - Consorcio COPEMANE",
+  "postores": 21,
+  "ocid": "ocds-dgv273-seacev3-2025-200190-50"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-ser-sm-7-2026-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-7-2026-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ALUMBRADO PÚBLICO, ATENCIÓN DE EMERGENCIAS MAYORES Y REMODELACIONES EN REDES DE DISTRIBUCIÓN DE ENOSA ¿ DE LA UNIDAD OPERATIVA TALARA",
+  "items": [
+   "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ALUMBRADO PÚBLICO, ATENCIÓN DE EMERGENCIA"
+  ],
+  "valor": 13168537.05,
+  "fecha": "2026-04-08",
+  "proveedor": "CONSORCIO QUANTUM",
+  "postores": 17,
+  "ocid": "ocds-dgv273-seacev3-1203528"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-sm-13-2022-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-13-2022-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y AMPLIACIONES POR DEMANDA EN REDES DE DISTRIBUCIÓN DE ELECTRONOROESTE S.A.",
+  "items": [
+   "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y ",
+   "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y "
+  ],
+  "valor": 36470138.2,
+  "fecha": "2022-03-31",
+  "proveedor": "CONSORCIO CORPORACION PERUANA DE MANTENIMIENTO ELECTRICO",
+  "postores": 16,
+  "ocid": "ocds-dgv273-seacev3-835547"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-sm-3-2021-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-3-2021-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "Servicio de tercerización de las actividades de mantenimiento predictivo, preventivo, correctivo, seguridad pública, calidad del producto, atención de emergencia, remodelaciones y ampliaciones por demanda en redes de distribución de Electronoroeste S.A. ¿ Zonas I y II",
+  "items": [
+   "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y ",
+   "SERVICIO DE TERCERIZACIÓN DE LAS ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, SEGURIDAD PÚBLICA, CALIDAD DEL PRODUCTO, ATENCIÓN DE EMERGENCIA, REMODELACIONES Y "
+  ],
+  "valor": 49632969.95,
+  "fecha": "2021-10-29",
+  "proveedor": "",
+  "postores": 13,
+  "ocid": "ocds-dgv273-seacev3-2021-200190-372"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-sm-3-2022-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-3-2022-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE LÍNEAS DE SUBTRANSMISIÓN DE ELECTRONOROESTE S.A., PARA EL PERIODO 2022, 2023 Y 2024",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE LÍNEAS DE SUBTRANSMISIÓN DE ELECTRONOROESTE S.A., PARA EL PERIODO 2022, 2023 Y 2024"
+  ],
+  "valor": 3272730.0,
+  "fecha": "2022-02-18",
+  "proveedor": "CONSORCIO ELECTRICO PCOIN",
+  "postores": 16,
+  "ocid": "ocds-dgv273-seacev3-2022-200190-85"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-sm-4-2022-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-4-2022-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "SERVICIOS DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE SUBESTACIONES DE POTENCIA PARA EL PERIODO 2022 ¿ 2023 ¿2024",
+  "items": [
+   "SERVICIOS DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE SUBESTACIONES DE POTENCIA PARA EL PERIODO 2022 ¿ 2023 ¿2024"
+  ],
+  "valor": 3889120.1,
+  "fecha": "2022-03-03",
+  "proveedor": "CONSORCIO ELECTRICO PCOIN",
+  "postores": 15,
+  "ocid": "ocds-dgv273-seacev3-2022-200190-89"
+ },
+ "empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--res-proc-34-2021-electronoroeste-sa-enosa-1--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Regímen Especial",
+  "titulo": "RES-PROC-34-2021-ELECTRONOROESTE SA (ENOSA)-1",
+  "descripcion": "RES-PROC-034-2021 Adquisición de cámaras efecto corona para mantenimiento predictivo de los alimentadores de media tensión de las Unidades de Negocios Tumbes y Piura - Electronoroeste S.A.",
+  "items": [
+   "CAMARA DE INFRAROJOS Y ULTRAVIOLETA EFECTO CORONA PARA UBICAR DESCARGAS ELECTRICAS"
+  ],
+  "valor": 828513.99,
+  "fecha": "2021-03-26",
+  "proveedor": "LOGYTEC S.A.",
+  "postores": 2,
+  "ocid": "ocds-dgv273-seacev3-2021-200190-40"
+ },
+ "empresa-de-servicio-publico-de-electricidad-electronorte-s-a--as-sm-16-2021-electronorte-s-a-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-16-2021-ELECTRONORTE S.A.-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO A TRANSFORMADORES DE POTENCIA DE ELECTRONORTE S.A",
+  "items": [
+   "MANTENIMIENTO PREDICTIVO DE TRANSFORMADORES DE POTENCIA"
+  ],
+  "valor": 395929.0,
+  "fecha": "2021-05-21",
+  "proveedor": "RQF ELECTRO SERVICE S.A.C.",
+  "postores": 17,
+  "ocid": "ocds-dgv273-seacev3-755366"
+ },
+ "empresa-de-servicio-publico-de-electricidad-electronorte-s-a--as-sm-17-2023-electronorte-s-a-1--chatbot": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-17-2023-ELECTRONORTE S.A.-1",
+  "descripcion": "Servicio de Contratación de una agencia de medios para impulsar el uso masivo de los canales digitales de atención al cliente (Chatbot y Video Gestión­ Campaña ENSA Digital), mediante medios de comunicación masivo.",
+  "items": [
+   "SERVICIO PARA IMPULSAR EL USO MASIVO DE LOS CANALES DIGITALES DE ATENCIÓN AL CLIENTE (CHATBOT Y VIDEOGESTIÓN- CAMPAÑA ENSA DIGITAL), RADIO, TV, PRENSA ESCRITA Y REDES SOCIALES DE E"
+  ],
+  "valor": 113280.0,
+  "fecha": "2023-06-20",
+  "proveedor": "",
+  "postores": 12,
+  "ocid": "ocds-dgv273-seacev3-2023-200195-1"
+ },
+ "empresa-de-servicio-publico-de-electricidad-electronorte-s-a--as-sm-17-2023-electronorte-s-a-2--chatbot": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-17-2023-ELECTRONORTE S.A.-2",
+  "descripcion": "Servicio de Contratación de una agencia de medios para impulsar el uso masivo de los canales digitales de atención al cliente (Chatbot y Video Gestión­ Campaña ENSA Digital), mediante medios de comunicación masivo.",
+  "items": [
+   "SERVICIO PARA IMPULSAR EL USO MASIVO DE LOS CANALES DIGITALES DE ATENCIÓN AL CLIENTE (CHATBOT Y VIDEOGESTIÓN- CAMPAÑA ENSA DIGITAL), RADIO, TV, PRENSA ESCRITA Y REDES SOCIALES DE E"
+  ],
+  "valor": 113280.0,
+  "fecha": "2023-09-29",
+  "proveedor": "ALL BUSINESS SELECT SOLUTIONS SAC",
+  "postores": 12,
+  "ocid": "ocds-dgv273-seacev3-945677"
+ },
+ "empresa-de-servicio-publico-de-electricidad-electronorte-s-a--as-sm-41-2023-electronorte-s-a-1--gemelo-digital": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-41-2023-ELECTRONORTE S.A.-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE ALQUILER DE SOFTWARE COMO SERVICIO, EN ADELANTE SAAS, PARA EL GEMELO DIGITAL BIM PARA ELECTRONORTE S.A.",
+  "items": [
+   "SERVICIO DE ALQUILER DE SOFTWARE COMO SERVICIO (SAAS) PARA EL GEMELO DIGITAL PARA ELECTRONORTE S.A."
+  ],
+  "valor": 332948.79,
+  "fecha": "2023-11-03",
+  "proveedor": "PROFILE CONSULTING GROUP SOCIEDAD ANONIMA CERRADA - PROFILE CONSULTING GROUP S.A.C.",
+  "postores": 8,
+  "ocid": "ocds-dgv273-seacev3-2023-200195-206"
+ },
+ "empresa-de-servicio-publico-de-electricidad-electronorte-s-a--cp-sm-7-2022-electronorte-s-a-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-7-2022-ELECTRONORTE S.A.-1",
+  "descripcion": "CONTRATACIÓN DE SERVICIO DE MANTENIMIENTO PREDICTIVO EN SUB ESTACIONES DE POTENCIA DE LA EMPRESA ELECTRONORTE S.A. - 2022.",
+  "items": [
+   "CONTRATACIÓN DE SERVICIO DE MANTENIMIENTO PREDICTIVO EN SUB ESTACIONES DE POTENCIA DE LA EMPRESA ELECTRONORTE S.A. - 2022."
+  ],
+  "valor": 489357.77,
+  "fecha": "2022-06-10",
+  "proveedor": "EBENEN INGENIEROS S.A.C.",
+  "postores": 27,
+  "ocid": "ocds-dgv273-seacev3-2022-200195-215"
+ },
+ "empresa-de-servicios-publicos-de-electricidad-puno-s-a-a--as-sm-37-2020-elpu-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-37-2020-ELPU-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE SUBESTACIONES DE TRANSFORMACIÓN DE ELECTRO PUNO S.A.A.",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE SUBESTACIONES DE TRANSFORMACION DE ELECTRO PUNO S.A.A."
+  ],
+  "valor": 0.0,
+  "fecha": "2020-02-21",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2020-2541-50"
+ },
+ "empresa-de-servicios-publicos-de-electricidad-puno-s-a-a--as-sm-37-2020-elpu-2--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-37-2020-ELPU-2",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE SUBESTACIONES DE TRANSFORMACIÓN DE ELECTRO PUNO S.A.A.",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE SUBESTACIONES DE TRANSFORMACION DE ELECTRO PUNO S.A.A."
+  ],
+  "valor": 1312735.53,
+  "fecha": "2020-08-10",
+  "proveedor": "Consorcio Tesla T&D S.A.C. ¿ W&L Intesel Perú S.A.C.",
+  "postores": 23,
+  "ocid": "ocds-dgv273-seacev3-636579"
+ },
+ "empresa-de-servicios-publicos-de-electricidad-puno-s-a-a--cp-sm-4-2019-elpu-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-4-2019-ELPU-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE SUBESTACIONES DE TRANSFORMACION DE ELECTRO PUNO S.A.A.",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE SUBESTACIONES DE TRANSFORMACION DE ELECTRO PUNO S.A.A."
+  ],
+  "valor": 1309098.76,
+  "fecha": "2019-10-15",
+  "proveedor": "",
+  "postores": 24,
+  "ocid": "ocds-dgv273-seacev3-2019-2541-12"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-del-centro-sa-electrocentro-s-a--as-sm-9-2022-elcto-s-a-1--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-9-2022-ELCTO S.A.-1",
+  "descripcion": "ADQUISICIÓN DE EQUIPOS PARA MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE TRANSMISIÓN  ELECTROCENTRO S.A.",
+  "items": [
+   "EQUIPO PORTATÍL ANALIZADOR DE GASES DE TRANSFORMADOR",
+   "EQUIPO BARRIDO DE FRECUENCIA",
+   "EQUIPO DE PRUEBA DE TRANSFORMADORES DE CORRIENTE",
+   "EQUIPO DE PRUEBA DE TRANSFORMADORES DE TENSIÓN"
+  ],
+  "valor": 1395469.25,
+  "fecha": "2022-02-25",
+  "proveedor": "ENSYS S.A.C.",
+  "postores": 8,
+  "ocid": "ocds-dgv273-seacev3-2022-200192-192"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-del-centro-sa-electrocentro-s-a--cp-sm-29-2024-elcto-s-a-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-29-2024-ELCTO S.A.-1",
+  "descripcion": "MONITOREO MEDIANTE INTELIGENCIA ARTIFICIAL EN TIEMPO REAL, DE VEGETACIÓN EN LAS LINEAS DE  SUB TRANSMISIÓN Y PREDICCIÓN DE FALLAS",
+  "items": [
+   "MONITOREO MEDIANTE INTELIGENCIA ARTIFICIAL EN TIEMPO REAL, DE VEGETACIÓN EN LAS LINEAS DE \\nSUB TRANSMISIÓN Y PREDICCIÓN DE FALLAS"
+  ],
+  "valor": 1500926.37,
+  "fecha": "2024-09-05",
+  "proveedor": "GML TRANSMISSION LINE SOLUTIONS, S.A.",
+  "postores": 12,
+  "ocid": "ocds-dgv273-seacev3-2024-200192-195"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-del-centro-sa-electrocentro-s-a--lp-sm-2-2020-elcto-s-a-1--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Licitación Pública",
+  "titulo": "LP-SM-2-2020-ELCTO S.A.-1",
+  "descripcion": "ADQUISICIÓN DE EQUIPOS PARA MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE TRANSMISIÓN  ELECTROCENTRO S.A.",
+  "items": [
+   "EQUIPO PORTATÍL ANALIZADOR DE GASES DE TRANSFORMADOR",
+   "EQUIPO PORTATÍL DE PRUEBA DE HUMEDAD DE GAS SF6",
+   "TELUROMETRO DE ALTA FRECUENCIA",
+   "EQUIPO BARRIDO DE FRECUENCIA"
+  ],
+  "valor": 0.0,
+  "fecha": "2020-12-15",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2020-200192-25"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--as-sm-105-2019-hdna-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-105-2019-HDNA-1",
+  "descripcion": "Servicio de actividades de mantenimiento predictivo, preventivo, correctivo, atención de emergencias, mediciones de calidad, ejecución de pequeñas remodelaciones y ampliaciones en el sistema eléctrico de Trujillo - unidad de mantenimiento de distribución - Hidrandina S.A",
+  "items": [
+   "Servicio de actividades de mantenimiento predictivo, preventivo, correctivo, atención de emergencias, mediciones de calidad, ejecución de pequeñas remodelaciones y ampliaciones en "
+  ],
+  "valor": 17691779.58,
+  "fecha": "2019-12-11",
+  "proveedor": "CONSORCIO GALCAS NORTE",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-2019-200191-36"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--as-sm-44-2018-hdna-1-1--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-44-2018-HDNA-1-1",
+  "descripcion": "Equipos de campo para mantenimiento predictivo de la Unidad de Mantenimiento de Transmisión.",
+  "items": [
+   "CÁMARA CON EFECTO CORONA PARA SECTORES DE PRODUCCIÓN Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA",
+   "CÁMARA TERMO GRÁFICA PARA SECTORES DE PRODUCCIÓN Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA"
+  ],
+  "valor": 354329.4,
+  "fecha": "2018-12-17",
+  "proveedor": "",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-506121"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--as-sm-44-2018-hdna-1-2--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-44-2018-HDNA-1-2",
+  "descripcion": "ADQUISICION DE EQUIPOS DE CAMPO PARA MANTENIMIENTO PREDICTIVO DE LA UMT Ítem 1 y 2",
+  "items": [
+   "CÁMARA CON EFECTO CORONA PARA SECTORES DE PRODUCCIÓN Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA",
+   "CÁMARA TERMO GRÁFICA PARA SECTORES DE PRODUCCIÓN Y DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA"
+  ],
+  "valor": 313880.0,
+  "fecha": "2019-03-29",
+  "proveedor": "LOGYTEC S.A.",
+  "postores": 3,
+  "ocid": "ocds-dgv273-seacev3-521253"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--as-sm-80-2021-hdna-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-80-2021-HDNA-1",
+  "descripcion": "SERVICIO DE ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, ATENCIÓN DE EMERGENCIAS, MEDICIONES DE CALIDAD, EJECUCIÓN DE PEQUEÑAS REMODELACIONES Y AMPLIACIONES EN EL SISTEMA ELÉCTRICO DE TRUJILLO - HIDRANDINA S.A",
+  "items": [
+   "SERV. DE MNTTO. PREDICTIVO, PREVENTIVO, CORRECTIVO, ATENCIÓN DE EMERGENCIAS, MEDIC. DE CALIDAD Y EJECUCIÓN DE PEQUEÑAS REMODELACIONES Y AMPLIACIONES EN EL SISTEMA ELÉCTRICO DE TRUJ"
+  ],
+  "valor": 24643267.27,
+  "fecha": "2021-12-20",
+  "proveedor": "CONSORCIO GALCAS NORTE",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-767270"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-abr-3-2026-hdna-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público Abreviado",
+  "titulo": "CP-ABR-3-2026-HDNA-1",
+  "descripcion": "Servicio Especializado de Mantenimiento Predictivo, Preventivo, Correctivo y Actividades u Operaciones Conexas al Mantenimiento del Sistema de Distribución de Energía Eléctrica en los Servicios Eléctricos de la Jurisdicción de la Unidad Operativa La Libertad Sierra",
+  "items": [
+   "Servicio Especializado de Mantenimiento Predictivo, Preventivo, Correctivo y Actividades u Operaciones Conexas al Mantenimiento del Sistema de Distribución de Energía Eléctrica en "
+  ],
+  "valor": 29913668.59,
+  "fecha": "2026-03-06",
+  "proveedor": "CONSORCIO ENERGY NORTE",
+  "postores": 12,
+  "ocid": "ocds-dgv273-seacev3-1193810"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-ser-sm-1-2025-hdna-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-1-2025-HDNA-1",
+  "descripcion": "SERVICIO DE ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO DEL SISTEMA DE DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA DE LA UNIDAD EMPRESARIAL LA LIBERTAD NORTE PERIODO 2025 AL 2028",
+  "items": [
+   "SERVICIO DE ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO DEL SISTEMA DE DISTRIBUCIÓN DE ENERGÍA ELÉCTRICA DE LA UNIDAD EMPRESARIAL LA LIBERTAD NORTE PERIODO 2025 AL 2028"
+  ],
+  "valor": 28001732.87,
+  "fecha": "2025-10-23",
+  "proveedor": "",
+  "postores": 30,
+  "ocid": "ocds-dgv273-seacev3-2025-200191-85"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-ser-sm-3-2025-hdna-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-3-2025-HDNA-1",
+  "descripcion": "Servicio Especializado de Mantenimiento Predictivo, Preventivo, Correctivo y Actividades u Operaciones Conexas al Mantenimiento del Sistema de Distribución de Energía Eléctrica en los Servicios Eléctricos de la Jurisdicción de la Unidad Operativa La Libertad Sierra",
+  "items": [
+   "Servicio Especializado de Mtto Predictivo, Preventivo, Correctivo y Actividades u Operaciones Conexas al Mtto del Sistema de Distribución de Energía Eléctrica en la UOLS"
+  ],
+  "valor": 29913668.59,
+  "fecha": "2025-10-23",
+  "proveedor": "",
+  "postores": 13,
+  "ocid": "ocds-dgv273-seacev3-2025-200191-89"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-sm-18-2022-hdna-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-18-2022-HDNA-1",
+  "descripcion": "Contratación de una Empresa para Ejecutar el Servicio Especializado de Mantenimiento Predictivo, Preventivo, Correctivo y Actividades u Operaciones Conexas al Mantenimiento del Sistema de Distribución de Energía Eléctrica en los Servicios Eléctricos de la Jurisdicción de la Unidad Operativa La Libertad Sierra",
+  "items": [
+   "Contratación de una Empresa para Ejecutar el Servicio Especializado de Mantenimiento Predictivo, Preventivo, Correctivo y Actividades u Operaciones Conexas al Mantenimiento del Sis"
+  ],
+  "valor": 28353508.49,
+  "fecha": "2022-07-27",
+  "proveedor": "Consorcio Corporación Peruana de Mantenimiento Eléctrico - COPEMANE",
+  "postores": 7,
+  "ocid": "ocds-dgv273-seacev3-2022-200191-139"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-sm-27-2021-hdna-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-27-2021-HDNA-1",
+  "descripcion": "SERVICIO DE ACTIVIDADES DE MANTENIMIENTO PREDICTIVO, PREVENTIVO, CORRECTIVO, ATENCIÓN DE EMERGENCIAS, MEDICIONES DE CALIDAD, EJECUCIÓN DE PEQUEÑAS REMODELACIONES Y AMPLIACIONES EN EL SISTEMA ELÉCTRICO DE TRUJILLO - HIDRANDINA S.A",
+  "items": [
+   "SERV. DE MNTTO. PREDICTIVO, PREVENTIVO, CORRECTIVO, ATENCIÓN DE EMERGENCIAS, MEDIC. DE CALIDAD Y EJECUCIÓN DE PEQUEÑAS REMODELACIONES Y AMPLIACIONES EN EL SISTEMA ELÉCTRICO DE TRUJ"
+  ],
+  "valor": 24643267.27,
+  "fecha": "2021-09-02",
+  "proveedor": "",
+  "postores": 21,
+  "ocid": "ocds-dgv273-seacev3-2021-200191-207"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-sm-6-2020-hdna-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-6-2020-HDNA-1",
+  "descripcion": "Servicio de Actividades de Operación y Mantenimiento Predictivo, Preventivo y Correctivo del Sistema de Distribución de Energía Eléctrica en Sede y Servicios Eléctricos de la Unidad Empresarial La Libertad Norte.",
+  "items": [
+   "Servicio de Actividades de Operación y Mantenimiento Predictivo, Preventivo y Correctivo del Sistema de Distribución de Energía Eléctrica en Sede y Servicios Eléctricos de la Unida"
+  ],
+  "valor": 16150112.08,
+  "fecha": "2020-08-07",
+  "proveedor": "SERVICIOS SANTA GABRIELA S.A.C.",
+  "postores": 12,
+  "ocid": "ocds-dgv273-seacev3-2020-200191-36"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-sm-6-2022-hdna-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-6-2022-HDNA-1",
+  "descripcion": "Servicio de actividades de operación y mantenimiento predictivo, preventivo y correctivo del sistema de distribución de energía eléctrica en sede y servicios eléctricos de la Unidad Empresarial la Libertad Norte.",
+  "items": [
+   "Servicio de actividades de operación y mantenimiento predictivo, preventivo y correctivo del sistema de distribución de energía eléctrica en sede y servicios eléctricos de la Unida"
+  ],
+  "valor": 26281289.45,
+  "fecha": "2022-04-28",
+  "proveedor": "SERVICIOS SANTA GABRIELA S.A.C.",
+  "postores": 16,
+  "ocid": "ocds-dgv273-seacev3-2022-200191-13"
+ },
+ "empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-sm-8-2024-hdna-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-8-2024-HDNA-1",
+  "descripcion": "Servicio de actividades de mantenimiento predictivo, preventivo, correctivo, mediciones de calidad y ejecución de pequeñas remodelaciones y ampliaciones en La Unidad de Mantenimiento de Distribución de La UUEE La Libertad - HIDRANDINA S.A.",
+  "items": [
+   "Servicio de actividades de mantenimiento predictivo, preventivo, correctivo, mediciones de calidad y ejecución de pequeñas remodelaciones y ampliaciones en La Unidad de Mantenimien"
+  ],
+  "valor": 55217952.73,
+  "fecha": "2024-05-06",
+  "proveedor": "REPRESENTACIONES Y SERVICIOS INGENIEROS S.R.L.",
+  "postores": 19,
+  "ocid": "ocds-dgv273-seacev3-2024-200191-183"
+ },
+ "empresa-regional-de-servicios-publicos-de-electricidad-del-oriente--as-sm-7-2020-eo-l-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-7-2020-EO-L-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO EN CALIENTE DE LÍNEAS DE TRANSMISIÓN EN 60KV Y 138 KV - GERENCIA REGIONAL SAN MARTIN ¿ ELECTRO ORIENTE S.A.",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO EN CALIENTE DE LÍNEAS DE TRANSMISIÓN EN 60KV Y 138 KV - GERENCIA REGIONAL SAN MARTIN ¿ ELECTRO ORIENTE S.A."
+  ],
+  "valor": 563075.94,
+  "fecha": "2020-01-30",
+  "proveedor": "CONSORCIO LINEAS DEL PERU",
+  "postores": 18,
+  "ocid": "ocds-dgv273-seacev3-621606"
+ },
+ "empresa-regional-de-servicios-publicos-de-electricidad-del-oriente--cp-sm-4-2019-eo-sm-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-4-2019-EO-SM-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO EN CALIENTE DE LÍNEAS DE TRANSMISIÓN EN 60KV Y 138 KV - GERENCIA REGIONAL SAN MARTIN ¿ ELECTRO ORIENTE S.A.",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO EN CALIENTE DE LÍNEAS DE TRANSMISIÓN EN 60KV Y 138 KV - GERENCIA REGIONAL SAN MARTIN ¿ ELECTRO ORIENTE S.A."
+  ],
+  "valor": 563075.94,
+  "fecha": "2019-11-25",
+  "proveedor": "",
+  "postores": 11,
+  "ocid": "ocds-dgv273-seacev3-2019-2406-284"
+ },
+ "entidad-prestadora-de-servicio-de-saneamiento-de-cusco-s-a--as-sm-14-2021-eps-sedacusco-s-a-1--mantenimiento-predictivo": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-14-2021-EPS. SEDACUSCO S.A.-1",
+  "descripcion": "ADQUISICIÓN DE UNA CÁMARA TERMOGRAFICA Y UN ANALIZADOR DE VIBRACIONES PARA EL MANTENIMIENTO PREDICTIVO DE LOS EQUIPOS ELECTROMECÁNICOS DE LA PTAR DE SAN JERÓNIMO",
+  "items": [
+   "ADQUISICIÓN DE UNA CÁMARA TERMOGRAFICA Y UN ANALIZADOR DE VIBRACIONES PARA EL MANTENIMIENTO PREDICTIVO DE LOS EQUIPOS ELECTROMECÁNICOS DE LA PTAR DE SAN JERONIMO"
+  ],
+  "valor": 110817.34,
+  "fecha": "2021-12-22",
+  "proveedor": "INSTEC S.A.",
+  "postores": 8,
+  "ocid": "ocds-dgv273-seacev3-2021-2364-24"
+ },
+ "fondo-de-aseguramiento-en-salud-de-la-policia-nacional-del-peru--cp-ser-sm-5-2026-in-saludpol-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-5-2026-IN/SALUDPOL-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE IMPLEMENTACIÓN DE UN VOICEBOT CON INTELIGENCIA ARTIFICIAL Y PROVISIÓN DE BOLSA DE MINUTOS PARA LA ATENCIÓN AUTOMATIZADA DE LLAMADAS DE ASEGURADOS DE SALUDPOL",
+  "items": [
+   "CONTRATACIÓN DEL SERVICIO DE IMPLEMENTACIÓN DE UN VOICEBOT CON INTELIGENCIA ARTIFICIAL Y PROVISIÓN DE BOLSA DE MINUTOS PARA LA ATENCIÓN AUTOMATIZADA DE LLAMADAS DE ASEGURADOS DE SA"
+  ],
+  "valor": 0.0,
+  "fecha": "2026-06-09",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-1223687"
+ },
+ "fondo-mivivienda-s-a--cp-abr-5-2025-fmv-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Concurso Público Abreviado",
+  "titulo": "CP-ABR-5-2025-FMV-1",
+  "descripcion": "SERVICIO DE IMPLEMENTACIÓN DE UNA PLATAFORMA OMNICANAL DE ATENCIÓN CIUDADANA CON INTELIGENCIA ARTIFICIAL CONVERSACIONAL EN EL FONDO MIVIVIENDA",
+  "items": [
+   "SERVICIO DE IMPLEMENTACIÓN DE UNA PLATAFORMA OMNICANAL DE ATENCIÓN CIUDADANA CON INTELIGENCIA ARTIFICIAL CONVERSACIONAL EN EL FONDO MIVIVIENDA"
+  ],
+  "valor": 483034.92,
+  "fecha": "2025-08-26",
+  "proveedor": "",
+  "postores": 23,
+  "ocid": "ocds-dgv273-seacev3-1145159"
+ },
+ "fondo-mivivienda-s-a--cp-abr-5-2025-fmv-2--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Concurso Público Abreviado",
+  "titulo": "CP-ABR-5-2025-FMV-2",
+  "descripcion": "SERVICIO DE IMPLEMENTACIÓN DE UNA PLATAFORMA OMNICANAL DE ATENCIÓN CIUDADANA CON INTELIGENCIA ARTIFICIAL CONVERSACIONAL EN EL FONDO MIVIVIENDA",
+  "items": [
+   "SERVICIO DE IMPLEMENTACIÓN DE UNA PLATAFORMA OMNICANAL DE ATENCIÓN CIUDADANA CON INTELIGENCIA ARTIFICIAL CONVERSACIONAL EN EL FONDO MIVIVIENDA"
+  ],
+  "valor": 483034.92,
+  "fecha": "2025-10-22",
+  "proveedor": "",
+  "postores": 16,
+  "ocid": "ocds-dgv273-seacev3-1193119"
+ },
+ "fondo-mivivienda-s-a--cp-abr-7-2026-fmv-1--automatizacion-robotica-de-procesos": {
+  "categoria": "services",
+  "metodo": "Concurso Público Abreviado",
+  "titulo": "CP-ABR-7-2026-FMV-1",
+  "descripcion": "SOFTWARE DE AUTOMATIZACIÓN ROBÓTICA DE PROCESOS (RPA) ¿ AUTOMATION ANYWHERE",
+  "items": [
+   "SOFTWARE DE AUTOMATIZACIÓN ROBÓTICA DE PROCESOS (RPA) ¿ AUTOMATION ANYWHERE"
+  ],
+  "valor": 470840.0,
+  "fecha": "2026-04-30",
+  "proveedor": "BELLTECH PERU SAC",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-1211476"
+ },
+ "gobierno-regional-de-ayacucho-hospital-huamanga--compre-sm-10-2021-hra-oec-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Comparación de Precios",
+  "titulo": "COMPRE-SM-10-2021-HRA/OEC-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CORRECTIVO DEL SISTEMA DE REGENERACIÓN DE AGUA BLANDA (ABLANDADOR) DEL HOSPITAL REGIONAL DE AYACUCHO SEDE CANAN",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CORRECTIVO DEL SISTEMA DE REGENERACIÓN DE AGUA BLANDA (ABLANDADOR) DEL HOSPITAL REGIONAL DE AYACUCHO SEDE CANAN."
+  ],
+  "valor": 64650.0,
+  "fecha": "2021-11-10",
+  "proveedor": "INGENIERIA MEDICA & INDUSTRIAL E.I.R.L. - INME & IND E.I.R.L.",
+  "postores": 3,
+  "ocid": "ocds-dgv273-seacev3-754875"
+ },
+ "gobierno-regional-de-la-libertad-proyecto-especial-chavimochic--as-sm-28-2022-pech-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-28-2022-PECH-1",
+  "descripcion": "CONTRATACIÓN DE SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE TUBERÍA FORZADA PARA EQUIPO HIDROMECÁNICO - SERVICIO DE EVALUACIÓN Y DIAGNÓSTICO DE LA TUBERÍA FORZADA DE LA CH VIRÚ",
+  "items": [
+   "CONTRATACIÓN DE SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE TUBERÍA FORZADA PARA EQUIPO HIDROMECÁNICO - SERVICIO DE EVALUACIÓN Y DIAGNÓSTICO DE LA TUBERÍA FORZADA DE LA CH"
+  ],
+  "valor": 0.0,
+  "fecha": "2022-08-24",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2022-10356-40"
+ },
+ "gobierno-regional-de-la-libertad-proyecto-especial-chavimochic--as-sm-28-2022-pech-2--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-28-2022-PECH-2",
+  "descripcion": "CONTRATACIÓN DE SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE TUBERÍA FORZADA PARA EQUIPO HIDROMECÁNICO - SERVICIO DE EVALUACIÓN Y DIAGNÓSTICO DE LA TUBERÍA FORZADA DE LA CH VIRÚ",
+  "items": [
+   "CONTRATACIÓN DE SERVICIO DE MANTENIMIENTO PREDICTIVO Y PREVENTIVO DE TUBERÍA FORZADA PARA EQUIPO HIDROMECÁNICO - SERVICIO DE EVALUACIÓN Y DIAGNÓSTICO DE LA TUBERÍA FORZADA DE LA CH"
+  ],
+  "valor": 112572.0,
+  "fecha": "2022-09-26",
+  "proveedor": "VERA CORP S.A.C.",
+  "postores": 5,
+  "ocid": "ocds-dgv273-seacev3-847663"
+ },
+ "hospital-regional-de-lambayeque--sistema-de-ia-cadeye-para-endoscopia-digestiva": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "instituto-de-investigaciones-de-la-amazonia-peruana--view-leaf": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "instituto-geofisico-del-peru--inter-proc-7-2021-igp-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Contratación Internacional",
+  "titulo": "INTER-PROC-7-2021-IGP-1",
+  "descripcion": "Adquisición de Estación de Trabajo de Inteligencia Artificial para el Proyecto ¿Creación del Servicio de Generación de Información de Alerta ante el Peligro por Sismo para Poblaciones de la Región de la Costa del Perú¿",
+  "items": [
+   "Adquisición de Estación de Trabajo de Inteligencia Artificial para el Proyecto Creación del Servicio de Generación de Información de Alerta ante el Peligro por Sismo para Poblacion"
+  ],
+  "valor": 726794.6,
+  "fecha": "2021-12-03",
+  "proveedor": "Atos IT Solution and Services S.A.S.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-763285"
+ },
+ "instituto-nacional-de-enfermedades-neoplasicas--as-sm-18-2020-inen-1--reconocimiento-facial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-18-2020-INEN-1",
+  "descripcion": "ADQUISICION DE SISTEMA DE CONTROL DE ASISTENCIA CON RECONOCIMIENTO FACIAL",
+  "items": [
+   "ADQUISICION DE SISTEMA DE CONTROL DE ASISTENCIA CON RECONOCIMIENTO FACIAL"
+  ],
+  "valor": 0.0,
+  "fecha": "2020-09-21",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2020-10194-62"
+ },
+ "instituto-nacional-de-enfermedades-neoplasicas--resonador-magnetico-con-ia-para-diagnostico-oncologico": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "instituto-nacional-de-innovacion-agraria-inia--as-sm-62-2024-inia-1--biometria": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-62-2024-INIA-1",
+  "descripcion": "SERVICIO DE CONSULTORÍA DE OBRA PARA LA SUPERVISIÓN DE LA EJECUCIÓN DE LA OBRA SEGUNDA ETAPA DE LA CONSTRUCCIÓN DE LOS LABORATORIOS DE BIOMETRÍA Y GENÉTICA MOLECULAR, CONSTRUCCIÓN DE INVERNADERO, ASCENSOR Y PUENTE METÁLICO, EN EL MARCO DEL PI CON CUI 2480490 - PROAGROBIO",
+  "items": [
+   "Servicio de consultoría de obra para la supervisión de la ejecución de la obra Segunda etapa de la Construcción de los laboratorios de biometría y genética molecular, construcción "
+  ],
+  "valor": 330588.92,
+  "fecha": "2024-09-13",
+  "proveedor": "VARGAS VIGO PAUL YERKO",
+  "postores": 44,
+  "ocid": "ocds-dgv273-seacev3-2024-1972-104"
+ },
+ "instituto-nacional-de-innovacion-agraria-inia--lp-sm-1-2024-inia-1--biometria": {
+  "categoria": "works",
+  "metodo": "Licitación Pública",
+  "titulo": "LP-SM-1-2024-INIA-1",
+  "descripcion": "Construcción de los laboratorios de biometría y genética molecular, construcción de invernadero, ascensor y puente metálico del proyecto PROAGOBIO con CUI 2480490",
+  "items": [
+   "Ejecución de obra - segunda etapa: \"Construcción de los laboratorios de biometría y genética molecular, construcción de invernadero, ascensor y puente metálico del proyecto PROAGOB"
+  ],
+  "valor": 12505100.01,
+  "fecha": "2024-05-22",
+  "proveedor": "CONSORCIO EJECUTOR INIA",
+  "postores": 60,
+  "ocid": "ocds-dgv273-seacev3-1018035"
+ },
+ "instituto-nacional-de-salud-del-nino--qhali-robot-enfermera-con-ia": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "instituto-peruano-del-deporte--directa-directa-28-2025-ipd-ul-1--ciencia-de-datos": {
+  "categoria": "goods",
+  "metodo": "Contratación Directa",
+  "titulo": "DIRECTA-DIRECTA-28-2025-IPD/UL-1",
+  "descripcion": "ADQUISICIÓN E IMPLEMENTACIÓN DELICENCIA DE UN SISTEMA DE GESTIÓN DE CIENCIA DE DATOS Y AUTOMATIZACIÓN DE PROCESOS PARA LAS COMPETENCIAS DEPORTIVAS DE LOS XX JUEGOS DEPORTIVOS BOLIVARIANOS AYACUCHO Y LIMA 2025",
+  "items": [
+   "ADQUISICIÓN E IMPLEMENTACIÓN DELICENCIA DE UN SISTEMA DE GESTIÓN DE CIENCIA DE DATOS Y AUTOMATIZACIÓN DE PROCESOS PARA LAS COMPETENCIAS DEPORTIVAS DE LOS XX JUEGOS DEPORTIVOS BOLIV"
+  ],
+  "valor": 1638000.0,
+  "fecha": "2025-11-12",
+  "proveedor": "",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-1169271"
+ },
+ "instituto-tecnologico-de-la-produccion--conv-proc-1-2025-sd-itp-ctr-bid4-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-1-2025-SD-ITP/CTR-BID4-1",
+  "descripcion": "AMPLIACIÓN DE LA CAPACIDAD DE IDENTIFICACIÓN DE ESPECIES MADERABLES CON HERRAMIENTA TECNOLÓGICA QUE USA INTELIGENCIA ARTIFICIAL - ARBORTRON",
+  "items": [
+   "AMPLIACIÓN DE LA CAPACIDAD DE IDENTIFICACIÓN DE ESPECIES MADERABLES CON HERRAMIENTA TECNOLÓGICA QUE USA INTELIGENCIA ARTIFICIAL - ARBORTRON"
+  ],
+  "valor": 66670.0,
+  "fecha": "2025-06-05",
+  "proveedor": "SOSTENIBILIDAD DE BOSQUES PARA EL DESARROLLO Y CAMBIO CLIMATICO E.I.R.L.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2025-1983-32"
+ },
+ "jurado-nacional-de-elecciones--eleccia": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "mejora-de-la-calidad-de-servicios-registrales-reniec--conv-proc-4-2022-lpi-2022-mcsr-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-4-2022-LPI-2022-MCSR-1",
+  "descripcion": "SERVICIO DE IMPLEMENTACIÓN DE SERVICIO DE INTELIGENCIA ARTIFICIAL ¿ ASISTENTE INTEGRAL - P21",
+  "items": [
+   "SERVICIO DE IMPLEMENTACIÓN DE SERVICIO DE INTELIGENCIA ARTIFICIAL ¿ ASISTENTE INTEGRAL - P21"
+  ],
+  "valor": 3175060.79,
+  "fecha": "2022-07-05",
+  "proveedor": "",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-802543"
+ },
+ "mejora-de-la-calidad-de-servicios-registrales-reniec--conv-proc-8-2022-lpi-2022-mcsr-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-8-2022-LPI-2022-MCSR-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE APROVISIONAMIENTO DE PLATAFORMA DE GESTIÓN DE CONTENIDOS DIGITALES CON INTELIGENCIA ARTIFICIAL (ASISTENTE INTEGRAL - CHATBOT) EN LA NUBE, EN MODO PAAS",
+  "items": [
+   "CONTRATACIÓN DEL SERVICIO DE APROVISIONAMIENTO DE PLATAFORMA DE GESTIÓN DE CONTENIDOS DIGITALES CON INTELIGENCIA ARTIFICIAL (ASISTENTE INTEGRAL - CHATBOT) EN LA NUBE, EN MODO PAAS"
+  ],
+  "valor": 5509775.6,
+  "fecha": "2022-12-30",
+  "proveedor": "VASS CONSULTORIA DE SISTEMAS PERU S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-215627-283"
+ },
+ "mejoramiento-de-servicios-a-ciudadanos-y-empresas--inter-proc-16-2020-pcm-promsace-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Contratación Internacional",
+  "titulo": "INTER-PROC-16-2020-PCM/PROMSACE-1",
+  "descripcion": "Servicio de Asesoría Internacional para el Despliegue de la Estrategia Nacional de Gobierno y Ciencia de Datos",
+  "items": [
+   "Servicio de Asesoría Internacional para el Despliegue de la Estrategia Nacional de Gobierno y Ciencia de Datos"
+  ],
+  "valor": 120288.0,
+  "fecha": "2020-12-14",
+  "proveedor": "MARÍA DEL ROSARIO BRUERA SANZ",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2020-196242-103"
+ },
+ "ministerio-de-comercio-exterior-y-turismo--chat": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "ministerio-de-desarrollo-agrario-y-riego--ide": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "ministerio-de-economia-y-finanzas--as-sm-19-2021-ef-43-2--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-19-2021-EF/43-2",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE DESARROLLO DE CAPACIDADES EN INTELIGENCIA ARTIFICIAL PARA EL MINISTERIO DE ECONOMÍA Y FINANZAS",
+  "items": [
+   "CONTRATACIÓN DEL SERVICIO DE DESARROLLO DE CAPACIDADES EN INTELIGENCIA ARTIFICIAL PARA EL MINISTERIO DE ECONOMÍA Y FINANZAS"
+  ],
+  "valor": 40000.0,
+  "fecha": "2021-12-22",
+  "proveedor": "",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-2021-13-70"
+ },
+ "ministerio-de-economia-y-finanzas--as-sm-32-2022-ef-43-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-32-2022-EF/43-1",
+  "descripcion": "SERVICIO PARA LA FORMULACIÓN DE REPORTES BAJO LOS FORMATOS APROBADOS POR LA PMO PARA LOS PROYECTOS ESTRATÉGICOS P04 ¿DISEÑO DE LA NUEVA ARQUITECTURA PARA GOBIERNO DE DATOS DEL MEF¿, P06 ¿DISEÑO E IMPLEMENTACIÓN DE TECNOLOGÍAS DE BLOCKCHAIN, INTELIGENCIA DE NEGOCIOS E INTELIGENCIA ARTIFICIAL¿, ASÍ COMO LA SUPERVISIÓN DEL PROYECTO ESTRATÉGICO P08 ¿DISEÑO E IMPLEMENTACIÓN DE INFRAESTRUCTURA DE NUBE HÍBRIDA¿, EN EL MARCO DEL PLAN DE GOBIERNO DIGITAL 2022 ¿ 2024",
+  "items": [
+   "SERVICIO PARA LA FORMULACIÓN DE REPORTES BAJO LOS FORMATOS APROBADOS POR LA PMO PARA LOS PROYECTOS ESTRATÉGICOS P04 ¿DISEÑO DE LA NUEVA ARQUITECTURA PARA GOBIERNO DE DATOS DEL MEF¿"
+  ],
+  "valor": 96000.0,
+  "fecha": "2022-12-27",
+  "proveedor": "",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-2022-13-90"
+ },
+ "ministerio-de-educacion--smart-churay-yachay": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "ministerio-de-la-mujer-y-poblaciones-vulnerables-administracion-general--as-sm-11-2023-mimp-1--reconocimiento-facial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-11-2023-MIMP-1",
+  "descripcion": "ADQUISICIÓN DE VEINTICUATRO (24) EQUIPOS DE CONTROL DE ACCESO MEDIANTE RECONOCIMIENTO FACIAL PARA EL REGISTRO DE INFORMACIÓN DE ENTRADA Y SALIDA DE LOS TRABAJADORES DEL MIMP",
+  "items": [
+   "ADQUISICIÓN DE VEINTICUATRO (24) EQUIPOS DE CONTROL DE ACCESO MEDIANTE RECONOCIMIENTO FACIAL PARA EL REGISTRO DE INFORMACIÓN DE ENTRADA Y SALIDA DE LOS TRABAJADORES DEL MIMP"
+  ],
+  "valor": 0.0,
+  "fecha": "2023-10-18",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2023-20-38"
+ },
+ "ministerio-de-la-produccion--maia-mype-asesor-ia": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "ministerio-de-trabajo-y-promocion-del-empleo--bolsa-de-trabajo": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "ministerio-de-transportes-y-comunicaciones--lia": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "ministerio-del-ambiente--sigersol": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "ministerio-del-interior--monitoreo-de-servidores": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "ministerio-publico--as-sm-13-2019-mpfn-1--reconocimiento-facial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-13-2019-MPFN-1",
+  "descripcion": "Adquisición de Escáner Portátil de reconocimiento facial en 3D",
+  "items": [
+   "Adquisición de Escáner Portátil de reconocimiento facial en 3D"
+  ],
+  "valor": 110000.0,
+  "fecha": "2019-06-27",
+  "proveedor": "CAD SOLUTIONS SA",
+  "postores": 5,
+  "ocid": "ocds-dgv273-seacev3-2019-26-72"
+ },
+ "ministerio-publico--as-sm-20-2023-mp-fn-1--biometria": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-20-2023-MP-FN-1",
+  "descripcion": "ADQUISICIÓN  DE  UN  (01)  SOFTWARE  DE  BIOMETRÍA  DE  VOZ  PARA  EL  ÁREA  DE  FONÉTICA ACÚSTICA FORENSE EN EL MARCO DEL PROYECTO LUXEMBURGO",
+  "items": [
+   "ADQUISICIÓN DE UN (01) SOFTWARE DE BIOMETRÍA DE VOZ PARA EL ÁREA DE FONÉTICA Y ACÚSTICA FORENSE, EN EL MARCO DEL PROYECTO LUXEMBURGO"
+  ],
+  "valor": 1699880.82,
+  "fecha": "2023-07-31",
+  "proveedor": "IDENTIBIO  S.A.C.",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-2023-26-162"
+ },
+ "ministerio-publico--lp-sm-8-2022-mp-fn-1--biometria": {
+  "categoria": "goods",
+  "metodo": "Licitación Pública",
+  "titulo": "LP-SM-8-2022-MP-FN-1",
+  "descripcion": "ADQUISICIÓN DE UN (01) SOFTWARE DE BIOMETRÍA DE VOZ PARA EL ÁREA DE FONÉTICA Y ACÚSTICA FORENSE, EN EL MARCO DEL PROYECTO LUXEMBURGO",
+  "items": [
+   "ADQUISICIÓN DE UN (01) SOFTWARE DE BIOMETRÍA DE VOZ PARA EL ÁREA DE FONÉTICA Y ACÚSTICA FORENSE, EN EL MARCO DEL PROYECTO LUXEMBURGO"
+  ],
+  "valor": 1699880.82,
+  "fecha": "2022-12-29",
+  "proveedor": "",
+  "postores": 3,
+  "ocid": "ocds-dgv273-seacev3-2022-26-81"
+ },
+ "ministerio-publico-carpeta-fiscal-electronica--conv-proc-59-2022-sci-bid-1--machine-learning": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-59-2022-SCI-BID-1",
+  "descripcion": "Analista Machine Learning Junior NCPP",
+  "items": [
+   "Analista Machine Learning Junior NCPP"
+  ],
+  "valor": 13500.0,
+  "fecha": "2022-04-13",
+  "proveedor": "RIVERA VERGARAY KEVIN",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-232347-261"
+ },
+ "organismo-de-evaluacion-y-fiscalizacion-ambiental--as-sm-19-2020-oefa-1--reconocimiento-facial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-19-2020-OEFA-1",
+  "descripcion": "ADQUISICIÓN DE RELOJES BIOMÉTRICOS DE CONTROL DE ASISTENCIA CON SISTEMA DE RECONOCIMIENTO FACIAL",
+  "items": [
+   "ADQUISICIÓN DE RELOJES BIOMÉTRICOS DE CONTROL DE ASISTENCIA CON SISTEMA DE RECONOCIMIENTO FACIAL"
+  ],
+  "valor": 99717.08,
+  "fecha": "2020-11-04",
+  "proveedor": "",
+  "postores": 8,
+  "ocid": "ocds-dgv273-seacev3-2020-200276-706"
+ },
+ "organismo-de-supervision-de-los-recursos-forestales-y-de-fauna-silvestre--adetop-v2": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "organismo-supervisor-de-inversion-privada-en-telecomunicaciones--as-sm-14-2021-osiptel-1--asistente-virtual": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-14-2021-OSIPTEL-1",
+  "descripcion": "Servicio de diseño, desarrollo, implementación y soporte de un asistente virtual (Chat y Audio) para página web y contact center",
+  "items": [
+   "Servicio de diseño, desarrollo, implementación y soporte de un asistente virtual (Chat y Audio) para página web y contact center"
+  ],
+  "valor": 337800.0,
+  "fecha": "2021-09-08",
+  "proveedor": "ALTIMEA COMMUNICATION SOCIEDAD ANONIMA CERRADA",
+  "postores": 13,
+  "ocid": "ocds-dgv273-seacev3-2021-1920-69"
+ },
+ "organismo-supervisor-de-inversion-privada-en-telecomunicaciones--asistente-virtual-chat-y-audio-para-pagina-web-y-contact-center": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "organismo-supervisor-de-la-inversion-en-energia-y-mineria--cp-ser-sm-1-2025-osinergmin-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-1-2025-OSINERGMIN-1",
+  "descripcion": "CONTRATACIÓN DE LA PLATAFORMA E INFRAESTRUCTURA DE DATOS E INTELIGENCIA ARTIFICIAL PARA OSINERGMIN",
+  "items": [
+   "CONTRATACIÓN DE LA PLATAFORMA E INFRAESTRUCTURA DE DATOS E INTELIGENCIA ARTIFICIAL PARA OSINERGMIN"
+  ],
+  "valor": 5913000.0,
+  "fecha": "2025-06-19",
+  "proveedor": "",
+  "postores": 24,
+  "ocid": "ocds-dgv273-seacev3-2025-1921-113"
+ },
+ "organismo-supervisor-de-la-inversion-en-energia-y-mineria--cp-ser-sm-2-2025-osinergmin-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-2-2025-OSINERGMIN-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE IMPLEMENTACIÓN DE SOLUCIONES DE INTELIGENCIA ARTIFICIAL GENERATIVA PARA OSINERGMIN",
+  "items": [
+   "Contratación del servicio de implementación IA Generativa para los procesos\\ntransversales",
+   "Contratación del servicio de implementación IA Generativa para supervisión y regulación de los sectores Energía y Minería",
+   "Contratación del servicio de implementación IA Generativa para la asistencia de los órganos resolutivos",
+   "Contratación del servicio de implementación IA Generativa para la gestión administrativa"
+  ],
+  "valor": 6036000.0,
+  "fecha": "2025-06-20",
+  "proveedor": "",
+  "postores": 26,
+  "ocid": "ocds-dgv273-seacev3-2025-1921-112"
+ },
+ "organismo-supervisor-de-la-inversion-en-energia-y-mineria--cp-sm-39-2021-osinergmin-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-39-2021-OSINERGMIN-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE DESARROLLO E IMPLEMENTACIÓN DE UN MODELO DE PREDICCIÓN DE INTERRUPCIONES ELÉCTRICAS UTILIZANDO INTELIGENCIA ARTIFICIAL",
+  "items": [
+   "CONTRATACIÓN DEL SERVICIO DE DESARROLLO E IMPLEMENTACIÓN DE UN MODELO DE PREDICCIÓN DE INTERRUPCIONES ELÉCTRICAS UTILIZANDO INTELIGENCIA ARTIFICIAL"
+  ],
+  "valor": 1024266.0,
+  "fecha": "2021-12-06",
+  "proveedor": "",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-2021-1921-148"
+ },
+ "organismo-supervisor-de-la-inversion-en-infraestructura-de-transporte-de-uso-publico--as-sm-6-2024-ositran-1--automatizacion-robotica-de-procesos": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-6-2024-OSITRAN-1",
+  "descripcion": "SERVICIO DE SUSCRIPCIÓN ANUAL A UN SOFTWARE DE AUTOMATIZACIÓN ROBÓTICA DE PROCESOS E IMPLEMENTACIÓN DE ROBOTS",
+  "items": [
+   "SERVICIO DE SUSCRIPCIÓN ANUAL A UN SOFTWARE DE AUTOMATIZACIÓN ROBÓTICA DE PROCESOS E IMPLEMENTACIÓN DE ROBOTS"
+  ],
+  "valor": 74450.0,
+  "fecha": "2024-08-09",
+  "proveedor": "DOMAIN CONSULTING SAC",
+  "postores": 10,
+  "ocid": "ocds-dgv273-seacev3-2024-2557-19"
+ },
+ "petroleos-del-peru-s-a--sel-proc-26-2024-ops-petroperu-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Selectiva",
+  "titulo": "SEL-PROC-26-2024-OPS / PETROPERU-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 67-T-1, 67-T-7, 68-T-18 y 68-T-20 DE PLANTAS ORIENTE",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 67-T-1, 67-T-7, 68-T-18 y 68-T-20 DE PLANTAS ORIENTE"
+  ],
+  "valor": 0.0,
+  "fecha": "2024-07-01",
+  "proveedor": "INSERCOR SUCURSAL PERU",
+  "postores": 5,
+  "ocid": "ocds-dgv273-seacev3-1030250"
+ },
+ "petroleos-del-peru-s-a--sel-proc-27-2024-ops-petroperu-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Selectiva",
+  "titulo": "SEL-PROC-27-2024-OPS / PETROPERU-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 63-T-4, 63-T-7, 63-T-9, 63-T-12 y 63-T-15 DE LA PLANTA DE VENTAS IQUITOS",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 63-T-4, 63-T-7, 63-T-9, 63-T-12 y 63-T-15 DE LA PLANTA DE VENTAS IQUITOS"
+  ],
+  "valor": 0.0,
+  "fecha": "2024-07-02",
+  "proveedor": "INSERCOR SUCURSAL PERU",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-1030606"
+ },
+ "petroleos-del-peru-s-a--sel-proc-33-2023-ops-petroperu-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Selectiva",
+  "titulo": "SEL-PROC-33-2023-OPS / PETROPERU-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 69-T-210 Y 69-T-240 DE PLANTA PUCALLPA",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 69-T-210 Y 69-T-240 DE\\nPLANTA PUCALLPA"
+  ],
+  "valor": 0.0,
+  "fecha": "2023-09-19",
+  "proveedor": "AHORRO DE ENERGIA Y MANTENIMIENTO INDUSTRIAL S.A.C.",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-941719"
+ },
+ "petroleos-del-peru-s-a--sel-proc-34-2023-ops-petroperu-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Selectiva",
+  "titulo": "SEL-PROC-34-2023-OPS / PETROPERU-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 67-T-8 Y\\n68-T-14 DE PLANTAS ORIENTE",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 67-T-8 Y\\n68-T-14 DE PLANTAS ORIENTE."
+  ],
+  "valor": 0.0,
+  "fecha": "2023-09-21",
+  "proveedor": "AHORRO DE ENERGIA Y MANTENIMIENTO INDUSTRIAL S.A.C.",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-942694"
+ },
+ "petroleos-del-peru-s-a--sel-proc-44-2024-ops-petroperu-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Selectiva",
+  "titulo": "SEL-PROC-44-2024-OPS / PETROPERU-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO CIPS Y DCVG EN EL POLIDUCTO DE Ø4¿ Y Ø6¿ DE LA GERENCIA OPERACIONES SELVA",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO CIPS Y DCVG EN EL\\nPOLIDUCTO DE Ø4¿ Y Ø6¿ DE LA GERENCIA OPERACIONES SELVA"
+  ],
+  "valor": 0.0,
+  "fecha": "2024-10-17",
+  "proveedor": "NEW GLOBAL SAC",
+  "postores": 2,
+  "ocid": "ocds-dgv273-seacev3-1061624"
+ },
+ "petroleos-del-peru-s-a--sel-proc-58-2023-ops-petroperu-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Selectiva",
+  "titulo": "SEL-PROC-58-2023-OPS / PETROPERU-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 68-T-15, 68-T-16 y 68-T-17 DE LA PLANTA YURIMAGUAS",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 68-T-15, 68-T-16 y 68-T-17 DE LA PLANTA YURIMAGUAS"
+  ],
+  "valor": 0.0,
+  "fecha": "2023-12-21",
+  "proveedor": "PROYECTOS METALMECANICOS GENERALES E.I.R.L. - PROMEGEN E.I.R.L.",
+  "postores": 3,
+  "ocid": "ocds-dgv273-seacev3-979790"
+ },
+ "petroleos-del-peru-s-a--sel-proc-6-2022-ops-petroperu-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Selectiva",
+  "titulo": "SEL-PROC-6-2022-OPS / PETROPERU-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 68-T-19 Y 68-T-21 DE PLANTA DE VENTAS YURIMAGUAS (Proceso convocado con el Reglamento de Contrataciones de Petroperú S.A., aprobado mediante Acuerdo de Directorio N° 039-2021-PP de fecha 08.04.2021).",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 68-T-19 Y 68-T-21 DE PLANTA DE VENTAS YURIMAGUAS (Proceso convocado con el Reglamento de Cont"
+  ],
+  "valor": 0.0,
+  "fecha": "2022-04-25",
+  "proveedor": "",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-799017"
+ },
+ "petroleos-del-peru-s-a--sel-proc-6-2022-ops-petroperu-2--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Selectiva",
+  "titulo": "SEL-PROC-6-2022-OPS / PETROPERU-2",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 68-T-19 Y 68-T-21 DE PLANTA DE VENTAS YURIMAGUAS (Proceso convocado con el Reglamento de Contrataciones de Petroperú S.A., aprobado mediante Acuerdo de Directorio N° 039-2021-PP de fecha 08.04.2021).",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 68-T-19 Y 68-T-21 DE PLANTA DE VENTAS YURIMAGUAS (Proceso convocado con el Reglamento de Cont"
+  ],
+  "valor": 0.0,
+  "fecha": "2022-07-27",
+  "proveedor": "AHORRO DE ENERGIA Y MANTENIMIENT IND SAC",
+  "postores": 8,
+  "ocid": "ocds-dgv273-seacev3-829516"
+ },
+ "petroleos-del-peru-s-a--sel-proc-8-2023-ops-petroperu-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Selectiva",
+  "titulo": "SEL-PROC-8-2023-OPS / PETROPERU-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 63-T-2 Y 63-T-5 DE PLANTA IQUITOS",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO DE LOS TANQUES DE ALMACENAMIENTO DE HIDROCARBUROS 63-T-2 Y 63-T-5 DE PLANTA IQUITOS"
+  ],
+  "valor": 0.0,
+  "fecha": "2023-04-26",
+  "proveedor": "AHORRO DE ENERGIA Y MANTENIMIENTO INDUSTRIAL S.A.C.",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-897426"
+ },
+ "poder-judicial--curia": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "poder-judicial-unidad-de-coordinacion-del-proyecto-mejoramiento-de-los-servicios-de-justicia--conv-proc-2-2024-pmsjnopenal-ci-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-2-2024-PMSJNOPENAL-CI-1",
+  "descripcion": "Especialista en Inteligencia Artificial",
+  "items": [
+   "Especialista en Inteligencia Artificial"
+  ],
+  "valor": 192000.0,
+  "fecha": "2024-04-23",
+  "proveedor": "ANDRADE GIRON HECTOR FAUSTINO",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2024-200168-27"
+ },
+ "presidencia-del-consejo-de-ministros--yachaibot": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "programa-nacional-de-innovacion-para-la-competitividad-y-productividad--conv-proc-11-2024-proinnovate-1--asistente-virtual": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-11-2024-PROINNOVATE-1",
+  "descripcion": "SERVICIO DE IMPLEMENTACIÓN DE UN ASISTENTE VIRTUAL PARA PROINNÓVATE",
+  "items": [
+   "SERVICIO DE IMPLEMENTACIÓN DE UN ASISTENTE VIRTUAL PARAPROINNÓVATE"
+  ],
+  "valor": 14632.0,
+  "fecha": "2024-05-06",
+  "proveedor": "IT-ORVAL SOCIEDAD ANONIMA CERRADA",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2024-28802-34"
+ },
+ "programa-nacional-de-innovacion-para-la-competitividad-y-productividad--conv-proc-41-2022-proinnovate-1--modelo-predictivo": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-41-2022-PROINNOVATE-1",
+  "descripcion": "SERVICIO DE CONSULTORÍA PARA EL ANÁLISIS DE DATA, PROPUESTAS DE LÍNEAS DE INVESTIGACIÓN Y DISEÑO DE UN MODELO PREDICTIVO PARA LA  EVALUACIÓN Y SELECCIÓN DE LOS EMPRENDIMIENTOS QUE POSTULAN A STARTUP PERÚ",
+  "items": [
+   "SERVICIO DE CONSULTORÍA PARA EL ANÁLISIS DE DATA, PROPUESTAS DE LÍNEAS DE INVESTIGACIÓN Y DISEÑO DE UN\\nMODELO PREDICTIVO PARA LA EVALUACIÓN Y\\nSELECCIÓN DE LOS EMPRENDIMIENTOS QUE"
+  ],
+  "valor": 140000.0,
+  "fecha": "2023-01-20",
+  "proveedor": "PAREDES SADLER MIGUEL ANDRES",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-28802-84"
+ },
+ "programa-nacional-plataformas-de-accion-para-la-inclusion-social--chatbot-de-soporte-tecnico-para-colaboradores-del-programa-nacional-pais": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-14-2022-mtpe-fp-3cv-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-14-2022-MTPE-FP-3CV-1",
+  "descripcion": "Despliegue de la Bolsa de Trabajo con Inteligencia Artificial Articulador para la intermediación 5",
+  "items": [
+   "Despliegue de la Bolsa de Trabajo con Inteligencia Artificial Articulador para la intermediación 5"
+  ],
+  "valor": 17833.33,
+  "fecha": "2022-03-28",
+  "proveedor": "JIMENEZ GONZALES MAYRA SUSANA",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-54"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-144-2021-mtpe-fp-cp-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-144-2021-MTPE-FP-CP-1",
+  "descripcion": "Servicio de diseño y producción de materiales de comunicación para la primera fase de la Bolsa de Trabajo con Inteligencia Artificial",
+  "items": [
+   "Servicio de diseño y producción de materiales de comunicación para la primera fase de la Bolsa de Trabajo con Inteligencia Artificial"
+  ],
+  "valor": 94400.0,
+  "fecha": "2022-01-05",
+  "proveedor": "IDEAS LATAM SAC",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2021-156479-163"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-31-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-31-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en publicidad exterior 4",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en publicidad exterior 4"
+  ],
+  "valor": 26196.0,
+  "fecha": "2022-09-27",
+  "proveedor": "KUSHI E.I.R.L.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-112"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-32-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-32-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en plataformas digitales 4",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en plataformas digitales 4"
+  ],
+  "valor": 20344.17,
+  "fecha": "2022-09-27",
+  "proveedor": "GRUPO LA REPUBLICA PUBLICACIONES S.A.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-116"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-33-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-33-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 1",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 1"
+  ],
+  "valor": 2371.8,
+  "fecha": "2022-09-27",
+  "proveedor": "RADIO INTERACTIVA E.I.R.L.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-100"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-34-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-34-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 2",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 2"
+  ],
+  "valor": 10653.0,
+  "fecha": "2022-09-27",
+  "proveedor": "RADIO TROPICAL S.A.C",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-101"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-35-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-35-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 3",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 3"
+  ],
+  "valor": 13163.49,
+  "fecha": "2022-09-27",
+  "proveedor": "RADIO MELODIA S A",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-102"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-36-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-36-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 5",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 5"
+  ],
+  "valor": 1067.31,
+  "fecha": "2022-09-28",
+  "proveedor": "RADIO FM DOBLE 9-99.1 ESPLENDOR EIRL",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-103"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-37-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-37-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 7",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 7"
+  ],
+  "valor": 4411.55,
+  "fecha": "2022-09-28",
+  "proveedor": "RADIO DIFUSION CIAL SONORA FM RAD OLIMPI",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-104"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-38-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-38-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 8",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 8"
+  ],
+  "valor": 3344.24,
+  "fecha": "2022-09-28",
+  "proveedor": "INSTITUTO TELEDUCATIVO LOS TALLANES",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-105"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-39-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-39-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 9",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Radio 9"
+  ],
+  "valor": 53985.0,
+  "fecha": "2022-09-28",
+  "proveedor": "CRP MEDIOS Y ENTRETENIMIENTO S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-106"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-40-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-40-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022  Espacios publicitarios en redes sociales 1",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022  Espacios publicitarios en redes sociales 1"
+  ],
+  "valor": 137350.0,
+  "fecha": "2022-09-28",
+  "proveedor": "NATIVOS DIGITALES SOCIEDAD ANONIMA CERRADA - NATIVOS DIGITALES S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-107"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-41-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-41-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en redes sociales 2",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en redes sociales 2"
+  ],
+  "valor": 28807.62,
+  "fecha": "2022-09-28",
+  "proveedor": "BOLBORETA MEDIA S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-108"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-42-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-42-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en publicidad exterior 1",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en publicidad exterior 1"
+  ],
+  "valor": 3540.0,
+  "fecha": "2022-09-28",
+  "proveedor": "SERV.CREATIVOS PUBLICITARIOS ROAL S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-109"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-43-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-43-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en publicidad exterior 2",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en publicidad exterior 2"
+  ],
+  "valor": 19116.0,
+  "fecha": "2022-09-28",
+  "proveedor": "PRODUCCION Y MANTENIMIENTO DEL PERU S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-110"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-44-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-44-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022  Espacios publicitarios en publicidad exterior 3",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022  Espacios publicitarios en publicidad exterior 3"
+  ],
+  "valor": 37500.0,
+  "fecha": "2022-09-28",
+  "proveedor": "JMT OUTDOORS S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-111"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-45-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-45-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022  Espacios publicitarios en plataformas digitales 1",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022  Espacios publicitarios en plataformas digitales 1"
+  ],
+  "valor": 14986.0,
+  "fecha": "2022-09-28",
+  "proveedor": "GRUPORPP SOCIEDAD ANONIMA CERRADA",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-113"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-46-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-46-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en plataformas digitales 2",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en plataformas digitales 2"
+  ],
+  "valor": 30000.0,
+  "fecha": "2022-09-28",
+  "proveedor": "EMPRESA EDITORA EL COMERCIO S.A.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-114"
+ },
+ "programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-47-2022-mtpe-fp-cd-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-47-2022-MTPE-FP-CD-1",
+  "descripcion": "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en plataformas digitales 3",
+  "items": [
+   "Implementación de la campaña de difusión masiva sobre la nueva bolsa de trabajo con inteligencia artificial Campaña 1 del 2022 Espacios publicitarios en plataformas digitales 3"
+  ],
+  "valor": 10000.33,
+  "fecha": "2022-09-28",
+  "proveedor": "LOGAN MEDIA MOBILE S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-156479-115"
+ },
+ "proinnovate--asistente-virtual-sofia": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "proinnovate--inngenius": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "registro-nacional-de-identificacion-y-estado-civil--biofacial": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "registro-nacional-de-identificacion-y-estado-civil--cp-sm-19-2022-reniec-1--biometria": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-19-2022-RENIEC-1",
+  "descripcion": "SERVICIO DE IMPLEMENTACIÓN Y DESPLIEGUE DE UN PILOTO DE PLATAFORMA DE ENROLAMIENTO Y VERIFICACIÓN DE BIOMETRÍA IRIS",
+  "items": [
+   "SERVICIO DE IMPLEMENTACIÓN Y DESPLIEGUE DE UN PILOTO DE PLATAFORMA DE ENROLAMIENTO Y VERIFICACIÓN DE BIOMETRÍA IRIS"
+  ],
+  "valor": 1934277.36,
+  "fecha": "2022-09-01",
+  "proveedor": "CONSORCIO FAD BIOMETRICS",
+  "postores": 13,
+  "ocid": "ocds-dgv273-seacev3-2022-30-47"
+ },
+ "registro-nacional-de-identificacion-y-estado-civil--res-proc-3-2025-reniec-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Regímen Especial",
+  "titulo": "RES-PROC-3-2025-RENIEC-1",
+  "descripcion": "Servicio de suscripción al Software del asistente integral - CHATBOT con inteligencia artificial en la nube en modo PAAS de la marca AIVO - PAS N° 03-2025/RENIEC/LEY N°32416",
+  "items": [
+   "SERVICIO DE SUSCRIPCIÓN AL SOFTWARE DEL ASISTENTE INTEGRAL - CHATBOT CON INTELIGENCIA ARTIFICIAL EN LA NUBE EN MODO PaaS DE LA MARCA AIVO"
+  ],
+  "valor": 740911.56,
+  "fecha": "2026-04-29",
+  "proveedor": "",
+  "postores": 8,
+  "ocid": "ocds-dgv273-seacev3-1210646"
+ },
+ "san-gaban-s-a--eva-normas-legales": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "seguro-social-de-salud--cp-ser-sm-1-2026-essalud-raay-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-1-2026-ESSALUD/RAAY-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO ESPECIALIZADO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CORRECTIVO POR 24 MESES A TODO COSTO DEL EQUIPO BIOMÉDICO DE ALTA TECNOLOGÍA MAMÓGRAFO DIGITAL CON TOMOSINTESIS MARCA HOLOGIC, MODELO SELENIA DIMENSIONS DEL HOSPITAL II HUAMANGA RED ASISTENCIAL AYACUCHO",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREVENTIVO DE MAMOGRAFO"
+  ],
+  "valor": 720000.0,
+  "fecha": "2026-04-09",
+  "proveedor": "INTERNATIONAL DIAGNOSTIC IMAGING SAC",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-1202765"
+ },
+ "seguro-social-de-salud--cp-ser-sm-3-2025-essalud-raay-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-3-2025-ESSALUD/RAAY-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO ESPECIALIZADO DE MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CORRECTIVO POR 24 MESES A TODO COSTO DEL EQUIPO BIOMÉDICO DE ALTA TECNOLOGÍA MAMÓGRAFO DIGITAL CON TOMOSINTESIS MARCA HOLOGIC, MODELO SELENIA DIMENSIONS DEL HOSPITAL II HUAMANGA RED ASISTENCIAL AYACUCHO",
+  "items": [
+   "CONTRATACION DE SERVICIO ESPECIALIZADO DE MANTENIMIENTO PREVENTIVO Y CORRECTIVO ANUAL A TODO COSTO DEL EQUIPO BIOMEDICO DE ALTA TECNOLOGÍA  MAMÓGRAFO DIGITAL CON TOMOSÍNTESIS  MARC"
+  ],
+  "valor": 720000.0,
+  "fecha": "2025-10-30",
+  "proveedor": "",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-2025-2543-291"
+ },
+ "servicio-de-agua-potable-y-alcantarillado-de-arequipa--as-sm-26-2022-sedapar-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-26-2022-SEDAPAR-1",
+  "descripcion": "Servicio de Implementación de un Asistente Virtual con Inteligencia Artificial gestionado por una Plataforma Omnicanal para SEDAPAR S.A.",
+  "items": [
+   "Servicio de Implementación de un Asistente Virtual con Inteligencia Artificial gestionado por una Plataforma Omnicanal para SEDAPAR S.A."
+  ],
+  "valor": 174078.0,
+  "fecha": "2022-10-11",
+  "proveedor": "TELEFONICA DEL PERU SAA",
+  "postores": 5,
+  "ocid": "ocds-dgv273-seacev3-2022-2384-59"
+ },
+ "servicio-de-agua-potable-y-alcantarillado-de-arequipa--as-sm-39-2024-sedapar-1--asistente-virtual": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-39-2024-SEDAPAR-1",
+  "descripcion": "CONTRATACION DEL SERVICIO DE IMPLEMENTACION DE UN ASISTENTE VIRTUAL CON IA GESTIONADO POR UNA PLATAFORMA OMNICANAL PARA SEDAPAR S.A.",
+  "items": [
+   "CONTRATACION DE SERVICIO DE IMPLEMTACION DE UN ASISTENTE VIRTUAL CON IA GESTIONADO POR UNA PLATAFORMA OMNICANAL PARA SEDAPAR S.A."
+  ],
+  "valor": 452504.0,
+  "fecha": "2024-09-11",
+  "proveedor": "IROLA S.A.C.",
+  "postores": 12,
+  "ocid": "ocds-dgv273-seacev3-2024-2384-27"
+ },
+ "servicio-de-agua-potable-y-alcantarillado-de-arequipa--as-sm-42-2023-sedapar-1--asistente-virtual": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-42-2023-SEDAPAR-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE IMPLEMENTACION DE UN ASISTENTE VIRTUAL CON IA GESTIONADO POR UNA PLATAFORMA OMNICANAL PARA SEDAPAR S.A.",
+  "items": [
+   "CONTRATACION DEL SERVICIO DE IMPLEMENTACION DE UN ASISTENTE VIRTUAL CON IA GESTIONADO POR UNA PLATAFORMA OMNICANAL PARA SEDAPAR S.A."
+  ],
+  "valor": 479736.0,
+  "fecha": "2023-08-29",
+  "proveedor": "INFRAESTRUCTURA EN TELECOMUNICACIONES Y SERVICIOS INTEGRALES S.A.C.",
+  "postores": 7,
+  "ocid": "ocds-dgv273-seacev3-2023-2384-77"
+ },
+ "servicio-de-agua-potable-y-alcantarillado-de-arequipa--cp-ser-sm-18-2025-sedapar-1--asistente-virtual": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-18-2025-SEDAPAR-1",
+  "descripcion": "SERVICIO DE IMPLEMENTACION DE PLATAFORMA DE CONTACT CENTER OMNICANAL INTEGRANDO UN BOT Y ASISTENTE VIRTUAL PARA LA ATENCION DE LOS USUARIOS EXTERNOS DE SEDAPAR S.A.",
+  "items": [
+   "CONTRATACIÓN DE SERVICIO DE IMPLEMENTACIÓN DE PLATAFORMA CONTACT CENTER OMNICANAL, INTEGRANDO UN BOT Y ASISTENTE VIRTUAL PARA LA ATENCIÓN DE LOS USUARIOS EXTERNOS DE SEDAPAR S.A"
+  ],
+  "valor": 770000.0,
+  "fecha": "2025-12-31",
+  "proveedor": "BELLTECH PERU SAC",
+  "postores": 8,
+  "ocid": "ocds-dgv273-seacev3-1183724"
+ },
+ "servicio-de-agua-potable-y-alcantarillado-de-lima-sedapal--as-sm-2-2025-sedapal-2--gemelo-digital": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-2-2025-SEDAPAL-2",
+  "descripcion": "SERVICIO DE MODELAMIENTO CON GEMELO DIGITAL DE ALTA PRECISION PARA LA PREPARACION DEL CATASTRO TECNICO DE REDES DE AGUA Y/O ALCANTARILLADO CON GIS DE SEDAPAL, EN EL MARCO DEL PROYECTO - ANILLO VIAL PERIFERICO DEL MINISTERIO DE TRANSPORTE Y COMUNICACIONES - MTC.",
+  "items": [
+   "SERVICIO DE MODELAMIENTO CON GEMELO DIGITAL DE ALTA PRECISION PARA LA PREPARACION DEL CATASTRO TECNICO DE REDES DE AGUA Y/O ALCANTARILLADO CON GIS DE SEDAPAL, EN EL MARCO DEL PROYE"
+  ],
+  "valor": 410208.73,
+  "fecha": "2025-03-21",
+  "proveedor": "",
+  "postores": 19,
+  "ocid": "ocds-dgv273-seacev3-2025-2383-169"
+ },
+ "servicio-de-agua-potable-y-alcantarillado-de-lima-sedapal--as-sm-49-2020-sedapal-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-49-2020-SEDAPAL-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO"
+  ],
+  "valor": 125794.2,
+  "fecha": "2020-09-30",
+  "proveedor": "ONCH SERVICIOS Y SUMINISTROS INDUSTRIALES S.A.C.",
+  "postores": 22,
+  "ocid": "ocds-dgv273-seacev3-2020-2383-336"
+ },
+ "servicio-nacional-de-certificacion-ambiental-para-las-inversiones-sostenibles--chatbot-ia-de-bianca": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "sistema-nacional-de-evaluacion-acreditacion-y-certificacion-de-la-calidad-educativa--inter-proc-5-2018-sineace-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Contratación Internacional",
+  "titulo": "INTER-PROC-5-2018-SINEACE-1",
+  "descripcion": "INSCRIPCION AL PROGRAMA EXPERTO EN CIENCIA DE DATOS",
+  "items": [
+   "INSCRIPCIÓN AL PROGRAMA EXPERTO EN CIENCIA DE DATOS"
+  ],
+  "valor": 980.0,
+  "fecha": "2018-10-23",
+  "proveedor": "BETAMETRICA S.A",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-486739"
+ },
+ "sociedad-electrica-del-sur-oeste-s-a--as-sm-75-2024-seal-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-75-2024-SEAL-1",
+  "descripcion": "SERVICIO ESPECIALIZADO PARA EL MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CAMBIO DE ACCESORIOS A LOS TRANSFORMADORES DE POTENCIA EN TODA LA ZONA DE CONCESIÓN DE SEAL",
+  "items": [
+   "SERVICIO ESPECIALIZADO PARA EL MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CAMBIO DE ACCESORIOS A LOS TRANSFORMADORES DE POTENCIA EN TODA LA ZONA DE CONCESIÓN DE SEAL"
+  ],
+  "valor": 3136611.86,
+  "fecha": "2024-12-17",
+  "proveedor": "",
+  "postores": 12,
+  "ocid": "ocds-dgv273-seacev3-1080081"
+ },
+ "sociedad-electrica-del-sur-oeste-s-a--cp-sm-12-2024-seal-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-12-2024-SEAL-1",
+  "descripcion": "SERVICIO ESPECIALIZADO PARA EL MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CAMBIO DE ACCESORIOS A LOS TRANSFORMADORES DE POTENCIA EN TODA LA ZONA DE CONCESIÓN DE SEAL",
+  "items": [
+   "SERVICIO ESPECIALIZADO PARA EL MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CAMBIO DE ACCESORIOS A LOS TRANSFORMADORES DE POTENCIA EN TODA LA ZONA DE CONCESIÓN DE SEAL"
+  ],
+  "valor": 3136611.86,
+  "fecha": "2024-08-20",
+  "proveedor": "",
+  "postores": 15,
+  "ocid": "ocds-dgv273-seacev3-2024-2409-33"
+ },
+ "sociedad-electrica-del-sur-oeste-s-a--cp-sm-4-2022-seal-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-4-2022-SEAL-1",
+  "descripcion": "SERVICIO ESPECIALIZADO PARA EL MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CAMBIO DE ACCESORIOS PARA LOS TRANSFORMADORES DE POTENCIA EN TODA LA ZONA DE CONCESIÓN DE SEAL",
+  "items": [
+   "SERVICIO ESPECIALIZADO PARA EL MANTENIMIENTO PREDICTIVO, PREVENTIVO Y CAMBIO DE ACCESORIOS PARA LOS TRANSFORMADORES DE POTENCIA EN TODA LA ZONA DE CONCESIÓN DE SEAL"
+  ],
+  "valor": 2464894.21,
+  "fecha": "2022-04-12",
+  "proveedor": "CONSTRUCCIONES ELECTROMECANICAS DELCROSA S.A. O DELCROSA S.A.",
+  "postores": 8,
+  "ocid": "ocds-dgv273-seacev3-2022-2409-147"
+ },
+ "superintendencia-de-banca-seguros-y-afp--as-sm-20-2020-sbs-1--chatbot": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-20-2020-SBS-1",
+  "descripcion": "Contratacion del servicio de desarrollo de servicios cognitivos para chatbot",
+  "items": [
+   "Contratacion del servicio de desarrollo de servicios cognitivos para chatbot"
+  ],
+  "valor": 146615.0,
+  "fecha": "2020-06-30",
+  "proveedor": "DSB MOBILE SAC",
+  "postores": 5,
+  "ocid": "ocds-dgv273-seacev3-2020-1922-110"
+ },
+ "superintendencia-de-banca-seguros-y-afp--as-sm-25-2019-sbs-1--chatbot": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-25-2019-SBS-1",
+  "descripcion": "Contratacion del servicio de diagnostico y formulacion de mejoras para el asistente virtual de atencion al ciudadano - chatbot",
+  "items": [
+   "Contratacion del servicio de diagnostico y formulacion de mejoras para el asistente virtual de atencion al ciudadano - chatbot"
+  ],
+  "valor": 69725.0,
+  "fecha": "2019-07-15",
+  "proveedor": "",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-2019-1922-158"
+ },
+ "superintendencia-de-banca-seguros-y-afp--as-sm-25-2019-sbs-2--chatbot": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-25-2019-SBS-2",
+  "descripcion": "Contratacion del servicio de diagnostico y formulacion de mejoras para el asistente virtual de atencion al ciudadano - chatbot",
+  "items": [
+   "Contratacion del servicio de diagnostico y formulacion de mejoras para el asistente virtual de atencion al ciudadano - chatbot"
+  ],
+  "valor": 69725.0,
+  "fecha": "2019-08-13",
+  "proveedor": "MAGIA 360 S.A.C.",
+  "postores": 5,
+  "ocid": "ocds-dgv273-seacev3-552349"
+ },
+ "superintendencia-de-banca-seguros-y-afp--as-sm-36-2022-sbs-s-1--chatbot": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-36-2022-SBS-S-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE DESARROLLO E IMPLEMENTACIÓN DE UN CHATBOT PARA WHATSAPP",
+  "items": [
+   "SERVICIO DE DESARROLLO E IMPLEMENTACIÓN DE UN CHATBOT PARA WHATSAPP"
+  ],
+  "valor": 163133.0,
+  "fecha": "2022-10-27",
+  "proveedor": "",
+  "postores": 9,
+  "ocid": "ocds-dgv273-seacev3-2022-1922-187"
+ },
+ "superintendencia-de-banca-seguros-y-afp--as-sm-36-2022-sbs-s-2--chatbot": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-36-2022-SBS-S-2",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE DESARROLLO E IMPLEMENTACIÓN DE UN CHATBOT PARA WHATSAPP",
+  "items": [
+   "SERVICIO DE DESARROLLO E IMPLEMENTACIÓN DE UN CHATBOT PARA WHATSAPP"
+  ],
+  "valor": 177000.0,
+  "fecha": "2022-12-12",
+  "proveedor": "IT-ORVAL SOCIEDAD ANONIMA CERRADA",
+  "postores": 7,
+  "ocid": "ocds-dgv273-seacev3-871218"
+ },
+ "superintendencia-de-banca-seguros-y-afp--as-sm-4-2019-sbs-1--chatbot": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-4-2019-SBS-1",
+  "descripcion": "Contratación del servicio de analisis, implementacion de mejoras y desarrollo de línea grafica para el asistente virtual de atencion al ciudadano - chatbot",
+  "items": [
+   "Contratacion del servicio de analisis, implementacion de mejoras y desarrollo de línea grafica para el asistente virtual de atencion al ciudadano - chatbot"
+  ],
+  "valor": 65136.0,
+  "fecha": "2019-03-08",
+  "proveedor": "",
+  "postores": 7,
+  "ocid": "ocds-dgv273-seacev3-2019-1922-51"
+ },
+ "superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--as-sm-8-2022-sunat-8b7200-1--asistente-virtual": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-8-2022-SUNAT/8B7200-1",
+  "descripcion": "SERVICIO DE SUSCRIPCIÓN DE PLATAFORMA PARA EL ASISTENTE VIRTUAL SOFIA Y SERVICIOS COGNITIVOS DE LA MARCA IBM WATSON ASSISTANT O EQUIVALENTE",
+  "items": [
+   "SERVICIO DE SUSCRIPCIÓN DE PLATAFORMA PARA EL ASISTENTE VIRTUAL SOFIA Y SERVICIOS COGNITIVOS DE LA MARCA IBM WATSON ASSISTANT O EQUIVALENTE"
+  ],
+  "valor": 359007.43,
+  "fecha": "2022-03-14",
+  "proveedor": "MDP CONSULTING SAC",
+  "postores": 3,
+  "ocid": "ocds-dgv273-seacev3-2022-2000-204"
+ },
+ "superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--cp-ser-sm-47-2026-sunat-8b7200-1--asistente-virtual": {
+  "categoria": "services",
+  "metodo": "Concurso Público de Servicios",
+  "titulo": "CP SER-SM-47-2026-SUNAT/8B7200-1",
+  "descripcion": "SERVICIO DE SUSCRIPCIÓN A IBM CLOUD PARA MANTENER EN FUNCIONAMIENTO EL ASISTENTE VIRTUAL SOFIA",
+  "items": [
+   "SERVICIO DE SUSCRIPCIÓN A IBM CLOUD PARA MANTENER EN FUNCIONAMIENTO EL ASISTENTE VIRTUAL SOFIA"
+  ],
+  "valor": 0.0,
+  "fecha": "2026-07-07",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2026-2000-23"
+ },
+ "superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--cp-sm-33-2025-sunat-8b7200-1--asistente-virtual": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-33-2025-SUNAT/8B7200-1",
+  "descripcion": "SERVICIO DE SUSCRIPCIÓN A IBM CLOUD O EQUIVALENTE PARA MANTENER EN FUNCIONAMIENTO EL ASISTENTE VIRTUAL SOFIA",
+  "items": [
+   "SERVICIO DE SUSCRIPCIÓN A IBM CLOUD O EQUIVALENTE PARA MANTENER EN FUNCIONAMIENTO EL ASISTENTE VIRTUAL SOFIA"
+  ],
+  "valor": 798074.68,
+  "fecha": "2025-04-21",
+  "proveedor": "FOCUS SYSTEMS PERU S.A.C",
+  "postores": 12,
+  "ocid": "ocds-dgv273-seacev3-2025-2000-13"
+ },
+ "superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--cp-sm-9-2024-sunat-8b7200-1--asistente-virtual": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-9-2024-SUNAT/8B7200-1",
+  "descripcion": "SERVICIO DE SUSCRIPCIÓN A IBM CLOUD O EQUIVALENTE PARA MANTENER EN FUNCIONAMIENTO EL ASISTENTE VIRTUAL SOFIA",
+  "items": [
+   "SERVICIO DE SUSCRIPCIÓN A IBM CLOUD O EQUIVALENTE PARA MANTENER EN FUNCIONAMIENTO EL ASISTENTE VIRTUAL SOFIA"
+  ],
+  "valor": 694640.0,
+  "fecha": "2024-03-13",
+  "proveedor": "SMARTCOMM S.A.C",
+  "postores": 5,
+  "ocid": "ocds-dgv273-seacev3-2024-2000-210"
+ },
+ "superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--cp-sm-91-2022-sunat-8b7200-1--asistente-virtual": {
+  "categoria": "services",
+  "metodo": "Concurso Público",
+  "titulo": "CP-SM-91-2022-SUNAT-8B7200-1",
+  "descripcion": "SERVICIO DEL ASISTENTE VIRTUAL Y DEL SERVICIO CONVERSACIONAL DE LA MARCA IBM WATSON ASSISTANT O EQUIVALENTE",
+  "items": [
+   "SERVICIO DE ASISTENTE VIRTUAL Y DEL SERVICIO CONVERSACIONAL DE LA MARCA IBM WATSON ASSISTANT O EQUIVALENTE"
+  ],
+  "valor": 456000.15,
+  "fecha": "2022-12-29",
+  "proveedor": "MDP CONSULTING SAC",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-878093"
+ },
+ "superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--directa-proc-1-2020-sunat-8b1200-1--mineria-de-datos": {
+  "categoria": "services",
+  "metodo": "Contratación Directa",
+  "titulo": "DIRECTA-PROC-1-2020-SUNAT-8B1200-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO DE LA HERRAMIENTA DE MINERÍA DE DATOS SAS O EQUIVALENTE",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO DE LA HERRAMIENTA DE MINERÍA DE DATOS SAS O EQUIVALENTE"
+  ],
+  "valor": 114500.0,
+  "fecha": "2020-01-31",
+  "proveedor": "SAS INSTITUTE PERU S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-596564"
+ },
+ "superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--directa-proc-1-2023-sunat-8b7200-1--mineria-de-datos": {
+  "categoria": "services",
+  "metodo": "Contratación Directa",
+  "titulo": "DIRECTA-PROC-1-2023-SUNAT/8B7200-1",
+  "descripcion": "SERVICIO DE SUSCRIPCIÓN DE LA HERRAMIENTA DE MINERÍA DE DATOS DE LA MARCA SAS O EQUIVALENTE",
+  "items": [
+   "SERVICIO DE SUSCRIPCIÓN DE LA HERRAMIENTA DE MINERÍA DE DATOS DE LA MARCA SAS O EQUIVALENTE"
+  ],
+  "valor": 466727.63,
+  "fecha": "2023-02-08",
+  "proveedor": "SAS INSTITUTE PERU S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-879971"
+ },
+ "superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--directa-proc-2-2021-sunat-8b7200-1--mineria-de-datos": {
+  "categoria": "services",
+  "metodo": "Contratación Directa",
+  "titulo": "DIRECTA-PROC-2-2021-SUNAT/8B7200-1",
+  "descripcion": "SERVICIO DE SUSCRIPCIÓN DE LA HERRAMIENTA DE MINERÍA DE DATOS DE LA MARCA SAS O EQUIVALENTE",
+  "items": [
+   "SERVICIO DE SUSCRIPCIÓN DE LA HERRAMIENTA DE MINERÍA DE DATOS DE LA MARCA SAS O EQUIVALENTE"
+  ],
+  "valor": 282000.0,
+  "fecha": "2021-02-12",
+  "proveedor": "SAS INSTITUTE PERU S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-691218"
+ },
+ "superintendencia-nacional-de-los-registros-publicos--servicio-de-lectura-multilingue-de-informacion-registral": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "superintendencia-nacional-de-migraciones--lp-sm-1-2021-migraciones-1--reconocimiento-facial": {
+  "categoria": "goods",
+  "metodo": "Licitación Pública",
+  "titulo": "LP-SM-1-2021-MIGRACIONES-1",
+  "descripcion": "ADQUISICIÓN DE SOLUCIÓN DE RECONOCIMIENTO FACIAL, IOARR AIJCH",
+  "items": [
+   "ADQUISICIÓN DE KIT DE DESARROLLO DE SOFTWARE DE RECONOCIMIENTO FACIAL\\nIOARR AIJCH"
+  ],
+  "valor": 1477844.93,
+  "fecha": "2021-03-31",
+  "proveedor": "ZONDA ADVANCED SOCIEDAD ANONIMA CERRADA",
+  "postores": 8,
+  "ocid": "ocds-dgv273-seacev3-2021-200560-27"
+ },
+ "superintendencia-nacional-de-migraciones--proactiva": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "superintendencia-nacional-de-servicios-de-saneamiento--directa-proc-3-2020-sunass-1--reconocimiento-facial": {
+  "categoria": "goods",
+  "metodo": "Contratación Directa",
+  "titulo": "DIRECTA-PROC-3-2020-SUNASS-1",
+  "descripcion": "Adquisición de veinticuatro (24) relojes biométricos de reconocimiento facial para el control de asistencia del personal de la SUNASS de las ODS",
+  "items": [
+   "RELOJ BIOMETRICO DE RECONOCIMIENTO FACIAL"
+  ],
+  "valor": 225273.71,
+  "fecha": "2020-09-09",
+  "proveedor": "TEMPUTRONIC S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-646876"
+ },
+ "superintendencia-nacional-de-servicios-de-saneamiento--ia-para-la-elaboracion-de-informes-de-inspeccion": {
+  "error": "Expecting value: line 1 column 1 (char 0)"
+ },
+ "unidad-ejecutora-002-inictel-uni--as-sm-15-2024-inictel-uni-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-15-2024-INICTEL-UNI-1",
+  "descripcion": "ADQUISICIÓN DE UN ESPECTRÓGRAFO PARA LA IMPLEMENTACIÓN DEL LABORATORIO NACIONAL DE INTELIGENCIA ARTIFICIAL Y TELEDETECCIÓN CON VEHÍCULOS AÉREOS NO TRIPULADOS",
+  "items": [
+   "ADQUISICIÓN DE UN ESPECTRÓGRAFO PARA LA IMPLEMENTACIÓN DEL LABORATORIO NACIONAL DE INTELIGENCIA ARTIFICIAL Y TELEDETECCIÓN CON VEHÍCULOS AÉREOS NO TRIPULADOS"
+  ],
+  "valor": 479500.0,
+  "fecha": "2024-09-30",
+  "proveedor": "BIOSYM E.I.R.L.",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-2024-200207-38"
+ },
+ "unidad-ejecutora-002-inictel-uni--as-sm-17-2024-inictel-uni-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-17-2024-INICTEL-UNI-1",
+  "descripcion": "ADQUISICIÓN DE ESCANERES 3D PARA LA IMPLEMENTACION DEL LABORATORIO NACIONAL DE INTELIGENCIA ARTIFICIAL Y TELEDETECCION CON VEHICULOS AEREOS NO TRIPULADOS",
+  "items": [
+   "ADQUISICIÓN DE ESCÁNERES 3D PARA LA IMPLEMENTACIÓN DEL LABORATORIO NACIONAL DE INTELIGENCIA ARTIFICIAL Y TELEDETECCIÓN CON VEHÍCULOS AÉREOS NO TRIPULADOS"
+  ],
+  "valor": 94750.0,
+  "fecha": "2024-10-17",
+  "proveedor": "CORPORACION CREAR 4D SOCIEDAD ANONIMA CERRADA",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-2024-200207-40"
+ },
+ "unidad-ejecutora-002-inictel-uni--conv-proc-1-2022-inictel-uni-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-1-2022-INICTEL-UNI-1",
+  "descripcion": "SERVICIO DE MANTENIMIENTO PREDICTIVO PARA EQUIPAMIENTO MAYOR - CONTRATO 015-2018-FONDECYT-BM",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO PARA EQUIPAMIENTO MAYOR - CONTRATO 015-2018-FONDECYT-BM"
+  ],
+  "valor": 20560.0,
+  "fecha": "2022-06-01",
+  "proveedor": "AQTK  PERU S.A.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-812362"
+ },
+ "unidad-ejecutora-002-inictel-uni--conv-proc-13-2021-inictel-uni-1--mantenimiento-predictivo": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-13-2021-INICTEL-UNI-1",
+  "descripcion": "MANTENIMIENTO DE MANTENIMIENTO PREDICTIVO DE EQUIPAMIENTO MAYOR - CONTRATO 15-2018-FONDECYT/BM",
+  "items": [
+   "SERVICIO DE MANTENIMIENTO PREDICTIVO DE EQUIPAMIENTO MAYOR - CONTRATO 15-2018-FONDECYT/BM"
+  ],
+  "valor": 20560.0,
+  "fecha": "2021-12-14",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-765836"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-1-2020-cci-sunat-bid-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-1-2020-CCI-SUNAT/BID-1",
+  "descripcion": "CONTRATACIÓN DE CONSULTORES ESPECIALIZADOS EN DESARROLLO DE MODELO ANALÍTICO AVANZADO PARA EL PROCESO EVOLUTIVO DE LA CIENCIA DE DATOS (DS01, DS02 Y DS03)",
+  "items": [
+   "CONSULTOR ESPECIALIZADO DS01 EN DESARROLLO DE MODELO ANALÍTICO AVANZADO PARA EL PROCESO EVOLUTIVO DE LA CIENCIA DE DATOS",
+   "CONSULTOR ESPECIALIZADO DS02 EN DESARROLLO DE MODELO ANALÍTICO AVANZADO PARA EL PROCESO EVOLUTIVO DE LA CIENCIA DE DATOS",
+   "CONSULTOR ESPECIALIZADO DS03 EN DESARROLLO DE MODELO ANALÍTICO AVANZADO PARA EL PROCESO EVOLUTIVO DE LA CIENCIA DE DATOS"
+  ],
+  "valor": 540000.0,
+  "fecha": "2020-07-29",
+  "proveedor": "NECIOSUP VERA CARMEN STEFANY",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-2020-166287-6"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-10-2021-sd-sunat-bid-3-1--reconocimiento-facial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-10-2021-SD-SUNAT/BID-3-1",
+  "descripcion": "Servicio de consultoría de asistencia técnica para diseño de solución tecnológica para la implementación de sistemas de cámaras de reconocimiento facial para el control de pasajeros en el Aeropuerto Internacional Jorge Chávez (AIJCH) y elaboración de TDR / EETT",
+  "items": [
+   "Servicio de consultoría de asistencia técnica para diseño de solución tecnológica para la implementación de sistemas de cámaras de reconocimiento facial para el control de pasajero"
+  ],
+  "valor": 203705.71,
+  "fecha": "2021-12-28",
+  "proveedor": "",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2021-166287-54"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-10-2021-sd-sunat-bid-3-2--reconocimiento-facial": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-10-2021-SD-SUNAT/BID-3-2",
+  "descripcion": "Servicio de consultoría de asistencia técnica para diseño de solución tecnológica para la implementación de sistemas de cámaras de reconocimiento facial para el control de pasajeros en el Aeropuerto Internacional Jorge Chávez (AIJCH) y elaboración de TDR / EETT",
+  "items": [
+   "Servicio de consultoría de asistencia técnica para diseño de solución tecnológica para la implementación de sistemas de cámaras de reconocimiento facial para el control de pasajero"
+  ],
+  "valor": 203705.71,
+  "fecha": "2022-01-25",
+  "proveedor": "FANNY MARLENE PALACIOS MORALES",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-774804"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-12-2019-sd-sunat-bid-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-12-2019-SD-SUNAT/BID-1",
+  "descripcion": "TRES (03) ESPECIALISTAS PARA BRINDAR APOYO EN LA IMPLEMENTACIÓN DE LOS MODELOS ANALÍTICOS MEDIANTE LA METODOLOGÍA DE CIENCIA DE DATOS (ESPECIALISTA 1, ESPECIALISTA 2, ESPECIALISTA 3)",
+  "items": [
+   "ESPECIALISTA 3",
+   "ESPECIALISTA 2",
+   "ESPECIALISTA 1"
+  ],
+  "valor": 153000.0,
+  "fecha": "2019-12-13",
+  "proveedor": "NECIOSUP VERA CARMEN STEFANY",
+  "postores": 3,
+  "ocid": "ocds-dgv273-seacev3-2019-166287-21"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-14-2021-cci-sunat-bid-3-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-14-2021-CCI-SUNAT/BID-3-1",
+  "descripcion": "Contratación de cinco consultores especializados en el desarrollo de modelos analíticos avanzados de ciencia de datos.",
+  "items": [
+   "Consultor especializado en el desarrollo de modelos analíticos avanzados de ciencia de datos 5",
+   "Consultor especializado en el desarrollo de modelos analíticos avanzados de ciencia de datos 4",
+   "Consultor especializado en el desarrollo de modelos analíticos avanzados de ciencia de datos 3",
+   "Consultor especializado en el desarrollo de modelos analíticos avanzados de ciencia de datos 2"
+  ],
+  "valor": 780000.0,
+  "fecha": "2021-12-31",
+  "proveedor": "BRAVO ROCCA GUSSEPPE JESUS",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-2021-166287-45"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-19-2022-cci-sunat-bid-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-19-2022-CCI-SUNAT/BID-1",
+  "descripcion": "Contratación de dos consultores especializados en desarrollo de modelos analíticos avanzados de ciencia de datos",
+  "items": [
+   "Consultor especializado en desarrollo de modelos analíticos avanzados de ciencia de datos",
+   "Consultor especializado en desarrollo de modelos analíticos avanzados de ciencia de datos"
+  ],
+  "valor": 312000.0,
+  "fecha": "2022-11-14",
+  "proveedor": "ALCANTARA ORTEGA CARLOS EDUARDO",
+  "postores": 2,
+  "ocid": "ocds-dgv273-seacev3-2022-166287-67"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-19-2022-cci-sunat-bid-3-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-19-2022-CCI-SUNAT/BID-3-1",
+  "descripcion": "Contratación de dos consultores especializados en desarrollo de  modelos analíticos avanzados de ciencia de datos",
+  "items": [
+   "Contratación de dos consultores especializados en desarrollo de \\nmodelos analíticos avanzados de ciencia de datos"
+  ],
+  "valor": 312000.0,
+  "fecha": "2022-10-12",
+  "proveedor": "",
+  "postores": 2,
+  "ocid": "ocds-dgv273-seacev3-2022-166287-35"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-19-2023-cci-sunat-bid-3-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-19-2023-CCI-SUNAT/BID-3-1",
+  "descripcion": "Contratación de un consultor especializado DS04 en desarrollo de modelos analíticos avanzados para el proceso evolutivo de la ciencia de datos",
+  "items": [
+   "Contratación de un consultor especializado DS04 en desarrollo de modelos analíticos avanzados para el proceso evolutivo de la ciencia de datos"
+  ],
+  "valor": 100000.0,
+  "fecha": "2023-05-25",
+  "proveedor": "SALCEDO SUAREZ OMAR IVAN",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-2023-166287-45"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-5-2019-sd-sunat-bid-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-5-2019-SD-SUNAT/BID-1",
+  "descripcion": "ESPECIALISTAS EN CIENCIA DE DATOS",
+  "items": [
+   "ESPECIALISTA EN CIENCIA DE DATOS 2",
+   "ESPECIALISTA DE CIENCIA DE DATOS 3",
+   "ESPECIALISTA EN CIENCIA DE DATOS 1"
+  ],
+  "valor": 153000.0,
+  "fecha": "2019-05-08",
+  "proveedor": "NECIOSUP VERA CARMEN STEFANY",
+  "postores": 3,
+  "ocid": "ocds-dgv273-seacev3-2019-166287-6"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-6-2022-cci-sunat-bid-3-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-6-2022-CCI-SUNAT/BID-3-1",
+  "descripcion": "Contratación de Consultor especializado en el desarrollo de modelos analíticos avanzados de ciencia de datos",
+  "items": [
+   "Contratación de Consultor especializado en el desarrollo de modelos analíticos avanzados de ciencia de datos"
+  ],
+  "valor": 156000.0,
+  "fecha": "2022-05-12",
+  "proveedor": "MITTANI YAURI JHONY ISAAC",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2022-166287-14"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-7-2022-cci-sunat-bid-3-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-7-2022-CCI-SUNAT/BID-3-1",
+  "descripcion": "Contratación de consultores especializados en soluciones de big data y landing zone para el proceso de fortalecimiento de la ciencia de datos",
+  "items": [
+   "Contratación de consultor 2 especializado en soluciones de big data y landing zone para el proceso de fortalecimiento de la ciencia de datos.",
+   "Contratación de consultor 1 especializado en soluciones de big data y landing zone para el proceso de fortalecimiento de la ciencia de datos."
+  ],
+  "valor": 360000.0,
+  "fecha": "2022-07-14",
+  "proveedor": "DE LA TORRE CONTRERAS FERNANDO LUIS",
+  "postores": 7,
+  "ocid": "ocds-dgv273-seacev3-2022-166287-15"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-8-2022-cci-sunat-bid-3-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-8-2022-CCI-SUNAT/BID-3-1",
+  "descripcion": "Contratación de consultores especializados en el desarrollo de modelos analíticos avanzados para el proceso de consolidación de la ciencia de datos",
+  "items": [
+   "Contratación de consultor 6 especializado en el desarrollo de modelos analíticos avanzados para el proceso de consolidación de la ciencia de datos.",
+   "Contratación de consultor 5 especializado en el desarrollo de modelos analíticos avanzados para el proceso de consolidación de la ciencia de datos.",
+   "Contratación de consultor 4 especializado en el desarrollo de modelos analíticos avanzados para el proceso de consolidación de la ciencia de datos.",
+   "Contratación de consultor 3 especializado en el desarrollo de modelos analíticos avanzados para el proceso de consolidación de la ciencia de datos."
+  ],
+  "valor": 1080000.0,
+  "fecha": "2022-08-04",
+  "proveedor": "",
+  "postores": 13,
+  "ocid": "ocds-dgv273-seacev3-2022-166287-16"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-8-2022-cci-sunat-bid-3-2--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-8-2022-CCI-SUNAT/BID-3-2",
+  "descripcion": "Contratación de consultores especializados en el desarrollo de modelos analíticos avanzados para el proceso de consolidación de la ciencia de datos",
+  "items": [
+   "Contratación de consultor 6 especializado en el desarrollo de modelos analíticos avanzados para el proceso de consolidación de la ciencia de datos.",
+   "Contratación de consultor 5 especializado en el desarrollo de modelos analíticos avanzados para el proceso de consolidación de la ciencia de datos.",
+   "Contratación de consultor 4 especializado en el desarrollo de modelos analíticos avanzados para el proceso de consolidación de la ciencia de datos.",
+   "Contratación de consultor 3 especializado en el desarrollo de modelos analíticos avanzados para el proceso de consolidación de la ciencia de datos."
+  ],
+  "valor": 1080000.0,
+  "fecha": "2022-08-12",
+  "proveedor": "MUCHA MORALES MAX LEONCIO",
+  "postores": 6,
+  "ocid": "ocds-dgv273-seacev3-834375"
+ },
+ "unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-9-2021-cci-sunat-bid-3-1--ciencia-de-datos": {
+  "categoria": "services",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-9-2021-CCI-SUNAT/BID-3-1",
+  "descripcion": "CONTRATACIÓN DE UN CONSULTOR ESPECIALIZADO DS04 EN DESARROLLO DE MODELOS ANALÍTICOS AVANZADOS PARA EL PROCESO EVOLUTIVO DE LA CIENCIA DE DATOS",
+  "items": [
+   "Contratación de Un Consultor Especializado DS04 en desarrollo de Modelos Analíticos Avanzados para el Proceso Evolutivo de la Ciencia de Datos."
+  ],
+  "valor": 110000.0,
+  "fecha": "2021-12-27",
+  "proveedor": "TARAZONA TOCTO SINDIA SHERLY",
+  "postores": 5,
+  "ocid": "ocds-dgv273-seacev3-2021-166287-36"
+ },
+ "universidad-nacional-de-cajamarca--as-sm-8-2024-unc-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-8-2024-UNC-1",
+  "descripcion": "ADQUISICION DE 1 CAMARA HIPERESPECTRAL PARA EL PROYECTO DE INVESTIGACION DETERMINACION DE PARAMETROS DE CALIDAD EN ARANDANO VACCINIUM MYRTILLUS PRODUCIDOS EN CAJAMARCA MEDIANTE  HIPERESPECTRALES E INTELIGENCIA ARTIFICIAL",
+  "items": [
+   "ADQUISICION DE 1 CAMARA HIPERESPECTRAL PARA EL PROYECTO DE INVESTIGACION DETERMINACION DE PARAMETROS DE CALIDAD EN ARANDANO VACCINIUM MYRTILLUS PRODUCIDOS EN CAJAMARCA MEDIANTE  HI"
+  ],
+  "valor": 236000.0,
+  "fecha": "2024-08-05",
+  "proveedor": "BIOSYM E.I.R.L.",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-2024-1889-37"
+ },
+ "universidad-nacional-de-cajamarca--directa-proc-5-2024-unc-1--modelo-predictivo": {
+  "categoria": "goods",
+  "metodo": "Contratación Directa",
+  "titulo": "DIRECTA-PROC-5-2024-UNC-1",
+  "descripcion": "ADQUISICION DE EQUIPOS PARA EL PROYECTO DE INVESTIGACION MODELO PREDICTIVO DE LAS VARIABLES CLIMATOLOGICAS SOBRE LA ATENUACION DE LOS RADIOENLACES DE 5.8 GHZ ENTRE LOS 250 Y 3700 MSNM",
+  "items": [
+   "ADQUISICION DE EQUIPOS PARA EL PROYECTO DE INVESTIGACION MODELO PREDICTIVO DE LAS VARIABLES CLIMATOLOGICAS SOBRE LA ATENUACION DE LOS RADIOENLACES DE 5.8 GHZ ENTRE LOS 250 Y 3700 M"
+  ],
+  "valor": 111338.0,
+  "fecha": "2024-09-26",
+  "proveedor": "BARTRA CONTROLS E.I.R.L",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-1053695"
+ },
+ "universidad-nacional-de-frontera-sullana--as-sm-11-2023-unf-cs-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-11-2023-UNF/CS-1",
+  "descripcion": "ADQUISICION DE 03 LAPTOPS DE ALTO RENDIMIENTO PARA EL SOPORTE DE ANALITICA DE DATOS DEL PROYECTO SISTIA: SISTEMA PARA LA SONORIZACIÓN DE PARÁMETROS Y MONITOREO DE LA RECEPCIÓN Y DESCARGA DE MATERIA PRIMA EN LA INDUSTRIA DE CONGELADOS HIDROBIOLÓGICOS UTILIZANDO DISPOSITIVOS IOT E INTELIGENCIA ARTIFICIAL CON BIG DATA¿ PARA LA UNIVERSIDAD NACIONAL DE LA FRONTERA¿",
+  "items": [
+   "ADQUISICION DE 03 LAPTOPS DE ALTO RENDIMIENTO PARA EL SOPORTE DE ANALITICA DE DATOS DEL PROYECTO SISTIA: SISTEMA PARA LA SONORIZACIÓN DE PARÁMETROS Y MONITOREO DE LA RECEPCIÓN Y DE"
+  ],
+  "valor": 0.0,
+  "fecha": "2023-09-27",
+  "proveedor": "",
+  "postores": null,
+  "ocid": "ocds-dgv273-seacev3-2023-200407-19"
+ },
+ "universidad-nacional-de-frontera-sullana--directa-proc-1-2024-unf-oec-1--deep-learning": {
+  "categoria": "goods",
+  "metodo": "Contratación Directa",
+  "titulo": "DIRECTA-PROC-1-2024-UNF/OEC-1",
+  "descripcion": "ADQUISICION DE UNA COMPUTADORA DE ALTO RENDIMIENTO PARA EL PROYECTO PROYECTO \"REDES CONVOLUCIONALES Y COMBINACIONES DE BANDAS ESPECTRALES E INDICES VEGETATIVOS PARA IDENTIFICACION DE ARBOLES PLUS DE ALGARROBO (PROSOPIS PALLIDA): APLICACIÓN TECNICAS DEEP LEARNING E IMÁGENES MULTIESPECTRALES",
+  "items": [
+   "ADQUISICION DE UNA COMPUTADORA DE ALTO RENDIMIENTO PARA EL PROYECTO PROYECTO \"REDES CONVOLUCIONALES Y COMBINACIONES DE BANDAS ESPECTRALES E INDICES VEGETATIVOS PARA IDENTIFICACION "
+  ],
+  "valor": 74850.0,
+  "fecha": "2024-05-07",
+  "proveedor": "QUALITY CONTROL INGENIERIA Y SERVICIOS S.A.C.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-1012647"
+ },
+ "universidad-nacional-de-ingenieria--inter-proc-20-2024-uni-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Contratación Internacional",
+  "titulo": "INTER-PROC-20-2024-UNI-1",
+  "descripcion": "SERVICIO ESPECIALIZADO DE ENSEÑANZA UNIVERSITARIA-INTELIGENCIA ARTIFICIAL CON APLICACIONES DE PETROLEO Y GAS NATURAL",
+  "items": [
+   "SERVICIO ESPECIALIZADO DE ENSEÑANZA UNIVERSITARIA-INTELIGENCIA ARTIFICIAL CON APLICACIONES DE PETROLEO Y GAS NATURAL"
+  ],
+  "valor": 19280.0,
+  "fecha": "2024-12-17",
+  "proveedor": "DEEPAK DEVEGOWDA",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-1080276"
+ },
+ "universidad-nacional-de-la-amazonia-peruana--inter-proc-4-2024-unap-1--inteligencia-artificial": {
+  "categoria": "services",
+  "metodo": "Contratación Internacional",
+  "titulo": "INTER-PROC-4-2024-UNAP-1",
+  "descripcion": "CONTRATACIÓN DEL SERVICIO DE IMPLEMENTACIÓN DEL PLAN INTEGRAL DE NEUROSUPPORT A TRAVÉS DE LA INTELIGENCIA ARTIFICIAL EN LA UNIVERSIDAD NACIONAL DE LA AMAZONIA PERUANA",
+  "items": [
+   "CONTRATACIÓN DEL SERVICIO DE IMPLEMENTACIÓN DEL PLAN INTEGRAL DE NEUROSUPPORT A TRAVES DE INTELIGENCIA ARTIFICIAL EN LA UNIVERSIDAD NACIONAL DE LA AMAZONÍA PERUANA"
+  ],
+  "valor": 94599.0,
+  "fecha": "2024-12-19",
+  "proveedor": "FUNDACION INSTITUTO CIENTIFICO NEUROINTEGRAL S.A.S.",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2024-1892-32"
+ },
+ "universidad-nacional-de-moquegua--as-sm-18-2023-oec-unam-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-18-2023-OEC/UNAM.-1",
+  "descripcion": "SERVIDOR WEB - ESPECIALIZADO EN INTELIGENCIA ARTIFICIAL PARA EL PROYECTO DE INVESTIGACION APLICACION DE REDES NEURONALES PROFUNDAS PARA EL RECONOCIMIENTO DEL COVID - 19 A TRAVES DE RADIOGRAFIAS DEL TORAX, REGION MOQUEGUA AÑO 2021",
+  "items": [
+   "ADQUISICION DE SERVIDOR WEB - ESPECIALIZADO EN INTELIGENCIA PARA EL PROYECTO DE INVESTIGACION: APLICACIÓN DE REDES NEURONALES PROFUNDAS PARA EL RECONOCIMIENTO DEL COVID - 19 A TRAV"
+  ],
+  "valor": 320960.0,
+  "fecha": "2023-05-30",
+  "proveedor": "TECHNOLOGICAL GROUP S.A.C.",
+  "postores": 12,
+  "ocid": "ocds-dgv273-seacev3-2023-200244-76"
+ },
+ "universidad-nacional-de-moquegua--as-sm-29-2019-oec-unam-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-29-2019-OEC-UNAM.-1",
+  "descripcion": "SUMINISTRO E INSTALACION DE MAQUINA CLASIFICADORA DE PALTAS PROYECTO DE INVESTIGACIÓN: ¿DISEÑO E IMPLEMENTACIÓN DE UNA MAQUINA CLASIFICADORA DE PALTAS POR TAMAÑO Y COLOR MEDIANTE USO DE INTELIGENCIA ARTIFICIAL.",
+  "items": [
+   "SUMINISTRO E INSTALACION DE MAQUINA CLASIFICADORA DE PALTAS PROYECTO DE INVESTIGACIÓN: ¿DISEÑO E IMPLEMENTACIÓN DE UNA MAQUINA CLASIFICADORA DE PALTAS POR TAMAÑO Y COLOR MEDIANTE U"
+  ],
+  "valor": 199164.15,
+  "fecha": "2019-10-18",
+  "proveedor": "CALEG INGENIEROS SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+  "postores": 4,
+  "ocid": "ocds-dgv273-seacev3-2019-200244-72"
+ },
+ "universidad-nacional-de-trujillo--conv-proc-1-2024-unt-cs-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Convenio",
+  "titulo": "CONV-PROC-1-2024-UNT/CS-1",
+  "descripcion": "ADQUISICION DE UN EQUIPO LECTOR MULTIMODAL DE MICROPLACAS PARA EL PROYECTO CON CONTRATO N° 066-2021-FONDECYT: AGRICULTURA INTELIGENTE - SENSORES OPTICOS DE ESPECTROSCOPIA DEL INFRARROJO CERCANO (NIR) E IMAGEN HIPERESPECTRAL COMBINADOS CON INTELIGENCIA ARTIFICIAL PARA EL CONTROL DE CALIDAD INTERNA DE AGROBERRIES",
+  "items": [
+   "ADQUISICION DE UN EQUIPO LECTOR MULTIMODAL DE MICROPLACAS PARA EL PROYECTO CON CONTRATO N° 066-2021-FONDECYT: AGRICULTURA INTELIGENTE - SENSORES OPTICOS DE ESPECTROSCOPIA DEL INFRA"
+  ],
+  "valor": 143503.25,
+  "fecha": "2024-06-13",
+  "proveedor": "LA ENSENADA S.R.L.",
+  "postores": 2,
+  "ocid": "ocds-dgv273-seacev3-2024-1894-25"
+ },
+ "universidad-nacional-del-altiplano--as-sm-18-2020-unda-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-18-2020-UNDA-1",
+  "descripcion": "SERVIDOR DE MÚLTIPLES SERVICIOS Y SERVIDOR DE INTELIGENCIA ARTIFICIAL",
+  "items": [
+   "SERVIDOR DE MULTIPLES SERVICIOS",
+   "SERVIDOR PARA LABORATORIO DE INTELIGENCIA ARTIFICIAL"
+  ],
+  "valor": 311293.0,
+  "fecha": "2020-09-08",
+  "proveedor": "EQUIPOS ANALITICOS Y TECNOLOGIA DE INFORMACION S.A.C. - EQUANTI S.A.C.",
+  "postores": 11,
+  "ocid": "ocds-dgv273-seacev3-649070"
+ },
+ "universidad-nacional-del-centro-del-peru--lp-sm-3-2022-coselpb-uncp-1--vision-artificial": {
+  "categoria": "goods",
+  "metodo": "Licitación Pública",
+  "titulo": "LP-SM-3-2022-COSELPB-UNCP-1",
+  "descripcion": "ADQUISICIÓN DE EQUIPOS PARA LABORATORIO DE ROBÓTICA Y AUTOMATIZACIÓN DE LA FACULTAD DE INGENIERÍA DE SISTEMAS - PROYECTO DE  INVERSIÓN ¿CONSTRUCCIÓN, EQUIPAMIENTO E  IMPLEMENTACIÓN DEL PABELLÓN DE  LABORATORIOS DE INVESTIGACIÓN CIENTÍFICA Y  TECNOLÓGICA FACULTADES ARQUITECTURA,  INGENIERÍA CIVIL, ELÉCTRICA, MINAS, MECÁNICA, METALURGIA Y SISTEMAS DE LA UNCP CIUDAD UNIVERSITARIA ¿ HUANCAYO¿ CON CUI N° 2094328  ¿ ESTACIÓN DE AUTOMATIZACIÓN Y MANUFACTURA INTEGRADA CON VISIÓN ARTIFICIAL",
+  "items": [
+   "4321160200382934"
+  ],
+  "valor": 1380000.0,
+  "fecha": "2022-04-28",
+  "proveedor": "CONSORCIO INGENIERÍA",
+  "postores": 12,
+  "ocid": "ocds-dgv273-seacev3-2022-1899-16"
+ },
+ "universidad-nacional-del-santa--as-sm-16-2018-uns-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-16-2018-UNS-1",
+  "descripcion": "ADQUISICION DE EQUIPOS DEL LABORATORIO DE INTELIGENCIA ARTIFICIAL Y ROBÓTICA - EP INGENIERIA DE SISTEMAS E INFORMATICA DE LA UNS",
+  "items": [
+   "ADQUISICION DE EQUIPOS DEL LABORATORIO DE INTELIGENCIA ARTIFICIAL Y ROBÓTICA - EP INGENIERIA DE SISTEMAS E INFORMATICA DE LA UNS"
+  ],
+  "valor": 119869.9,
+  "fecha": "2018-08-17",
+  "proveedor": "",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-2018-1900-44"
+ },
+ "universidad-nacional-del-santa--as-sm-16-2018-uns-2--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-16-2018-UNS-2",
+  "descripcion": "ADQUISICION DE EQUIPOS DEL LABORATORIO DE INTELIGENCIA ARTIFICIAL Y ROBÓTICA - EP INGENIERIA DE SISTEMAS E INFORMATICA DE LA UNS",
+  "items": [
+   "ADQUISICION DE EQUIPOS DEL LABORATORIO DE INTELIGENCIA ARTIFICIAL Y ROBÓTICA - EP INGENIERIA DE SISTEMAS E INFORMATICA DE LA UNS"
+  ],
+  "valor": 119869.9,
+  "fecha": "2018-09-18",
+  "proveedor": "",
+  "postores": 3,
+  "ocid": "ocds-dgv273-seacev3-476141"
+ },
+ "universidad-nacional-federico-villarreal--inter-proc-10-2022-unfv-1--chatbot": {
+  "categoria": "services",
+  "metodo": "Contratación Internacional",
+  "titulo": "INTER-PROC-10-2022-UNFV-1",
+  "descripcion": "SERVICIO DE PUBLICACIÓN DE ARTÍCULO CIENTÍFICO EN REVISTA INDIZADA INTERNACIONAL - TÍTULO: USE OF CHATBOTS IN E-COMMERCE: A COMPREHENSIVE SYSTEMATIC REVIEW",
+  "items": [
+   "SERVICIO DE PUBLICACION DE ARTICULOS CIENTIFICOS EN REVISTA INTERNACIONAL"
+  ],
+  "valor": 3400.0,
+  "fecha": "2022-12-14",
+  "proveedor": "JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-873096"
+ },
+ "universidad-nacional-federico-villarreal--inter-proc-3-2022-unfv-1--chatbot": {
+  "categoria": "services",
+  "metodo": "Contratación Internacional",
+  "titulo": "INTER-PROC-3-2022-UNFV-1",
+  "descripcion": "SERVICIO DE PUBLICACIÓN DE ARTÍCULO CIENTÍFICO EN REVISTA INDIZADA INTERNACIONAL - TÍTULO: CHATBOTS FOR CUSTOMER SERVICE: A COMPREHENSIVE SYSTEMATIC LITERATURE REVIEW",
+  "items": [
+   "SERVICIO DE PUBLICACIÓN DE ARTÍCULO CIENTÍFICO EN REVISTA INDIZADA INTERNACIONAL - TÍTULO: CHATBOTS FOR CUSTOMER SERVICE: A COMPREHENSIVE SYSTEMATIC LITERATURE REVIEW"
+  ],
+  "valor": 3400.0,
+  "fecha": "2022-08-18",
+  "proveedor": "JOURNAL OF THEORETICAL AND APPLIED INFORMATION TECHNOLOGY",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-835816"
+ },
+ "universidad-nacional-federico-villarreal--inter-proc-7-2021-unfv-1--machine-learning": {
+  "categoria": "services",
+  "metodo": "Contratación Internacional",
+  "titulo": "INTER-PROC-7-2021-UNFV-1",
+  "descripcion": "SERVICIO DE PUBLICACIÓN DE ARTÍCULO CIENTÍFICO EN REVISTA INDIZADA INTERNACIONAL - TÍTULO: MACHINE LEARNING TO INCREASE APPLICANTS IN THE ADMISSION PROCESS OF A PUBLIC UNIVERSITY IN LIMA-PERÚ",
+  "items": [
+   "SERVICIO DE PUBLICACIÓN DE ARTÍCULO CIENTÍFICO EN REVISTA INDIZADA INTERNACIONAL - TÍTULO: MACHINE LEARNING TO INCREASE APPLICANTS IN THE ADMISSION PROCESS OF A PUBLIC UNIVERSITY I"
+  ],
+  "valor": 4000.0,
+  "fecha": "2021-09-15",
+  "proveedor": "GYANCITY RESEARCH CONSULTANCY PVT LTD",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-740323"
+ },
+ "universidad-nacional-hermilio-valdizan--as-sm-37-2022-unheval-oec-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-37-2022-UNHEVAL/OEC-1",
+  "descripcion": "ADQUISICIÓN DE VEHÍCULO AÉREO NO TRIPULADO PARA AGRICULTURA CON INTELIGENCIA ARTIFICIAL",
+  "items": [
+   "ADQUISICIÓN DE VEHÍCULO AÉREO NO TRIPULADO PARA AGRICULTURA CON INTELIGENCIA ARTIFICIAL"
+  ],
+  "valor": 48890.0,
+  "fecha": "2022-11-23",
+  "proveedor": "MANUFACTURA Y TECNOLOGIA DE EXPORTACION S.R.L",
+  "postores": 7,
+  "ocid": "ocds-dgv273-seacev3-2022-1903-92"
+ },
+ "universidad-nacional-jorge-basadre-grohmann-tacna--as-sm-40-2022-oec-unjbg-1--ciencia-de-datos": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-40-2022-OEC-UNJBG-1",
+  "descripcion": "ADQUISION DE UN SERVIDOR PARA EL PROYECTO DE INVESTIGACIÓN: \"CIENCIA DE DATOS APLICADA A LA EVALUACIÓN DEL IMPACTO SOCIAL DE LA COVID-19 EN LA REGION TACNA: SALUD Y EDUCACIÓN\"",
+  "items": [
+   "ADQUISICIÓN DE UN SERVIDOR PARA EL PROYECTO DE INVESTIGACIÓN: ¿CIENCIA DE DATOS APLICADA A LA EVALUACIÓN DEL IMPACTO SOCIAL DE LA COVID-19 EN LA REGIÓN  TACNA: SALUD Y EDUCACIÓN¿"
+  ],
+  "valor": 101033.33,
+  "fecha": "2022-12-29",
+  "proveedor": "GRUPO NEPSYS SOCIEDAD ANONIMA CERRADA - GRUPO NEPSYS S.A.C.",
+  "postores": 20,
+  "ocid": "ocds-dgv273-seacev3-2022-1904-118"
+ },
+ "universidad-nacional-san-agustin--directa-proc-19-2021-unsa-1--inteligencia-artificial": {
+  "categoria": "goods",
+  "metodo": "Contratación Directa",
+  "titulo": "DIRECTA-PROC-19-2021-UNSA-1",
+  "descripcion": "ADQUISICIÓN PARA LABORATORIO DE INTELIGENCIA ARTIFICIAL ¿ CS DE LA COMPUTACIÓN ¿ ITEM: ESCANER 3D",
+  "items": [
+   "ADQUISICIÓN PARA LABORATORIO DE INTELIGENCIA ARTIFICIAL ¿ CS DE LA COMPUTACIÓN ¿ ITEM: ESCANER 3D"
+  ],
+  "valor": 150274.0,
+  "fecha": "2021-10-28",
+  "proveedor": "CAD SOLUTIONS SA",
+  "postores": 1,
+  "ocid": "ocds-dgv273-seacev3-751741"
+ },
+ "universidad-nacional-san-martin--as-sm-43-2024-unsm-cs-1--vision-artificial": {
+  "categoria": "goods",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-43-2024-UNSM/CS-1",
+  "descripcion": "ADQUISICIÓN DE UN ESCÁNER DE LÁMINAS PARA PROYECTO DE INVESTIGACIÓN \"VALIDACIÓN DE LECTURAS DE PAPANICOLAU MEDIANTE UN MODELO HÍBRIDO DE VISIÓN ARTIFICIAL EN EL LABORATORIO REFERENCIAL DE LA REGIÓN SAN MARTÍN\"",
+  "items": [
+   "ESCANER DE LAMINAS"
+  ],
+  "valor": 67000.0,
+  "fecha": "2024-10-15",
+  "proveedor": "PROYECTOS PESACON SAC",
+  "postores": 5,
+  "ocid": "ocds-dgv273-seacev3-2024-1912-57"
+ },
+ "universidad-nacional-santiago-antunez-de-mayolo--as-sm-10-2023-csunasam-1--chatbot": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-10-2023-CSUNASAM-1",
+  "descripcion": "Servicio para el Análisis, Desarrollo e Implementación de la Plataforma Digital, Software, Chatbot y Servicios Digitales, para el Cumplimiento del Proyecto de Investigación ¿Efectividad Usabilidad y Satisfacción del Servicio Digital de Autocuidado en Salud Mental para Docentes, Estudiantes y personal Administrativo de la Universidad Nacional Santiago Antúnez de Mayolo",
+  "items": [
+   "Servicio para el Análisis, Desarrollo e Implementación de la Plataforma Digital, Software, Chatbot y Servicios Digitales, para el Cumplimiento del Proyecto de Investigación ¿Efecti"
+  ],
+  "valor": 98000.0,
+  "fecha": "2023-07-12",
+  "proveedor": "",
+  "postores": 7,
+  "ocid": "ocds-dgv273-seacev3-2023-1913-21"
+ },
+ "universidad-nacional-santiago-antunez-de-mayolo--as-sm-10-2023-csunasam-2--chatbot": {
+  "categoria": "services",
+  "metodo": "Adjudicación Simplificada",
+  "titulo": "AS-SM-10-2023-CSUNASAM-2",
+  "descripcion": "Servicio para el Análisis, Desarrollo e Implementación de la Plataforma Digital, Software, Chatbot y Servicios Digitales, para el Cumplimiento del Proyecto de Investigación ¿Efectividad Usabilidad y Satisfacción del Servicio Digital de Autocuidado en Salud Mental para Docentes, Estudiantes y personal Administrativo de la Universidad Nacional Santiago Antúnez de Mayolo",
+  "items": [
+   "Servicio para el Análisis, Desarrollo e Implementación de la Plataforma Digital, Software, Chatbot y Servicios Digitales, para el Cumplimiento del Proyecto de Investigación ¿Efecti"
+  ],
+  "valor": 98000.0,
+  "fecha": "2023-09-11",
+  "proveedor": "ELECTRODATA INGENIERIA & SISTEMAS S.A.C.",
+  "postores": 15,
+  "ocid": "ocds-dgv273-seacev3-939261"
+ }
+}

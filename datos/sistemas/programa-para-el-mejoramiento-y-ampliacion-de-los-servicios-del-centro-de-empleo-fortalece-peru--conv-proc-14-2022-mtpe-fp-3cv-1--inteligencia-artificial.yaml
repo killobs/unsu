@@ -1,0 +1,23 @@
+id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-14-2022-mtpe-fp-3cv-1--inteligencia-artificial
+entidad_id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru
+nombre: CONV-PROC-14-2022-MTPE-FP-3CV-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Despliegue de la Bolsa de Trabajo con Inteligencia Artificial Articulador para la intermediación 5
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: JIMENEZ GONZALES MAYRA SUSANA
+vinculo_contractual: ''
+presupuesto: '17833.33'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: alto
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-54-2025-06-25T16:54:56.941423-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2022 (ocid: ocds-dgv273-seacev3-2022-156479-54).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Intermediación laboral: condiciona el acceso al empleo (EU AI Act, Anexo III).'

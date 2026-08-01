@@ -1,0 +1,113 @@
+# Clasificación de riesgo decidida leyendo ficha por ficha el 2026-07-27.
+# Clave: id completo del sistema. Cada nivel lleva su criterio.
+? contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-1-2024-cgr-ue002-sbcc-1--inteligencia-artificial
+: criterio: Analítica interna de apoyo, sin interacción con el público.
+  nivel: minimo
+contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-10-2024-cg-ue02-bid-scc-1--chatbot:
+  criterio: Chatbot de apoyo al declarante; no evalúa la declaración.
+  nivel: limitado
+? contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-51-2021-cg-ue02-bid-sd-1--ciencia-de-datos
+: criterio: Desarrollo analítico interno; la ficha no indica que decida sobre personas.
+  nivel: minimo
+? contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-75-2021-cg-ue02-bid-sd-1--inteligencia-artificial
+: criterio: Alimenta la fiscalización patrimonial de funcionarios, con consecuencias
+    sancionadoras.
+  nivel: alto
+? contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-78-2021-cg-ue02-bid-sd-1--inteligencia-artificial
+: criterio: Alimenta la fiscalización patrimonial de funcionarios, con consecuencias
+    sancionadoras.
+  nivel: alto
+? empresa-regional-de-servicio-publico-de-electricidad-del-centro-sa-electrocentro-s-a--cp-sm-29-2024-elcto-s-a-1--inteligencia-artificial
+: criterio: Monitoreo de infraestructura eléctrica, sin decisión sobre personas.
+  nivel: minimo
+instituto-nacional-de-enfermedades-neoplasicas--as-sm-18-2020-inen-1--reconocimiento-facial:
+  criterio: 'Control de asistencia interno. NOTA: procesa datos biométricos de trabajadores,
+    supuesto que la metodología §4 aún no contempla.'
+  nivel: minimo
+mejora-de-la-calidad-de-servicios-registrales-reniec--conv-proc-4-2022-lpi-2022-mcsr-1--inteligencia-artificial:
+  criterio: Asistente de atención al público.
+  nivel: limitado
+mejora-de-la-calidad-de-servicios-registrales-reniec--conv-proc-8-2022-lpi-2022-mcsr-1--inteligencia-artificial:
+  criterio: Asistente de atención al público.
+  nivel: limitado
+ministerio-de-la-mujer-y-poblaciones-vulnerables-administracion-general--as-sm-11-2023-mimp-1--reconocimiento-facial:
+  criterio: 'Control de acceso interno. NOTA: procesa datos biométricos de trabajadores,
+    supuesto que la metodología §4 aún no contempla.'
+  nivel: minimo
+ministerio-publico--as-sm-13-2019-mpfn-1--reconocimiento-facial:
+  criterio: Identificación biométrica en el Ministerio Público, con uso forense.
+  nivel: alto
+ministerio-publico--lp-sm-8-2022-mp-fn-1--biometria:
+  criterio: 'Biometría de voz para acústica forense: identifica personas en investigación
+    penal.'
+  nivel: alto
+organismo-de-evaluacion-y-fiscalizacion-ambiental--as-sm-19-2020-oefa-1--reconocimiento-facial:
+  criterio: 'Control de asistencia interno. NOTA: procesa datos biométricos de trabajadores,
+    supuesto que la metodología §4 aún no contempla.'
+  nivel: minimo
+organismo-supervisor-de-inversion-privada-en-telecomunicaciones--as-sm-14-2021-osiptel-1--asistente-virtual:
+  criterio: Asistente virtual de atención al usuario.
+  nivel: limitado
+organismo-supervisor-de-la-inversion-en-energia-y-mineria--cp-sm-39-2021-osinergmin-1--inteligencia-artificial:
+  criterio: Predicción operativa de red eléctrica, sin decisión sobre personas.
+  nivel: minimo
+programa-nacional-de-innovacion-para-la-competitividad-y-productividad--conv-proc-11-2024-proinnovate-1--asistente-virtual:
+  criterio: Asistente virtual de atención al público.
+  nivel: limitado
+programa-nacional-de-innovacion-para-la-competitividad-y-productividad--conv-proc-41-2022-proinnovate-1--modelo-predictivo:
+  criterio: Decide qué emprendimientos acceden a financiamiento público.
+  nivel: alto
+? programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-14-2022-mtpe-fp-3cv-1--inteligencia-artificial
+: criterio: 'Intermediación laboral: condiciona el acceso al empleo (EU AI Act, Anexo
+    III).'
+  nivel: alto
+proinnovate--asistente-virtual-sofia:
+  criterio: Asistente virtual de atención al público.
+  nivel: limitado
+registro-nacional-de-identificacion-y-estado-civil--cp-sm-19-2022-reniec-1--biometria:
+  criterio: Verificación biométrica para identidad (ejemplo literal de la metodología
+    §4).
+  nivel: alto
+servicio-de-agua-potable-y-alcantarillado-de-arequipa--as-sm-26-2022-sedapar-1--inteligencia-artificial:
+  criterio: Asistente virtual de atención al usuario.
+  nivel: limitado
+servicio-de-agua-potable-y-alcantarillado-de-arequipa--as-sm-39-2024-sedapar-1--asistente-virtual:
+  criterio: Asistente virtual de atención al usuario.
+  nivel: limitado
+servicio-de-agua-potable-y-alcantarillado-de-arequipa--as-sm-42-2023-sedapar-1--asistente-virtual:
+  criterio: Asistente virtual de atención al usuario.
+  nivel: limitado
+superintendencia-de-banca-seguros-y-afp--as-sm-20-2020-sbs-1--chatbot:
+  criterio: Chatbot de atención al ciudadano.
+  nivel: limitado
+superintendencia-de-banca-seguros-y-afp--as-sm-25-2019-sbs-2--chatbot:
+  criterio: Chatbot de atención al ciudadano.
+  nivel: limitado
+superintendencia-de-banca-seguros-y-afp--as-sm-36-2022-sbs-s-2--chatbot:
+  criterio: Chatbot de atención al ciudadano.
+  nivel: limitado
+superintendencia-de-banca-seguros-y-afp--as-sm-4-2019-sbs-1--chatbot:
+  criterio: Chatbot de atención al ciudadano.
+  nivel: limitado
+superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--as-sm-8-2022-sunat-8b7200-1--asistente-virtual:
+  criterio: Asistente virtual SOFIA de atención al contribuyente.
+  nivel: limitado
+superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--cp-sm-91-2022-sunat-8b7200-1--asistente-virtual:
+  criterio: Asistente conversacional de atención al contribuyente.
+  nivel: limitado
+superintendencia-nacional-de-migraciones--lp-sm-1-2021-migraciones-1--reconocimiento-facial:
+  criterio: Reconocimiento facial en control migratorio de aeropuerto.
+  nivel: alto
+superintendencia-nacional-de-servicios-de-saneamiento--directa-proc-3-2020-sunass-1--reconocimiento-facial:
+  criterio: 'Control de asistencia interno. NOTA: procesa datos biométricos de trabajadores,
+    supuesto que la metodología §4 aún no contempla.'
+  nivel: minimo
+? unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-10-2021-sd-sunat-bid-3-2--reconocimiento-facial
+: criterio: Reconocimiento facial para control de pasajeros en aeropuerto.
+  nivel: alto
+universidad-nacional-hermilio-valdizan--as-sm-37-2022-unheval-oec-1--inteligencia-artificial:
+  criterio: Uso agrícola en investigación, sin decisión sobre personas.
+  nivel: minimo
+universidad-nacional-santiago-antunez-de-mayolo--as-sm-10-2023-csunasam-2--chatbot:
+  criterio: Chatbot de atención en proyecto universitario.
+  nivel: limitado

@@ -6,12 +6,12 @@ nivel_gobierno: nacional
 finalidad: SERVICIO DE SUSCRIPCIÓN A IBM CLOUD O EQUIVALENTE PARA MANTENER EN FUNCIONAMIENTO EL ASISTENTE VIRTUAL SOFIA
 tipo_decision: ''
 supervision_humana_declarada: no_declarado
-proveedor: ''
+proveedor: FOCUS SYSTEMS PERU S.A.C
 vinculo_contractual: ''
 presupuesto: '798074.68'
 estado: en_operacion
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -22,5 +22,8 @@ evidencia:
 - url: https://www.gob.pe/25674-conoce-al-asistente-virtual-sofia
   fecha_captura: '2026-07-26'
   descripcion: Renovacion 2025 del contrato de nube de Sofia -- proceso distinto de la renovacion 2026 (CP SER-SM-47-2026), no duplicado.
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-2000-210-2025-08-31T10:03:42.852029-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "asistente virtual" en contrataciones OECE 2024 (ocid: ocds-dgv273-seacev3-2024-2000-210).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Clasificación de riesgo: Asistente virtual SOFIA de atención al contribuyente.'

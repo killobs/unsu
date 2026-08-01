@@ -1,0 +1,29 @@
+id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-75-2021-cg-ue02-bid-sd-1--inteligencia-artificial
+entidad_id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades
+nombre: CONV-PROC-75-2021-CG-UE02-BID SD-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Contratación de un Consultor Individual para la Realización del Diagnóstico Situacional y el Planteamiento Técnico del Producto 1.2 Sistema Potencializado de Detección y Fiscalización Patrimonial y de Intereses Basado en Inteligencia Artificial y Datos Masivos. Sistema de Declaraciones Juradas Potencializado del Proyecto Mejoramiento de los Servicios de Control Gubernamental para un Control Efectivo, Preventivo y Facilitador de la Gestión Pública - Sub Producto Rediseño de los Sistemas de Declaraciones Juradas
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '18000.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: alto
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-185233-194-2025-06-26T17:49:08.051549-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2021 (ocid: ocds-dgv273-seacev3-2021-185233-194).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-185233-195-2025-06-26T17:49:02.846455-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2021 (ocid: ocds-dgv273-seacev3-2021-185233-195).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-185233-196-2025-06-26T17:48:42.556906-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2021 (ocid: ocds-dgv273-seacev3-2021-185233-196).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionada con 2 ficha(s) duplicada(s) del mismo sistema; se conserva su evidencia. Clasificación de riesgo: Alimenta la fiscalización patrimonial de funcionarios, con consecuencias sancionadoras.'

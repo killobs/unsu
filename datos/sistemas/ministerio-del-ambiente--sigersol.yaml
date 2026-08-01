@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: ''
 estado: en_operacion
 tecnologias: IA, soporte virtual inteligente, integración de datos
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: minimo
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -23,4 +23,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: MINAM presenta SIGERSOL Municipal 4.0 con modulo de soporte virtual con IA para las 1,891 municipalidades del pais.
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: 'Clasificación de riesgo: Soporte al reporte administrativo de municipalidades.'

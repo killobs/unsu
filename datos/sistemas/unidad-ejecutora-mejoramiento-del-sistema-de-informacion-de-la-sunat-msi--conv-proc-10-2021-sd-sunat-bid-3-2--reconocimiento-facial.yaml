@@ -1,0 +1,26 @@
+id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-10-2021-sd-sunat-bid-3-2--reconocimiento-facial
+entidad_id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi
+nombre: CONV-PROC-10-2021-SD-SUNAT/BID-3-2
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Servicio de consultoría de asistencia técnica para diseño de solución tecnológica para la implementación de sistemas de cámaras de reconocimiento facial para el control de pasajeros en el Aeropuerto Internacional Jorge Chávez (AIJCH) y elaboración de TDR / EETT
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: FANNY MARLENE PALACIOS MORALES
+vinculo_contractual: ''
+presupuesto: '203705.71'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: alto
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-774804-2025-06-25T16:49:13.425541-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "reconocimiento facial" en contrataciones OECE 2021 (ocid: ocds-dgv273-seacev3-774804).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-166287-54-2025-06-26T17:43:38.292623-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "reconocimiento facial" en contrataciones OECE 2021 (ocid: ocds-dgv273-seacev3-2021-166287-54).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionada con 1 ficha(s) duplicada(s) del mismo sistema; se conserva su evidencia. Clasificación de riesgo: Reconocimiento facial para control de pasajeros en aeropuerto.'

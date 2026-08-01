@@ -9,9 +9,9 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: ''
-estado: indeterminado
+estado: en_operacion
 tecnologias: IA conversacional, IBM Watson Assistant, servicios en la nube (AWS, VPC)
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -23,4 +23,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Pagina oficial de 'Telia', asistente digital de OSIPTEL (vinculo con esta contratacion especifica no confirmado).
 fecha_alta_registro: '2026-07-26'
-notas: OSIPTEL opera un asistente virtual llamado 'Telia' (confirmado en su portal oficial), pero no se pudo confirmar si es el mismo proyecto que esta contratacion de IBM Watson Assistant/AWS.
+notas: 'OSIPTEL opera un asistente virtual llamado ''Telia'' (confirmado en su portal oficial), pero no se pudo confirmar si es el mismo proyecto que esta contratacion de IBM Watson Assistant/AWS. Clasificación de riesgo: Asesor virtual de atención al usuario. Estado: listado como aplicación existente en el Catálogo de Aplicaciones con IA en el Estado Peruano (PCM/SGTD).'

@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: '6036000.0'
 estado: indeterminado
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: minimo
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: inferido_contratacion
@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-2025-1921-112).'
 fecha_alta_registro: '2026-07-26'
-notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional encontrada. Ver nota en CP-SER-SM-1: se estima proceso complementario, no duplicado, sin confirmacion concluyente.'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional encontrada. Ver nota en CP-SER-SM-1: se estima proceso complementario, no duplicado, sin confirmacion concluyente. Clasificación de riesgo: Infraestructura y soporte interno.'

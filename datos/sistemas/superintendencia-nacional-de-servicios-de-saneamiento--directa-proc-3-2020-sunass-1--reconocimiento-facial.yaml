@@ -1,0 +1,23 @@
+id: superintendencia-nacional-de-servicios-de-saneamiento--directa-proc-3-2020-sunass-1--reconocimiento-facial
+entidad_id: superintendencia-nacional-de-servicios-de-saneamiento
+nombre: DIRECTA-PROC-3-2020-SUNASS-1
+sector: Saneamiento
+nivel_gobierno: nacional
+finalidad: Adquisición de veinticuatro (24) relojes biométricos de reconocimiento facial para el control de asistencia del personal de la SUNASS de las ODS
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: TEMPUTRONIC S.A.C.
+vinculo_contractual: ''
+presupuesto: '225273.71'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: minimo
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-646876-2025-06-29T17:35:03.609707-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "reconocimiento facial" en contrataciones OECE 2020 (ocid: ocds-dgv273-seacev3-646876).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Control de asistencia interno. NOTA: procesa datos biométricos de trabajadores, supuesto que la metodología §4 aún no contempla.'

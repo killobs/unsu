@@ -6,12 +6,12 @@ nivel_gobierno: nacional
 finalidad: SERVICIO DE CONFIGURACIÓN E IMPLEMENTACIÓN DE UNA HERRAMIENTA DE PLANIFICACIÓN DE VIAJES CON INTELIGENCIA ARTIFICIAL PARA EL SECTOR TURISMO
 tipo_decision: ''
 supervision_humana_declarada: no_declarado
-proveedor: ''
+proveedor: MINDTRIP, INC
 vinculo_contractual: ''
 presupuesto: '289027.61'
 estado: en_operacion
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -26,4 +26,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Anuncio del piloto en Turismo In Summit 2025 (set. 2025), lanzamiento previsto dic. 2025.
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Clasificación de riesgo: Herramienta de orientación al público.'

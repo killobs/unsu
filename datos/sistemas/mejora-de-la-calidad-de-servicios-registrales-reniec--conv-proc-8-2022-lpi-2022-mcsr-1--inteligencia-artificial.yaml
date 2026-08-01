@@ -1,0 +1,23 @@
+id: mejora-de-la-calidad-de-servicios-registrales-reniec--conv-proc-8-2022-lpi-2022-mcsr-1--inteligencia-artificial
+entidad_id: mejora-de-la-calidad-de-servicios-registrales-reniec
+nombre: CONV-PROC-8-2022-LPI-2022-MCSR-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: CONTRATACIÓN DEL SERVICIO DE APROVISIONAMIENTO DE PLATAFORMA DE GESTIÓN DE CONTENIDOS DIGITALES CON INTELIGENCIA ARTIFICIAL (ASISTENTE INTEGRAL - CHATBOT) EN LA NUBE, EN MODO PAAS
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: VASS CONSULTORIA DE SISTEMAS PERU S.A.C.
+vinculo_contractual: ''
+presupuesto: '5509775.6'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: limitado
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-215627-283-2025-06-25T17:21:32.726322-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2022 (ocid: ocds-dgv273-seacev3-2022-215627-283).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Asistente de atención al público.'

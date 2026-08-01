@@ -1,0 +1,23 @@
+id: ministerio-publico--lp-sm-8-2022-mp-fn-1--biometria
+entidad_id: ministerio-publico
+nombre: LP-SM-8-2022-MP-FN-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: ADQUISICIÓN DE UN (01) SOFTWARE DE BIOMETRÍA DE VOZ PARA EL ÁREA DE FONÉTICA Y ACÚSTICA FORENSE, EN EL MARCO DEL PROYECTO LUXEMBURGO
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '1699880.82'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: alto
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-26-81-2025-06-25T17:21:58.137451-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "biometría" en contrataciones OECE 2022 (ocid: ocds-dgv273-seacev3-2022-26-81).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Biometría de voz para acústica forense: identifica personas en investigación penal.'

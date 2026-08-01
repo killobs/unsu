@@ -1,0 +1,23 @@
+id: organismo-de-evaluacion-y-fiscalizacion-ambiental--as-sm-19-2020-oefa-1--reconocimiento-facial
+entidad_id: organismo-de-evaluacion-y-fiscalizacion-ambiental
+nombre: AS-SM-19-2020-OEFA-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: ADQUISICIÓN DE RELOJES BIOMÉTRICOS DE CONTROL DE ASISTENCIA CON SISTEMA DE RECONOCIMIENTO FACIAL
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '99717.08'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: minimo
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-200276-706-2025-06-29T17:21:30.970864-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "reconocimiento facial" en contrataciones OECE 2020 (ocid: ocds-dgv273-seacev3-2020-200276-706).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Control de asistencia interno. NOTA: procesa datos biométricos de trabajadores, supuesto que la metodología §4 aún no contempla.'

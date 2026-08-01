@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: ''
 estado: en_operacion
 tecnologias: Inteligencia Artificial, NLP, emparejamiento inteligente, microservicios web, ontologías ocupacionales
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: alto
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -26,4 +26,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Cobertura de prensa: 104,264 vacantes promovidas ene-ago 2022 (+24% vs 2021).'
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: 'Clasificación de riesgo: Interpretación del proyecto, no ejemplo literal de la metodología: la intermediación laboral condiciona el acceso al empleo. El EU AI Act trata el empleo como alto riesgo (Anexo III).'

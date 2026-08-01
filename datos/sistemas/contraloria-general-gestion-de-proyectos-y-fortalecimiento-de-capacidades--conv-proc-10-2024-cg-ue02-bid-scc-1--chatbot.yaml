@@ -1,0 +1,23 @@
+id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-10-2024-cg-ue02-bid-scc-1--chatbot
+entidad_id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades
+nombre: CONV-PROC-10-2024-CG-UE02-BID SCC-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: CONTRATACIÓN DEL SERVICIO DE UNA FIRMA CONSULTORA PARA LA IMPLEMENTACIÓN DE UN ASISTENTE VIRTUAL (CHATBOT) EN LOS SISTEMAS DE DECLARACIONES JURADAS
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: JOGZAR CONSULTING SAC. - EXODUS BUSINESS  IT CONSULTING SAC.
+vinculo_contractual: ''
+presupuesto: '652532.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: limitado
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-185233-53-2025-06-23T17:48:26.776964-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "chatbot" en contrataciones OECE 2024 (ocid: ocds-dgv273-seacev3-2024-185233-53).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Chatbot de apoyo al declarante; no evalúa la declaración.'

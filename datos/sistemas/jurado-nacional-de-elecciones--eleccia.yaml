@@ -4,14 +4,14 @@ nombre: EleccIA
 sector: Electoral
 nivel_gobierno: nacional
 finalidad: Evaluación de expedientes electorales.
-tipo_decision: ''
-supervision_humana_declarada: no_declarado
+tipo_decision: Califica el cumplimiento de requisitos de los expedientes de inscripción de fórmulas y listas de candidatos, y elabora una propuesta de pronunciamiento. La decisión final la firma el asistente jurisdiccional.
+supervision_humana_declarada: si
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: ''
 estado: en_operacion
 tecnologias: Inteligencia Artificial, procesamiento jurídico automatizado, evaluación documental
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: alto
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -23,10 +23,10 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'En uso real: mas de 111,000 expedientes de inscripcion de candidatos gestionados, tiempos de revision reducidos de 96 a 18 horas.'
 - url: https://portal.jne.gob.pe/portal_documentos/files/d19e2fc8-b554-4b70-a563-f9f9efd65101.pdf
-  fecha_captura: '2026-07-26'
-  descripcion: Directiva oficial del JNE para el uso de EleccIA en las Elecciones Generales 2026.
+  fecha_captura: '2026-07-31'
+  descripcion: 'Directiva DIR-OGTI-JNE-001 v01 (24 pp.) para el uso de EleccIA en las Elecciones Generales 2026. Su §7.7 "Validar calificación (Revisión humana)" declara la supervisión humana: EleccIA muestra la calificación efectuada y el asistente jurisdiccional la valida o la modifica según su criterio antes de generar el proyecto de resolución.'
 - url: https://larepublica.pe/politica/2026/07/16/jne-advierte-deficit-de-s261-millones-que-pone-en-riesgo-erm-es-de-suma-urgencia-contar-con-los-recursos-hnews-1145600
   fecha_captura: '2026-07-26'
   descripcion: 'Julio 2026: el JNE advierte un deficit presupuestal de S/ 261 millones que pone en riesgo la continuidad del sistema para las Elecciones Regionales y Municipales 2026.'
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: 'Clasificación de riesgo: Evaluación de expedientes electorales (ejemplo literal de la metodología §4). Supervisión humana verificada el 2026-07-31 leyendo la directiva citada: el §7.7 la declara de forma expresa, por lo que este campo pasó de `no_declarado` a `si`.'

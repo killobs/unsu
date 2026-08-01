@@ -1,0 +1,23 @@
+id: mejora-de-la-calidad-de-servicios-registrales-reniec--conv-proc-4-2022-lpi-2022-mcsr-1--inteligencia-artificial
+entidad_id: mejora-de-la-calidad-de-servicios-registrales-reniec
+nombre: CONV-PROC-4-2022-LPI-2022-MCSR-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: SERVICIO DE IMPLEMENTACIÓN DE SERVICIO DE INTELIGENCIA ARTIFICIAL ¿ ASISTENTE INTEGRAL - P21
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '3175060.79'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: limitado
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-802543-2025-06-25T16:56:05.449428-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2022 (ocid: ocds-dgv273-seacev3-802543).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Asistente de atención al público.'

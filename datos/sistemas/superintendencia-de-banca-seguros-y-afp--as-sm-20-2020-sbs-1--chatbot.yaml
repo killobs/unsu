@@ -1,0 +1,23 @@
+id: superintendencia-de-banca-seguros-y-afp--as-sm-20-2020-sbs-1--chatbot
+entidad_id: superintendencia-de-banca-seguros-y-afp
+nombre: AS-SM-20-2020-SBS-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Contratacion del servicio de desarrollo de servicios cognitivos para chatbot
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: DSB MOBILE SAC
+vinculo_contractual: ''
+presupuesto: '146615.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: limitado
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-1922-110-2025-06-29T17:32:13.372707-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "chatbot" en contrataciones OECE 2020 (ocid: ocds-dgv273-seacev3-2020-1922-110).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Chatbot de atención al ciudadano.'

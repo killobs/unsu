@@ -9,9 +9,9 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: ''
-estado: indeterminado
+estado: en_operacion
 tecnologias: Inteligencia Artificial, visión computacional, equipos endoscópicos asistidos (ELUXEO 7000 + CadEye)
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: alto
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
 fecha_alta_registro: '2026-07-26'
-notas: CadEye es un producto comercial real y ampliamente usado de Fujifilm, lo que hace plausible la compra. Se encontro una referencia tentativa (fuente debil) a una torre endoscopica Fujifilm de S/ 1,579,998.00 adquirida por el hospital, sin confirmar que incluya el modulo CadEye especificamente.
+notas: 'CadEye es un producto comercial real y ampliamente usado de Fujifilm, lo que hace plausible la compra. Se encontro una referencia tentativa (fuente debil) a una torre endoscopica Fujifilm de S/ 1,579,998.00 adquirida por el hospital, sin confirmar que incluya el modulo CadEye especificamente. Clasificación de riesgo: Diagnóstico médico (ejemplo literal de la metodología §4). Estado: listado como aplicación existente en el Catálogo de Aplicaciones con IA en el Estado Peruano (PCM/SGTD).'

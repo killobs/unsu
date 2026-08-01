@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: ''
 estado: en_operacion
 tecnologias: SgLang, LlamaCpp, Transformers, RAG, HybridRAG, GraphRAG, GraphQL, FastAPI, RabbitMQ
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -26,4 +26,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Acceso directo al servicio en produccion.
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: 'Clasificación de riesgo: Orientación normativa al administrado.'

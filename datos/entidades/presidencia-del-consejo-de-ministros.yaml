@@ -6,28 +6,28 @@ nivel_gobierno: nacional
 obligaciones:
 - obligacion: Politica institucional de IA aprobada
   estado: no_verificable_desde_fuentes_publicas
-  fecha_limite: ''
+  fecha_limite: '2026-09-10'
   evidencia: []
 - obligacion: Proyectos de IA incorporados en el Plan de Gobierno Digital
   estado: no_verificable_desde_fuentes_publicas
-  fecha_limite: ''
+  fecha_limite: '2026-09-10'
   evidencia: []
 - obligacion: Codigo fuente publicado en la Plataforma Nacional de Software Publico Peruano
   estado: no_verificable_desde_fuentes_publicas
-  fecha_limite: ''
+  fecha_limite: '2026-09-10'
   evidencia:
   - url: https://www.softwarepublico.gob.pe/catalogo/catalogo_servicios.aspx
     fecha_captura: '2026-08-01'
     descripcion: '5 software(s) registrados en PNSSP, con licencia declarada libre/abierta: ChatBOT Normativo - YachAI-Bot, GOBI - Guía de Orientación Basada en Inteligencia, GenIA - Sistema Inteligente de Transcripción y Documentación de Reuniones, Invoker Refirma, Sistema de Registro de Visitas. Sin enlace a repositorio de código verificable en la ficha de detalle.'
 - obligacion: Documentacion de sistemas de riesgo alto
   estado: no_verificable_desde_fuentes_publicas
-  fecha_limite: ''
+  fecha_limite: '2026-09-10'
   evidencia: []
 - obligacion: Mecanismos de supervision humana declarados
   estado: no_verificable_desde_fuentes_publicas
-  fecha_limite: ''
+  fecha_limite: '2026-09-10'
   evidencia: []
 - obligacion: Transparencia algoritmica frente al usuario
   estado: no_verificable_desde_fuentes_publicas
-  fecha_limite: ''
+  fecha_limite: '2026-09-10'
   evidencia: []

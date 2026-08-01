@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: '483034.92'
 estado: indeterminado
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: inferido_contratacion
@@ -25,5 +25,8 @@ evidencia:
 - url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1175614-2026-02-25T10:09:02.769574-05:00
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1175614).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1193119-2026-03-11T10:12:36.432714-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1193119).'
 fecha_alta_registro: '2026-07-26'
-notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionado con FMV-2 y FMV-3: mismo proceso CP-ABR-5-2025-FMV, misma finalidad y mismo presupuesto (S/ 483,034.92) capturados 3 veces por el extractor automatico. Ver Plan Anual de Gestion TIC 2025 de Fondo Mivivienda.'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionado con FMV-2 y FMV-3: mismo proceso CP-ABR-5-2025-FMV, misma finalidad y mismo presupuesto (S/ 483,034.92) capturados 3 veces por el extractor automatico. Ver Plan Anual de Gestion TIC 2025 de Fondo Mivivienda. Clasificación de riesgo: Plataforma de atención ciudadana.'

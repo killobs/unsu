@@ -1,0 +1,26 @@
+id: superintendencia-de-banca-seguros-y-afp--as-sm-25-2019-sbs-2--chatbot
+entidad_id: superintendencia-de-banca-seguros-y-afp
+nombre: AS-SM-25-2019-SBS-2
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Contratacion del servicio de diagnostico y formulacion de mejoras para el asistente virtual de atencion al ciudadano - chatbot
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: MAGIA 360 S.A.C.
+vinculo_contractual: ''
+presupuesto: '69725.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: limitado
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-552349-2025-06-30T17:30:37.571766-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "chatbot" en contrataciones OECE 2019 (ocid: ocds-dgv273-seacev3-552349).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2019-1922-158-2025-06-30T17:46:46.312871-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "chatbot" en contrataciones OECE 2019 (ocid: ocds-dgv273-seacev3-2019-1922-158).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionada con 1 ficha(s) duplicada(s) del mismo sistema; se conserva su evidencia. Clasificación de riesgo: Chatbot de atención al ciudadano.'

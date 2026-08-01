@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: '740911.56'
 estado: indeterminado
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: inferido_contratacion
@@ -29,4 +29,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-1221986).'
 fecha_alta_registro: '2026-07-26'
-notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionado con reniec-2, reniec-3 y reniec-4: mismo proceso PAS N.° 03-2025/RENIEC/LEY N.° 32416 (chatbot AIVO en PaaS), capturado 4 veces. reniec-4 traia un presupuesto distinto (S/ 1,080,064.00 vs S/ 740,911.56 en los otros tres) -- posible actualizacion del valor referencial entre releases; se conserva la cifra original y se anota la discrepancia. RENIEC ya opera un asistente distinto llamado "Renata"; no esta confirmado si AIVO la reemplaza o es un canal adicional.'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionado con reniec-2, reniec-3 y reniec-4: mismo proceso PAS N.° 03-2025/RENIEC/LEY N.° 32416 (chatbot AIVO en PaaS), capturado 4 veces. reniec-4 traia un presupuesto distinto (S/ 1,080,064.00 vs S/ 740,911.56 en los otros tres) -- posible actualizacion del valor referencial entre releases; se conserva la cifra original y se anota la discrepancia. RENIEC ya opera un asistente distinto llamado "Renata"; no esta confirmado si AIVO la reemplaza o es un canal adicional. Clasificación de riesgo: Chatbot de atención; no realiza la verificación de identidad.'

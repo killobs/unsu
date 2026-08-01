@@ -1,0 +1,23 @@
+id: superintendencia-nacional-de-migraciones--lp-sm-1-2021-migraciones-1--reconocimiento-facial
+entidad_id: superintendencia-nacional-de-migraciones
+nombre: LP-SM-1-2021-MIGRACIONES-1
+sector: Migraciones
+nivel_gobierno: nacional
+finalidad: ADQUISICIÓN DE SOLUCIÓN DE RECONOCIMIENTO FACIAL, IOARR AIJCH
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ZONDA ADVANCED SOCIEDAD ANONIMA CERRADA
+vinculo_contractual: ''
+presupuesto: '1477844.93'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: alto
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-200560-27-2025-06-26T17:26:55.041921-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "reconocimiento facial" en contrataciones OECE 2021 (ocid: ocds-dgv273-seacev3-2021-200560-27).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Reconocimiento facial en control migratorio de aeropuerto.'

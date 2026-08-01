@@ -1,0 +1,23 @@
+id: superintendencia-de-banca-seguros-y-afp--as-sm-4-2019-sbs-1--chatbot
+entidad_id: superintendencia-de-banca-seguros-y-afp
+nombre: AS-SM-4-2019-SBS-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Contratación del servicio de analisis, implementacion de mejoras y desarrollo de línea grafica para el asistente virtual de atencion al ciudadano - chatbot
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '65136.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: limitado
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2019-1922-51-2025-06-30T17:32:54.637680-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "chatbot" en contrataciones OECE 2019 (ocid: ocds-dgv273-seacev3-2019-1922-51).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Chatbot de atención al ciudadano.'

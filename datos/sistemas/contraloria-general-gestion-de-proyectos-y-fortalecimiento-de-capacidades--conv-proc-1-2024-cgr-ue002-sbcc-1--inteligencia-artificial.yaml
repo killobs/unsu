@@ -1,0 +1,23 @@
+id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-1-2024-cgr-ue002-sbcc-1--inteligencia-artificial
+entidad_id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades
+nombre: CONV-PROC-1-2024-CGR-UE002-SBCC-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Contratación de una firma para el servicio del diseño, desarrollo e implementación del proyecto interno 3.3.2 sistema que potencie el analisis de datos e informacion con inteligencia artificial y negocios
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '2191968.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: minimo
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-185233-22-2025-06-23T17:44:04.313997-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2024 (ocid: ocds-dgv273-seacev3-2024-185233-22).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Analítica interna de apoyo, sin interacción con el público.'

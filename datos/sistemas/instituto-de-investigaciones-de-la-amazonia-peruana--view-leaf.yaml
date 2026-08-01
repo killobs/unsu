@@ -9,9 +9,9 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: ''
-estado: indeterminado
+estado: en_operacion
 tecnologias: Python, Mobilenet, Kotlin, Android Studio
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -23,4 +23,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Dataset de clasificacion de hojas de especies amazonicas del IIAP -- posible base cientifica, no confirma la app terminada.
 fecha_alta_registro: '2026-07-26'
-notas: 'Sin evidencia adicional encontrada: la aplicacion no aparece indexada en tiendas de apps ni en el sitio del IIAP. Existe un dataset publico del IIAP de clasificacion de hojas (CNN/VGG-19) tematicamente relacionado, pero no menciona la app ''View Leaf'' por nombre. Es el registro con la verificacion mas debil del conjunto.'
+notas: 'Sin evidencia adicional encontrada: la aplicacion no aparece indexada en tiendas de apps ni en el sitio del IIAP. Existe un dataset publico del IIAP de clasificacion de hojas (CNN/VGG-19) tematicamente relacionado, pero no menciona la app ''View Leaf'' por nombre. Es el registro con la verificacion mas debil del conjunto. Clasificación de riesgo: App de consulta para usuarios; no decide. Estado: listado como aplicación existente en el Catálogo de Aplicaciones con IA en el Estado Peruano (PCM/SGTD).'

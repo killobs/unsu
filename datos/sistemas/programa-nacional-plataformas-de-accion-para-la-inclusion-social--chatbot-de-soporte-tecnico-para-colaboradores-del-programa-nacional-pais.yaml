@@ -9,9 +9,9 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: ''
-estado: indeterminado
+estado: en_operacion
 tecnologias: IA, Python, FastAPI, Keras, TensorFlow, SQL Server
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: minimo
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
 fecha_alta_registro: '2026-07-26'
-notas: Sin evidencia adicional encontrada. Existe un chatbot distinto del MIDIS ('MarIA', para el programa Juntos, no PAIS) que confirma que el sector si despliega chatbots, pero no es el mismo sistema.
+notas: 'Sin evidencia adicional encontrada. Existe un chatbot distinto del MIDIS (''MarIA'', para el programa Juntos, no PAIS) que confirma que el sector si despliega chatbots, pero no es el mismo sistema. Clasificación de riesgo: Asistencia técnica a personal interno. Estado: listado como aplicación existente en el Catálogo de Aplicaciones con IA en el Estado Peruano (PCM/SGTD).'

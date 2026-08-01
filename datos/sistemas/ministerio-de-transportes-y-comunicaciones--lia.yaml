@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: ''
 estado: en_operacion
 tecnologias: Gemini NLP, chatbots, modelos fundacionales y RAG, Google Vertex AI
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -23,4 +23,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Lanzamiento oficial del MTC.
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: 'Clasificación de riesgo: Asistente virtual de atención ciudadana.'

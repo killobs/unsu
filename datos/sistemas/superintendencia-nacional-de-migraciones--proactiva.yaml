@@ -9,9 +9,9 @@ supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
 presupuesto: ''
-estado: indeterminado
+estado: en_operacion
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: minimo
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
 fecha_alta_registro: '2026-07-26'
-notas: Sin ningun rastro publico encontrado con ese nombre, pese a estar catalogado como 'confirmado por fuente oficial'. Se recomienda revisar directamente la fuente original que genero esa clasificacion antes de seguir citandolo con ese nivel de confianza.
+notas: 'Sin ningun rastro publico encontrado con ese nombre, pese a estar catalogado como ''confirmado por fuente oficial''. Se recomienda revisar directamente la fuente original que genero esa clasificacion antes de seguir citandolo con ese nivel de confianza. Clasificación de riesgo: Administración interna de tickets. Estado: listado como aplicación existente en el Catálogo de Aplicaciones con IA en el Estado Peruano (PCM/SGTD).'

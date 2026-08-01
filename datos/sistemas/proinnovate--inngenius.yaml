@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: ''
 estado: en_operacion
 tecnologias: PHP, Gemini, n8n, Qdrant
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: alto
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -19,11 +19,8 @@ evidencia:
 - url: https://cdn.www.gob.pe/uploads/document/file/8238351/6879780-catalogo-de-aplicaciones-con-ia.pdf
   fecha_captura: '2026-07-26'
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
-- url: https://innovateperu.gob.pe/noticias/noticias/item/1133-inngenius-nueva-plataforma-tecnologica-de-innovate-peru
-  fecha_captura: '2026-07-26'
-  descripcion: Nota oficial de lanzamiento de InnGenius.
 - url: https://inngenius.proinnovate.gob.pe/
   fecha_captura: '2026-07-26'
   descripcion: Plataforma en produccion.
 fecha_alta_registro: '2026-07-26'
-notas: ''
+notas: 'Clasificación de riesgo: gestiona la evaluación de proyectos que reciben financiamiento público y el catálogo PCM declara gemini y qdrant en su pila: la IA participa en una decisión con consecuencias económicas. Se retiró de la evidencia la nota de lanzamiento en innovateperu.gob.pe: el dominio dejó de resolver tras el paso de Innóvate Perú a PROINNOVATE y no existe copia archivada. La ficha se sostiene en el catálogo PCM y en la plataforma en producción, ambos verificados.'

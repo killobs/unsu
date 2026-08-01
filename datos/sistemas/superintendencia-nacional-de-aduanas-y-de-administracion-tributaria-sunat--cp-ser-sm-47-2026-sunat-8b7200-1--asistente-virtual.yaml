@@ -8,10 +8,10 @@ tipo_decision: ''
 supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
-presupuesto: '0.0'
+presupuesto: ''
 estado: en_operacion
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: confirmado_fuente_oficial
@@ -23,4 +23,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: Asistente Sofia (IBM Watson/IBM Cloud) operativo desde hace anios. Este proceso (2026) es la renovacion anual del contrato de nube -- confirmado como proceso DISTINTO del de 2025 (codigo de oficina 8B7200 se reutiliza anio a anio para contrataciones tecnologicas separadas), no un duplicado.
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Clasificación de riesgo: Asistente virtual SOFIA de atención al contribuyente. La fuente declara presupuesto 0, que se registra como no publicado.'

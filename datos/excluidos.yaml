@@ -1,0 +1,834 @@
+# Candidatos descartados tras revisión manual: la contratación menciona
+# inteligencia artificial pero NO es un sistema de IA (equipos, obras,
+# eventos, capacitaciones). Se listan aquí para que los extractores no
+# vuelvan a darlos de alta en cada corrida.
+#
+# Criterio: docs/metodologia.md §4 clasifica SISTEMAS. Un biorreactor o un
+# congreso no lo son, así que no les corresponde nivel de riesgo alguno.
+#
+# NO se excluye por las palabras "consultoría", "adquisición", "suscripción"
+# ni "servidor": muchas veces esa contratación ES el sistema (la suscripción
+# a IBM Cloud es el asistente SOFIA de SUNAT).
+- id: comision-nacional-de-investigacion-y-desarrollo-aeroespacial--inter-proc-2-2020-conida-1--machine-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-620140-2025-06-29T17:26:42.962808-05:00
+  motivo: Curso de formación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: instituto-geologico-minero-y-metalurgico--inter-proc-7-2021-ingemmet-oa-ul-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-1962-109-2025-06-26T17:45:21.173669-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: jurado-nacional-de-elecciones--res-proc-120-2026-jne-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1217647-2026-06-12T10:32:04.034449-05:00
+  motivo: Compra de equipamiento, no un sistema de IA
+  revisado: '2026-07-27'
+- id: jurado-nacional-de-elecciones--res-proc-59-2026-jne-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1216770-2026-06-04T10:35:35.899786-05:00
+  motivo: Obra de acondicionamiento, no un sistema de IA
+  revisado: '2026-07-27'
+- id: jurado-nacional-de-elecciones--res-proc-68-2025-jne-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1179231-2025-12-21T10:00:46.364480-05:00
+  motivo: Evento académico, no un sistema de IA
+  revisado: '2026-07-27'
+- id: jurado-nacional-de-elecciones--res-proc-78-2025-jne-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1178943-2025-12-21T10:00:10.546279-05:00
+  motivo: Obra de acondicionamiento, no un sistema de IA
+  revisado: '2026-07-27'
+- id: jurado-nacional-de-elecciones--res-proc-80-2025-jne-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1178840-2025-12-21T10:00:58.041674-05:00
+  motivo: Compra de equipamiento, no un sistema de IA
+  revisado: '2026-07-27'
+- id: jurado-nacional-de-elecciones--res-proc-86-2025-jne-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1183441-2026-01-02T10:08:47.243916-05:00
+  motivo: Compra de equipamiento, no un sistema de IA
+  revisado: '2026-07-27'
+- id: organismo-supervisor-de-la-inversion-en-infraestructura-de-transporte-de-uso-publico--inter-proc-3-2026-ositran-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1219729-2026-06-04T10:35:06.552308-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: peru-seguro-2025--conv-proc-16-2020-in-ps2025-cp-1--machine-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-217159-57-2025-06-29T17:29:21.762688-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: peru-seguro-2025--conv-proc-18-2020-in-ps2025-cp-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-217159-58-2025-06-29T17:26:20.221107-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: peru-seguro-2025--conv-proc-22-2020-in-ps2025-cp-1--aprendizaje-automatico
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-217159-53-2025-06-29T17:31:46.415534-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: peru-seguro-2025--conv-proc-24-2020-in-ps2025-cp-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-217159-62-2025-06-29T17:28:35.798617-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: registro-nacional-de-identificacion-y-estado-civil--directa-proc-27-2020-reniec-1--reconocimiento-facial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-682671-2025-06-29T17:45:48.361906-05:00
+  motivo: Evento académico, no un sistema de IA
+  revisado: '2026-07-27'
+- id: superintendencia-de-banca-seguros-y-afp--conv-proc-15-2022-sbs-1--machine-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-1922-180-2025-06-25T17:28:05.621211-05:00
+  motivo: Curso de formación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: superintendencia-de-banca-seguros-y-afp--inter-proc-29-2019-sbs-1--machine-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2019-1922-175-2025-06-30T17:29:06.575777-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-10-2024-cp-sunat-bid-3-1--machine-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-166287-27-2025-06-23T17:54:05.402885-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-11-2024-cp-sunat-bid-3-1--deep-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-166287-28-2025-06-23T17:55:18.593017-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-12-2024-cci-sunat-bid-3-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-166287-43-2025-06-23T17:56:35.908156-05:00
+  motivo: Evento académico, no un sistema de IA
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-13-2024-cci-sunat-bid-3-1--procesamiento-de-lenguaje-natural
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-166287-44-2025-06-23T17:54:49.171886-05:00
+  motivo: Evento académico, no un sistema de IA
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-22-2024-cp-sunat-bid-3-1--machine-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-166287-50-2025-02-19T10:08:02.286436-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-23-2024-cp-sunat-bid-3-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-166287-53-2025-06-06T10:12:59.975928-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-24-2024-cp-sunat-bid-3-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-166287-54-2025-02-24T09:53:41.609405-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-7-2024-cp-sunat-bid-3-1--machine-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-166287-24-2025-06-23T17:47:50.737719-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-autonoma-altoandina-de-tarma--as-sm-12-2024-unaat-2--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-26270-18-2025-06-23T17:56:12.063386-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-de-huancavelica--directa-directa-1-2026-unh-oc-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1205593-2026-04-30T10:19:38.924023-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-del-centro-del-peru--lp-abr-10-2026-uncp-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1233782-2026-07-26T10:08:08.435249-05:00
+  motivo: Compra de equipamiento, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-del-santa--conv-proc-7-2025-prociencia-bm-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1164884-2025-10-31T10:16:06.181996-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-hermilio-valdizan--as-sm-9-2024-unheval-oec-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-1903-47-2026-04-11T10:15:03.004054-05:00
+  motivo: Servicio de capacitación, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-mayor-de-san-marcos--directa-directa-7-2025-unmsm-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1165948-2025-12-06T10:09:40.751183-05:00
+  motivo: Equipo de laboratorio, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-toribio-rodriguez-de-mendoza-de-amazonas--conv-proc-15-2025-untrm-procienci-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1120944-2025-06-25T10:11:55.233606-05:00
+  motivo: Equipo de laboratorio, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-toribio-rodriguez-de-mendoza-de-amazonas--conv-proc-16-2025-untrm-procienci-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1122088-2025-06-05T10:14:52.350875-05:00
+  motivo: Equipo de laboratorio, no un sistema de IA
+  revisado: '2026-07-27'
+- id: jurado-nacional-de-elecciones--res-proc-31-2025-jne-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1178391-2026-03-01T09:59:05.749477-05:00
+  motivo: Compra de hardware (servidor), no un sistema de IA
+  revisado: '2026-07-27'
+- id: banco-de-la-nacion--as-sm-16-2022-bn-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-2525-111-2025-06-25T17:12:06.332042-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: banco-de-la-nacion--as-sm-17-2022-bn-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-2525-112-2025-06-25T17:08:09.687635-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: banco-de-la-nacion--cp-sm-1-2024-bn-1--automatizacion-robotica-de-procesos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-2525-24-2024-06-25T12:11:39.187091-05:00
+  motivo: Detectado por "automatización robótica de procesos" pero el texto no evidencia
+    IA por si mismo
+  revisado: '2026-07-27'
+- id: banco-de-la-nacion--cp-sm-13-2021-bn-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-2525-91-2025-06-26T17:35:33.655939-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: banco-de-la-nacion--cp-sm-18-2021-bn-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-2525-92-2025-06-26T17:45:08.129559-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: banco-de-la-nacion--cp-sm-31-2021-bn-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-2525-178-2025-06-26T17:48:58.117602-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-1-2021-cg-ue2-bid-sbcc-1--mineria-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-185233-142-2025-06-26T17:49:27.144626-05:00
+  motivo: Detectado por "minería de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-2-2024-cg-ue02-bid-sci-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-185233-18-2025-06-23T17:43:24.574263-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-48-2025-cg-ue02-bid-sci-1--mineria-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1181628-2026-01-01T10:23:55.058150-05:00
+  motivo: Detectado por "minería de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-7-2024-cgr-ue002-sbcc-1--mineria-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-185233-52-2025-06-23T17:48:06.742308-05:00
+  motivo: Detectado por "minería de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-administracion-de-infraestructura-electrica-s-a--as-sm-39-2023-adinelsa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2023-2528-30-2025-06-24T16:56:51.217747-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-electricidad-del-peru-s-a-electroperu--as-sm-27-2024-electroperu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-2391-16-2025-06-23T17:52:27.869362-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-electricidad-del-peru-s-a-electroperu--lp-abr-1-2026-electroperu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2026-2391-112-2026-06-04T10:35:21.802740-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-generacion-electrica-del-sur-s-a--as-sm-11-2021-egesur-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-2395-55-2025-06-26T17:41:22.773739-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-generacion-electrica-del-sur-s-a--as-sm-15-2020-egesur-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-2395-61-2025-06-29T17:48:33.640875-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-generacion-electrica-del-sur-s-a--as-sm-16-2022-egesur-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-2395-5-2025-06-25T17:18:15.898035-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-generacion-electrica-del-sur-s-a--as-sm-19-2019-egesur-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2019-2395-36-2025-06-30T17:33:25.189193-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-generacion-electrica-del-sur-s-a--as-sm-25-2021-egesur-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-2395-45-2025-06-26T17:47:16.060954-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-generacion-electrica-machupicchu--as-sm-14-2024-egemsa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-2396-52-2025-06-23T17:49:57.153676-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-generacion-electrica-machupicchu--as-sm-14-2024-egemsa-2--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1051448-2025-06-23T17:52:03.981680-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-generacion-electrica-san-gaban-s-a--cp-abr-13-2026-san-gaban-s-a-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2026-2397-26-2026-07-10T10:41:22.145060-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-26-2022-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-200190-206-2025-06-25T16:52:47.610604-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-28-2021-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-200190-375-2025-06-26T17:37:25.185529-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-28-2021-electronoroeste-sa-enosa-2--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-763031-2025-06-26T17:44:41.969064-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-3-2022-electronoroeste-sa-enosa-3--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-200190-18-2025-06-25T17:11:33.547935-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-40-2021-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-200190-383-2025-06-26T17:42:19.291917-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--as-sm-64-2022-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-200190-262-2025-06-25T17:11:13.524381-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-ser-sm-12-2025-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-200190-53-2026-04-03T10:07:01.934915-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-ser-sm-22-2025-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-200190-75-2026-03-07T10:05:15.366723-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-ser-sm-23-2025-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1176590-2026-07-24T10:23:55.699626-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-ser-sm-24-2025-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-200190-50-2026-05-13T10:35:17.055509-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-ser-sm-7-2026-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1203528-2026-07-10T10:41:19.206844-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-sm-13-2022-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-835547-2026-01-17T09:58:53.642466-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-sm-3-2021-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-200190-372-2025-06-26T17:43:54.856750-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-sm-3-2022-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-200190-85-2025-07-16T10:10:44.703587-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--cp-sm-4-2022-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-200190-89-2026-02-12T10:06:02.072888-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-del-nor-oeste-del-peru-s-a-electro-nor-oeste-sa--res-proc-34-2021-electronoroeste-sa-enosa-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-200190-40-2025-06-26T17:21:29.854116-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-electronorte-s-a--as-sm-16-2021-electronorte-s-a-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-755366-2025-06-26T17:42:25.401949-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-electronorte-s-a--as-sm-41-2023-electronorte-s-a-1--gemelo-digital
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2023-200195-206-2025-06-24T16:53:22.257019-05:00
+  motivo: Detectado por "gemelo digital" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-electronorte-s-a--cp-sm-7-2022-electronorte-s-a-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-200195-215-2025-06-25T17:01:57.034377-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicios-publicos-de-electricidad-puno-s-a-a--as-sm-37-2020-elpu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-2541-50-2025-06-29T17:37:38.124085-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicios-publicos-de-electricidad-puno-s-a-a--as-sm-37-2020-elpu-2--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-636579-2025-06-29T17:44:38.082363-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-de-servicios-publicos-de-electricidad-puno-s-a-a--cp-sm-4-2019-elpu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2019-2541-12-2025-06-30T17:20:12.540109-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-del-centro-sa-electrocentro-s-a--as-sm-9-2022-elcto-s-a-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-200192-192-2025-06-25T16:48:47.094974-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-del-centro-sa-electrocentro-s-a--lp-sm-2-2020-elcto-s-a-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-200192-25-2025-06-29T17:47:58.076516-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--as-sm-105-2019-hdna-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2019-200191-36-2025-06-30T17:44:11.418106-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--as-sm-44-2018-hdna-1-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-506121-2025-07-01T17:24:04.224593-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--as-sm-44-2018-hdna-1-2--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-521253-2025-06-30T17:23:44.960085-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--as-sm-80-2021-hdna-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-767270-2025-06-26T17:48:44.879331-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-abr-3-2026-hdna-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1193810-2026-07-15T10:29:54.138921-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-ser-sm-1-2025-hdna-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-200191-85-2026-03-22T10:01:12.262888-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-ser-sm-3-2025-hdna-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-200191-89-2026-03-07T10:04:53.540344-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-sm-18-2022-hdna-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-200191-139-2026-07-15T10:30:37.620678-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-sm-27-2021-hdna-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-200191-207-2025-06-26T17:40:10.941557-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-sm-6-2020-hdna-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-200191-36-2025-06-29T17:19:14.716278-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-sm-6-2022-hdna-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-200191-13-2026-07-16T10:25:32.302143-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicio-publico-de-electricidad-electro-nor-medio-sa-hidrandina--cp-sm-8-2024-hdna-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-200191-183-2026-05-17T10:12:59.462817-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicios-publicos-de-electricidad-del-oriente--as-sm-7-2020-eo-l-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-621606-2025-06-29T17:28:45.590259-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: empresa-regional-de-servicios-publicos-de-electricidad-del-oriente--cp-sm-4-2019-eo-sm-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2019-2406-284-2025-06-30T17:36:02.091977-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: entidad-prestadora-de-servicio-de-saneamiento-de-cusco-s-a--as-sm-14-2021-eps-sedacusco-s-a-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-2364-24-2025-06-26T17:43:08.313672-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: fondo-mivivienda-s-a--cp-abr-7-2026-fmv-1--automatizacion-robotica-de-procesos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1211476-2026-06-13T10:20:21.575373-05:00
+  motivo: Detectado por "automatización robótica de procesos" pero el texto no evidencia
+    IA por si mismo
+  revisado: '2026-07-27'
+- id: gobierno-regional-de-ayacucho-hospital-huamanga--compre-sm-10-2021-hra-oec-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-754875-2025-06-26T17:44:19.891200-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: gobierno-regional-de-la-libertad-proyecto-especial-chavimochic--as-sm-28-2022-pech-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-10356-40-2025-06-25T17:11:16.861176-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: gobierno-regional-de-la-libertad-proyecto-especial-chavimochic--as-sm-28-2022-pech-2--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-847663-2025-06-25T17:16:22.162943-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: instituto-peruano-del-deporte--directa-directa-28-2025-ipd-ul-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1169271-2025-12-07T10:03:06.460188-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: mejoramiento-de-servicios-a-ciudadanos-y-empresas--inter-proc-16-2020-pcm-promsace-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-196242-103-2025-06-29T17:46:42.550242-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: organismo-supervisor-de-la-inversion-en-infraestructura-de-transporte-de-uso-publico--as-sm-6-2024-ositran-1--automatizacion-robotica-de-procesos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-2557-19-2025-06-23T17:52:21.874362-05:00
+  motivo: Detectado por "automatización robótica de procesos" pero el texto no evidencia
+    IA por si mismo
+  revisado: '2026-07-27'
+- id: petroleos-del-peru-s-a--sel-proc-26-2024-ops-petroperu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1030250-2025-06-23T17:45:51.986723-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: petroleos-del-peru-s-a--sel-proc-27-2024-ops-petroperu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1030606-2025-07-27T09:59:05.054353-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: petroleos-del-peru-s-a--sel-proc-33-2023-ops-petroperu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-941719-2025-08-16T10:06:28.724927-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: petroleos-del-peru-s-a--sel-proc-34-2023-ops-petroperu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-942694-2025-08-16T10:07:24.081982-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: petroleos-del-peru-s-a--sel-proc-44-2024-ops-petroperu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1061624-2025-06-23T17:56:12.351806-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: petroleos-del-peru-s-a--sel-proc-58-2023-ops-petroperu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-979790-2026-03-08T09:59:28.163056-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: petroleos-del-peru-s-a--sel-proc-6-2022-ops-petroperu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-799017-2025-06-25T16:58:23.638782-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: petroleos-del-peru-s-a--sel-proc-6-2022-ops-petroperu-2--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-829516-2025-06-25T17:07:10.148117-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: petroleos-del-peru-s-a--sel-proc-8-2023-ops-petroperu-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-897426-2025-06-24T16:27:29.964111-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: seguro-social-de-salud--cp-ser-sm-1-2026-essalud-raay-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1202765-2026-06-25T10:27:52.635574-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: seguro-social-de-salud--cp-ser-sm-3-2025-essalud-raay-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-2543-291-2026-03-28T10:10:34.401308-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: servicio-de-agua-potable-y-alcantarillado-de-lima-sedapal--as-sm-2-2025-sedapal-2--gemelo-digital
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2025-2383-169-2025-05-24T10:10:39.919536-05:00
+  motivo: Detectado por "gemelo digital" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: servicio-de-agua-potable-y-alcantarillado-de-lima-sedapal--as-sm-49-2020-sedapal-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-2383-336-2025-06-29T17:36:43.285354-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: sistema-nacional-de-evaluacion-acreditacion-y-certificacion-de-la-calidad-educativa--inter-proc-5-2018-sineace-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-486739-2025-07-01T17:41:35.373719-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: sociedad-electrica-del-sur-oeste-s-a--as-sm-75-2024-seal-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1080081-2025-05-14T09:52:50.415629-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: sociedad-electrica-del-sur-oeste-s-a--cp-sm-12-2024-seal-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-2409-33-2025-06-23T17:49:24.645344-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: sociedad-electrica-del-sur-oeste-s-a--cp-sm-4-2022-seal-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-2409-147-2025-06-25T16:55:45.476641-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--directa-proc-1-2020-sunat-8b1200-1--mineria-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-596564-2025-06-29T17:39:16.426461-05:00
+  motivo: Detectado por "minería de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--directa-proc-1-2023-sunat-8b7200-1--mineria-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-879971-2026-06-11T10:25:13.744721-05:00
+  motivo: Detectado por "minería de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: superintendencia-nacional-de-aduanas-y-de-administracion-tributaria-sunat--directa-proc-2-2021-sunat-8b7200-1--mineria-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-691218-2025-06-26T17:23:13.042518-05:00
+  motivo: Detectado por "minería de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-002-inictel-uni--conv-proc-1-2022-inictel-uni-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-812362-2025-06-25T17:05:54.161753-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-002-inictel-uni--conv-proc-13-2021-inictel-uni-1--mantenimiento-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-765836-2025-06-26T17:42:40.591096-05:00
+  motivo: Detectado por "mantenimiento predictivo" pero el texto no evidencia IA por
+    si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-1-2020-cci-sunat-bid-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2020-166287-6-2025-06-29T17:26:34.295359-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-12-2019-sd-sunat-bid-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2019-166287-21-2025-06-30T17:36:26.549941-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-14-2021-cci-sunat-bid-3-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-166287-45-2025-06-26T17:49:41.192420-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-19-2022-cci-sunat-bid-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-166287-67-2025-06-25T17:22:26.071318-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-19-2022-cci-sunat-bid-3-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-166287-35-2025-06-25T17:15:10.466361-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-19-2023-cci-sunat-bid-3-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2023-166287-45-2025-06-24T16:26:34.078331-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-5-2019-sd-sunat-bid-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2019-166287-6-2025-06-30T17:40:42.457556-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-6-2022-cci-sunat-bid-3-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-166287-14-2025-06-25T17:06:07.616369-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-7-2022-cci-sunat-bid-3-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-166287-15-2025-06-25T17:05:23.975018-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-8-2022-cci-sunat-bid-3-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-166287-16-2025-06-25T17:13:20.424208-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-8-2022-cci-sunat-bid-3-2--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-834375-2025-06-25T17:12:17.868342-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-mejoramiento-del-sistema-de-informacion-de-la-sunat-msi--conv-proc-9-2021-cci-sunat-bid-3-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-166287-36-2025-06-26T17:48:23.476435-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: universidad-nacional-jorge-basadre-grohmann-tacna--as-sm-40-2022-oec-unjbg-1--ciencia-de-datos
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-1904-118-2025-06-25T17:20:56.863490-05:00
+  motivo: Detectado por "ciencia de datos" pero el texto no evidencia IA por si mismo
+  revisado: '2026-07-27'
+- id: instituto-geofisico-del-peru--inter-proc-7-2021-igp-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-763285-2025-06-26T17:46:34.780332-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: instituto-nacional-de-innovacion-agraria-inia--lp-sm-1-2024-inia-1--biometria
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1018035-2026-06-11T10:26:05.501733-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: ministerio-publico--as-sm-20-2023-mp-fn-1--biometria
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2023-26-162-2025-06-24T16:23:18.141377-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-002-inictel-uni--as-sm-15-2024-inictel-uni-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-200207-38-2025-06-23T17:54:18.560755-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: unidad-ejecutora-002-inictel-uni--as-sm-17-2024-inictel-uni-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-200207-40-2025-06-23T17:54:37.416543-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-de-cajamarca--as-sm-8-2024-unc-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-1889-37-2025-06-23T17:47:38.790726-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-de-cajamarca--directa-proc-5-2024-unc-1--modelo-predictivo
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1053695-2025-06-23T17:47:47.712018-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-de-frontera-sullana--as-sm-11-2023-unf-cs-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2023-200407-19-2025-06-24T16:48:38.444734-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-de-frontera-sullana--directa-proc-1-2024-unf-oec-1--deep-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1012647-2024-05-13T08:46:22.952180-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-de-moquegua--as-sm-18-2023-oec-unam-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2023-200244-76-2025-06-24T16:26:08.439662-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-de-moquegua--as-sm-29-2019-oec-unam-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2019-200244-72-2025-06-30T17:20:37.276270-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-de-trujillo--conv-proc-1-2024-unt-cs-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-1894-25-2025-06-23T17:43:21.699633-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-del-altiplano--as-sm-18-2020-unda-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-649070-2025-06-29T17:44:19.919580-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-del-centro-del-peru--lp-sm-3-2022-coselpb-uncp-1--vision-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-1899-16-2025-06-25T16:58:17.779981-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-del-santa--as-sm-16-2018-uns-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2018-1900-44-2025-07-01T17:21:56.134770-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-del-santa--as-sm-16-2018-uns-2--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-476141-2025-07-01T17:35:59.948196-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-san-agustin--directa-proc-19-2021-unsa-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-751741-2025-06-26T17:48:19.191361-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: universidad-nacional-san-martin--as-sm-43-2024-unsm-cs-1--vision-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-1912-57-2025-06-23T17:56:07.231383-05:00
+  motivo: Compra de equipamiento o infraestructura para investigacion, no un sistema
+    de IA en uso
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-electronorte-s-a--as-sm-17-2023-electronorte-s-a-1--chatbot
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2023-200195-1-2025-06-24T16:46:30.455907-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: empresa-de-servicio-publico-de-electricidad-electronorte-s-a--as-sm-17-2023-electronorte-s-a-2--chatbot
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-945677-2025-06-24T16:56:21.128157-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-31-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-112-2025-06-25T17:19:54.378510-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-32-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-116-2025-06-25T17:14:36.242582-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-33-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-100-2025-06-25T17:14:36.897193-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-34-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-101-2025-06-25T17:19:43.379185-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-35-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-102-2025-06-25T17:20:08.589997-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-36-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-103-2025-06-25T17:14:14.749951-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-37-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-104-2025-06-25T17:20:18.485408-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-38-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-105-2025-06-25T17:17:40.171568-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-39-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-106-2025-06-25T17:13:59.229395-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-40-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-107-2025-06-25T17:17:32.618246-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-41-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-108-2025-06-25T17:14:11.488829-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-42-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-109-2025-06-25T17:17:58.012399-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-43-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-110-2025-06-25T17:14:40.802565-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-44-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-111-2025-06-25T17:17:41.656402-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-45-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-113-2025-06-25T17:15:25.499013-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-46-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-114-2025-06-25T17:17:17.378813-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-47-2022-mtpe-fp-cd-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-156479-115-2025-06-25T17:16:43.375951-05:00
+  motivo: Publicidad o difusion sobre un sistema, no el sistema en si
+  revisado: '2026-07-27'
+- id: instituto-nacional-de-innovacion-agraria-inia--as-sm-62-2024-inia-1--biometria
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-1972-104-2026-05-28T10:20:08.520910-05:00
+  motivo: Supervision de obra civil, no un sistema de IA
+  revisado: '2026-07-27'
+- id: ministerio-de-economia-y-finanzas--as-sm-19-2021-ef-43-2--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-13-70-2025-06-26T17:49:49.760256-05:00
+  motivo: Formacion de personal, no un sistema de IA
+  revisado: '2026-07-27'
+- id: ministerio-de-economia-y-finanzas--as-sm-32-2022-ef-43-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-13-90-2025-06-25T17:28:28.123115-05:00
+  motivo: Servicio de reporteria administrativa, no un sistema de IA
+  revisado: '2026-07-27'
+- id: ministerio-publico-carpeta-fiscal-electronica--conv-proc-59-2022-sci-bid-1--machine-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2022-232347-261-2025-06-25T16:56:42.029809-05:00
+  motivo: Contratacion de una persona, no un sistema de IA
+  revisado: '2026-07-27'
+- id: poder-judicial-unidad-de-coordinacion-del-proyecto-mejoramiento-de-los-servicios-de-justicia--conv-proc-2-2024-pmsjnopenal-ci-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-200168-27-2026-05-08T10:37:38.927999-05:00
+  motivo: Contratacion de una persona, no un sistema de IA
+  revisado: '2026-07-27'
+- id: programa-para-el-mejoramiento-y-ampliacion-de-los-servicios-del-centro-de-empleo-fortalece-peru--conv-proc-144-2021-mtpe-fp-cp-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-156479-163-2025-06-26T17:48:06.034440-05:00
+  motivo: Materiales de comunicacion sobre un sistema, no el sistema
+  revisado: '2026-07-27'
+- id: universidad-nacional-de-ingenieria--inter-proc-20-2024-uni-1--inteligencia-artificial
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-1080276-2024-12-26T09:52:52.092639-05:00
+  motivo: Servicio de ensenanza, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-federico-villarreal--inter-proc-10-2022-unfv-1--chatbot
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-873096-2025-06-25T17:26:54.257496-05:00
+  motivo: Publicacion academica, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-federico-villarreal--inter-proc-3-2022-unfv-1--chatbot
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-835816-2025-06-25T17:12:16.514384-05:00
+  motivo: Publicacion academica, no un sistema de IA
+  revisado: '2026-07-27'
+- id: universidad-nacional-federico-villarreal--inter-proc-7-2021-unfv-1--machine-learning
+  evidencia: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-740323-2025-06-26T17:41:05.996706-05:00
+  motivo: Publicacion academica, no un sistema de IA
+  revisado: '2026-07-27'

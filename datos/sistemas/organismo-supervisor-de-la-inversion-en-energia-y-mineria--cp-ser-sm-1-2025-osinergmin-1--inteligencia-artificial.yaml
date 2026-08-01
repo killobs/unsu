@@ -11,7 +11,7 @@ vinculo_contractual: ''
 presupuesto: '5913000.0'
 estado: indeterminado
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: minimo
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: inferido_contratacion
@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2025 (ocid: ocds-dgv273-seacev3-2025-1921-113).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional encontrada. El analisis de nombres/codigos SEACE sugiere que este proceso (plataforma e infraestructura de datos e IA, S/ 5.9M) es COMPLEMENTARIO al proceso SM-2 (implementacion de soluciones de IA generativa, S/ 6M) -- infraestructura base vs. soluciones aplicadas -- no el mismo proceso duplicado, aunque no se pudo confirmar de forma concluyente.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional encontrada. El analisis de nombres/codigos SEACE sugiere que este proceso (plataforma e infraestructura de datos e IA, S/ 5.9M) es COMPLEMENTARIO al proceso SM-2 (implementacion de soluciones de IA generativa, S/ 6M) -- infraestructura base vs. soluciones aplicadas -- no el mismo proceso duplicado, aunque no se pudo confirmar de forma concluyente. Clasificación de riesgo: Infraestructura y soporte interno.'

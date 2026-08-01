@@ -1,0 +1,26 @@
+id: universidad-nacional-santiago-antunez-de-mayolo--as-sm-10-2023-csunasam-2--chatbot
+entidad_id: universidad-nacional-santiago-antunez-de-mayolo
+nombre: AS-SM-10-2023-CSUNASAM-2
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Servicio para el Análisis, Desarrollo e Implementación de la Plataforma Digital, Software, Chatbot y Servicios Digitales, para el Cumplimiento del Proyecto de Investigación ¿Efectividad Usabilidad y Satisfacción del Servicio Digital de Autocuidado en Salud Mental para Docentes, Estudiantes y personal Administrativo de la Universidad Nacional Santiago Antúnez de Mayolo
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ELECTRODATA INGENIERIA & SISTEMAS S.A.C.
+vinculo_contractual: ''
+presupuesto: '98000.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: limitado
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-939261-2025-06-24T16:31:37.409429-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "chatbot" en contrataciones OECE 2023 (ocid: ocds-dgv273-seacev3-939261).'
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2023-1913-21-2025-06-24T16:23:43.633859-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "chatbot" en contrataciones OECE 2023 (ocid: ocds-dgv273-seacev3-2023-1913-21).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Fusionada con 1 ficha(s) duplicada(s) del mismo sistema; se conserva su evidencia. Clasificación de riesgo: Chatbot de atención en proyecto universitario.'

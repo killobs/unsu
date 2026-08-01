@@ -1,0 +1,23 @@
+id: ministerio-de-la-mujer-y-poblaciones-vulnerables-administracion-general--as-sm-11-2023-mimp-1--reconocimiento-facial
+entidad_id: ministerio-de-la-mujer-y-poblaciones-vulnerables-administracion-general
+nombre: AS-SM-11-2023-MIMP-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: ADQUISICIÓN DE VEINTICUATRO (24) EQUIPOS DE CONTROL DE ACCESO MEDIANTE RECONOCIMIENTO FACIAL PARA EL REGISTRO DE INFORMACIÓN DE ENTRADA Y SALIDA DE LOS TRABAJADORES DEL MIMP
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: ''
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: minimo
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2023-20-38-2025-09-13T10:06:54.878131-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "reconocimiento facial" en contrataciones OECE 2023 (ocid: ocds-dgv273-seacev3-2023-20-38).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Control de acceso interno. NOTA: procesa datos biométricos de trabajadores, supuesto que la metodología §4 aún no contempla. La fuente declara presupuesto 0, que se registra como no publicado.'

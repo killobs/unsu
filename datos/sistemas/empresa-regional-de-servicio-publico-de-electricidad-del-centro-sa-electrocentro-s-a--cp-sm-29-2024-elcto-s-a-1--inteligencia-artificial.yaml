@@ -1,0 +1,23 @@
+id: empresa-regional-de-servicio-publico-de-electricidad-del-centro-sa-electrocentro-s-a--cp-sm-29-2024-elcto-s-a-1--inteligencia-artificial
+entidad_id: empresa-regional-de-servicio-publico-de-electricidad-del-centro-sa-electrocentro-s-a
+nombre: CP-SM-29-2024-ELCTO S.A.-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: MONITOREO MEDIANTE INTELIGENCIA ARTIFICIAL EN TIEMPO REAL, DE VEGETACIÓN EN LAS LINEAS DE  SUB TRANSMISIÓN Y PREDICCIÓN DE FALLAS
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: GML TRANSMISSION LINE SOLUTIONS, S.A.
+vinculo_contractual: ''
+presupuesto: '1500926.37'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: minimo
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2024-200192-195-2025-06-23T17:50:17.860511-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2024 (ocid: ocds-dgv273-seacev3-2024-200192-195).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Monitoreo de infraestructura eléctrica, sin decisión sobre personas.'

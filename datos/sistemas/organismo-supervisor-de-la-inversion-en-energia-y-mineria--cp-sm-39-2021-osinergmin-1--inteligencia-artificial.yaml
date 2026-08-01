@@ -1,0 +1,23 @@
+id: organismo-supervisor-de-la-inversion-en-energia-y-mineria--cp-sm-39-2021-osinergmin-1--inteligencia-artificial
+entidad_id: organismo-supervisor-de-la-inversion-en-energia-y-mineria
+nombre: CP-SM-39-2021-OSINERGMIN-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: CONTRATACIÓN DEL SERVICIO DE DESARROLLO E IMPLEMENTACIÓN DE UN MODELO DE PREDICCIÓN DE INTERRUPCIONES ELÉCTRICAS UTILIZANDO INTELIGENCIA ARTIFICIAL
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: ''
+vinculo_contractual: ''
+presupuesto: '1024266.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: minimo
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-1921-148-2025-06-26T17:48:23.969476-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2021 (ocid: ocds-dgv273-seacev3-2021-1921-148).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Predicción operativa de red eléctrica, sin decisión sobre personas.'

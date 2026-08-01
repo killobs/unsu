@@ -1,0 +1,23 @@
+id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades--conv-proc-51-2021-cg-ue02-bid-sd-1--ciencia-de-datos
+entidad_id: contraloria-general-gestion-de-proyectos-y-fortalecimiento-de-capacidades
+nombre: CONV-PROC-51-2021-CG-UE02-BID SD-1
+sector: Por clasificar
+nivel_gobierno: nacional
+finalidad: Consultor para el servicio de desarrollo de algoritmos predictivos y aplicaciones de ciencia de datos
+tipo_decision: ''
+supervision_humana_declarada: no_declarado
+proveedor: DAGA ACEVEDO MIRKO DAVID
+vinculo_contractual: ''
+presupuesto: '10800.0'
+estado: indeterminado
+tecnologias: ''
+clasificacion_riesgo_propia: minimo
+mapeo_eu_ai_act: ''
+mapeo_nist_ai_rmf: ''
+nivel_confianza: inferido_contratacion
+evidencia:
+- url: https://contratacionesabiertas.oece.gob.pe/api/v1/release/ocds-dgv273-seacev3-2021-185233-74-2025-06-26T17:47:42.887765-05:00
+  fecha_captura: '2026-07-27'
+  descripcion: 'Candidato detectado por el término "ciencia de datos" en contrataciones OECE 2021 (ocid: ocds-dgv273-seacev3-2021-185233-74).'
+fecha_alta_registro: '2026-07-27'
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Clasificación de riesgo: Desarrollo analítico interno; la ficha no indica que decida sobre personas.'

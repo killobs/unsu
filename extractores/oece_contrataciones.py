@@ -15,6 +15,8 @@ import datetime
 import json
 import os
 import sys
+import re
+import unicodedata
 import urllib.parse
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -33,10 +35,27 @@ TERMINOS = [
     "procesamiento de lenguaje natural", "chatbot", "asistente virtual",
     "visión computacional", "modelo predictivo", "algoritmo de scoring",
     "deep learning", "IA generativa", "voicebot",
+    # Ampliación 2026-07-27.
+    "visión artificial", "aprendizaje profundo", "reconocimiento de voz",
+    "reconocimiento de imágenes", "reconocimiento biométrico",
+    "análisis predictivo", "modelo de lenguaje", "bot conversacional",
+    "sistema experto", "minería de datos", "ciencia de datos",
+    "automatización robótica de procesos", "gemelo digital",
+    "detección automática",
 ]
 
+# "mantenimiento predictivo" se probó el 2026-07-27 y se retiró el mismo día:
+# es una metodología de mantenimiento industrial anterior a la IA (termografía,
+# análisis de vibraciones). Generó 74 fichas de mantenimiento de transformadores
+# y subestaciones eléctricas, ninguna de ellas un sistema de IA. Es el mismo
+# error que "redes neuronales" en la Fase 0: una frase que suena a IA y no lo es.
+TERMINOS_DESCARTADOS = ["mantenimiento predictivo", "redes neuronales"]
+
 AÑO_ACTUAL = datetime.date.today().year
-AÑOS_RECIENTES = [str(a) for a in range(AÑO_ACTUAL - 1, AÑO_ACTUAL + 1)]
+# Antes eran solo dos años (el actual y el anterior). Las contrataciones de IA
+# arrancan en la práctica a mitad de la década pasada, así que el barrido
+# habitual cubre desde 2018.
+AÑOS_RECIENTES = [str(a) for a in range(2018, AÑO_ACTUAL + 1)]
 AÑOS_HISTORICO = [str(a) for a in range(2004, AÑO_ACTUAL + 1)]
 
 DIR_CRUDOS = os.path.join(esquema.RAIZ, "datos", "crudos")
@@ -47,6 +66,31 @@ def _buscar(termino, año, pagina=1, paginateBy=50):
     url = f"{API_BASE}/search?page={pagina}&paginateBy={paginateBy}&search={enc}&year={año}&format=json"
     respuesta = obtener(url)
     return json.loads(respuesta)
+
+
+# Tope de seguridad: si una consulta devolviera miles de páginas, no queremos
+# barrer la API entera. Con 50 por página son hasta 2000 resultados por consulta.
+MAX_PAGINAS = 40
+
+
+def _buscar_todas_las_paginas(termino, año):
+    """La API pagina de 50 en 50. Antes solo se leía la primera página, así que
+    toda consulta con más de 50 resultados perdía el resto en silencio: por
+    ejemplo "inteligencia artificial" en 2025 devuelve 92 y se veían 50."""
+    primera = _buscar(termino, año)
+    resultados = list(primera.get("results", []))
+    paginacion = primera.get("pagination") or {}
+    total = paginacion.get("total_results", len(resultados))
+    num_paginas = min(paginacion.get("num_pages", 1) or 1, MAX_PAGINAS)
+
+    for pagina in range(2, num_paginas + 1):
+        siguiente = _buscar(termino, año, pagina=pagina)
+        nuevos = siguiente.get("results", [])
+        if not nuevos:
+            break
+        resultados.extend(nuevos)
+
+    return resultados, total, num_paginas
 
 
 def _coincide_frase_exacta(termino, resultado):
@@ -75,13 +119,23 @@ def barrer(años):
     for termino in TERMINOS:
         for año in años:
             try:
-                data = _buscar(termino, año)
+                resultados, total, paginas = _buscar_todas_las_paginas(termino, año)
             except Exception as e:
                 resumen.append({"termino": termino, "año": año, "error": str(e)})
                 continue
-            resultados = data.get("results", [])
             coincidencias = [r for r in resultados if _coincide_frase_exacta(termino, r)]
-            resumen.append({"termino": termino, "año": año, "bruto": len(resultados), "frase_exacta": len(coincidencias)})
+            resumen.append(
+                {
+                    "termino": termino,
+                    "año": año,
+                    "bruto": len(resultados),
+                    "total_declarado": total,
+                    "paginas": paginas,
+                    "frase_exacta": len(coincidencias),
+                    # Aviso si topamos con el límite: querría decir que aún falta cobertura.
+                    "truncado": paginas >= MAX_PAGINAS,
+                }
+            )
             for r in coincidencias:
                 candidatos.append({"termino": termino, "año": año, "resultado": r})
     return candidatos, resumen
@@ -95,9 +149,58 @@ def _guardar_crudo(resumen):
         json.dump(resumen, f, ensure_ascii=False, indent=2)
 
 
+RUTA_EXCLUIDOS = os.path.join(esquema.RAIZ, "datos", "excluidos.yaml")
+
+# Un candidato solo entra si su propio texto evidencia IA, sin depender del
+# término que disparó la búsqueda. Sin esta puerta, un término mal elegido
+# ("mantenimiento predictivo") mete decenas de contratos que no son IA.
+#
+# NO se aplica a lo confirmado por fuente oficial: "Evaluación de expedientes
+# electorales" o "Verificación biométrica en línea" son sistemas de IA reales
+# cuya descripción corta no repite la frase "inteligencia artificial".
+SENAL_IA = re.compile(
+    r"inteligencia artificial|\bia\b|machine learning|aprendizaje autom|"
+    r"aprendizaje profundo|deep learning|red(es)? neuronal|algoritmo|chatbot|"
+    r"\bbot\b|asistente virtual|voicebot|reconocimiento facial|biometr|"
+    r"vision (computacional|artificial)|procesamiento de lenguaje|"
+    r"modelo predictivo|generativa|\bllm\b",
+    re.I,
+)
+
+
+def _sin_acentos(s):
+    return "".join(
+        c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn"
+    )
+
+
+def evidencia_propia_de_ia(texto):
+    """¿El texto muestra IA por sí mismo, sin apoyarse en el término buscado?"""
+    return bool(SENAL_IA.search(_sin_acentos(texto or "")))
+
+
+def _cargar_excluidos():
+    """Candidatos ya revisados a mano y descartados por no ser sistemas de IA.
+
+    Sin esta lista, cada corrida del extractor volvería a dar de alta el mismo
+    biorreactor, el mismo congreso y los mismos gabinetes de servidores: la
+    revisión manual se perdería en cada barrido.
+    """
+    if not os.path.isfile(RUTA_EXCLUIDOS):
+        return set(), set()
+    import yaml as _yaml
+
+    with open(RUTA_EXCLUIDOS, encoding="utf-8") as f:
+        datos = _yaml.safe_load(f) or []
+    ids = {e.get("id") for e in datos if e.get("id")}
+    urls = {e.get("evidencia") for e in datos if e.get("evidencia")}
+    return ids, urls
+
+
 def _incorporar_candidatos(candidatos, entidades, sistemas):
     nuevos_sistemas = 0
     nuevas_entidades = 0
+    ids_excluidos, urls_excluidas = _cargar_excluidos()
     for c in candidatos:
         r = c["resultado"]
         tender = r.get("compiledRelease", {}).get("tender", {})
@@ -112,12 +215,15 @@ def _incorporar_candidatos(candidatos, entidades, sistemas):
         url_ev = _url_evidencia(r)
         if not url_ev:
             continue
+        if url_ev in urls_excluidas:
+            continue
+
+        titulo_desc = f"{tender.get('title', '')} {tender.get('description', '')}"
+        if not evidencia_propia_de_ia(titulo_desc):
+            # El termino coincidio pero el texto no evidencia IA por si mismo.
+            continue
 
         eid = esquema.slugify(nombre_entidad)
-        if eid not in entidades:
-            entidades[eid] = esquema.entidad_nueva(nombre_entidad)
-            nuevas_entidades += 1
-
         titulo = tender.get("title") or tender.get("description", "")[:60]
         sid = f"{eid}--{esquema.slugify(titulo)}--{esquema.slugify(c['termino'])}"
 
@@ -126,8 +232,16 @@ def _incorporar_candidatos(candidatos, entidades, sistemas):
             if esquema.evidencia_ya_registrada(s, url_ev):
                 ya_existe = True
                 break
-        if ya_existe or sid in sistemas:
+        if ya_existe or sid in sistemas or sid in ids_excluidos:
             continue
+
+        # La entidad se crea aqui, no antes: si el candidato se descarta mas
+        # arriba, dar de alta la entidad deja una ficha huerfana sin ningun
+        # sistema. Asi pasaron a existir 48 de ellas en el barrido del 27 de
+        # julio, y el sitio las listaba vacias.
+        if eid not in entidades:
+            entidades[eid] = esquema.entidad_nueva(nombre_entidad)
+            nuevas_entidades += 1
 
         sistemas[sid] = {
             "id": sid,

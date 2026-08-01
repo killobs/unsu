@@ -8,10 +8,10 @@ tipo_decision: ''
 supervision_humana_declarada: no_declarado
 proveedor: ''
 vinculo_contractual: ''
-presupuesto: '0.0'
+presupuesto: ''
 estado: indeterminado
 tecnologias: ''
-clasificacion_riesgo_propia: pendiente_de_clasificar
+clasificacion_riesgo_propia: limitado
 mapeo_eu_ai_act: ''
 mapeo_nist_ai_rmf: ''
 nivel_confianza: inferido_contratacion
@@ -20,4 +20,4 @@ evidencia:
   fecha_captura: '2026-07-26'
   descripcion: 'Candidato detectado por el término "inteligencia artificial" en contrataciones OECE 2026 (ocid: ocds-dgv273-seacev3-1223687).'
 fecha_alta_registro: '2026-07-26'
-notas: Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional encontrada mas alla del registro de contratacion. Proceso reciente (2026), posiblemente sin cobertura publica todavia.
+notas: 'Candidato generado automáticamente por extractores/oece_contrataciones.py. Pendiente de revisión y confirmación. Sin evidencia adicional encontrada mas alla del registro de contratacion. Proceso reciente (2026), posiblemente sin cobertura publica todavia. Clasificación de riesgo: Voicebot de atención a asegurados. La fuente declara presupuesto 0, que se registra como no publicado.'
