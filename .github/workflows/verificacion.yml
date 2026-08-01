@@ -1,0 +1,49 @@
+name: Verificación
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch: {}
+
+jobs:
+  datos:
+    name: Esquema y pruebas
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: El validador rechaza lo que debe rechazar
+        run: python validar_esquema.py --autoprueba
+
+      - name: Las fichas cumplen docs/esquema/
+        run: python validar_esquema.py
+
+      - name: Pruebas de la lógica de detección y clasificación
+        run: python pruebas.py
+
+  sitio:
+    name: Compilación del sitio
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      # El sitio lee ../datos en tiempo de compilación, así que este paso
+      # también comprueba que los YAML sigan siendo legibles desde el build.
+      - name: Instalar dependencias
+        working-directory: sitio
+        run: npm ci
+
+      - name: Compilar a estático
+        working-directory: sitio
+        run: npm run build

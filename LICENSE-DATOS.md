@@ -27,6 +27,16 @@ catálogo analítico de aplicaciones*. Interfases, (22), 143-158. <https://doi.o
 El código fuente (`extractores/`, `sitio/`, `historial/`) tiene una licencia distinta, más permisiva — ver
 [LICENSE](LICENSE).
 
+### Fotografía del sitio
+
+`sitio/public/ausangate.jpg` y su derivado `sitio/public/og.png` **no** están cubiertos por la licencia del
+código. Son obra derivada de *Ausangate.jpg* de **Edubucher**, publicada en Wikimedia Commons bajo
+**CC BY-SA 3.0 Unported**: <https://commons.wikimedia.org/wiki/File:Ausangate.jpg>
+
+Modificaciones aplicadas: reescalado y tramado digital con paleta reducida (ver
+`sitio/scripts/generar-imagenes.mjs`). Por la cláusula de compartir-igual, ambos derivados se redistribuyen
+bajo la misma **CC BY-SA 3.0**, no bajo la licencia MIT del resto de `sitio/`.
+
 ## English
 
 All content under `datos/` (system and entity records, baselines, raw data) is published under
@@ -51,3 +61,13 @@ analítico de aplicaciones*. Interfases, (22), 143-158. <https://doi.org/10.2643
 
 The source code (`extractores/`, `sitio/`, `historial/`) is under a separate, more permissive license — see
 [LICENSE](LICENSE).
+
+### Site photograph
+
+`sitio/public/ausangate.jpg` and its derivative `sitio/public/og.png` are **not** covered by the code license.
+They are derivative works of *Ausangate.jpg* by **Edubucher**, published on Wikimedia Commons under
+**CC BY-SA 3.0 Unported**: <https://commons.wikimedia.org/wiki/File:Ausangate.jpg>
+
+Modifications applied: rescaling and digital dithering with a reduced palette (see
+`sitio/scripts/generar-imagenes.mjs`). Under the share-alike clause, both derivatives are redistributed under
+the same **CC BY-SA 3.0**, not under the MIT license covering the rest of `sitio/`.
