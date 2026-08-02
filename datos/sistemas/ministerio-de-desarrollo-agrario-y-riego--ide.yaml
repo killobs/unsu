@@ -21,6 +21,6 @@ evidencia:
   descripcion: Catalogo de Aplicaciones con Inteligencia Artificial en el Estado Peruano, PCM/SGTD (archivado en datos/documentos/2026-06-10_pcm-catalogo-aplicaciones-ia.pdf)
 - url: http://web.archive.org/web/20240824080325/http://geovisor.midagri.gob.pe/
   fecha_captura: '2026-07-26'
-  descripcion: 'Geovisor de MIDAGRI (contexto, no confirma componente de IA especifico). El dominio dejo de resolver; se cita la copia archivada del 2024-08-24.'
+  descripcion: Geovisor de MIDAGRI (contexto, no confirma componente de IA especifico). El dominio dejo de resolver; se cita la copia archivada del 2024-08-24.
 fecha_alta_registro: '2026-07-26'
 notas: 'Sin informacion mas alla del catalogo oficial PCM (misma limitacion de fuente que el caso anterior). MIDAGRI si tiene geoportales operativos (geo.midagri.gob.pe, geovisor.midagri.gob.pe) pero no se confirmo que componente de IA especifico usan. Clasificación de riesgo: Consulta sobre visor geográfico. Estado: listado como aplicación existente en el Catálogo de Aplicaciones con IA en el Estado Peruano (PCM/SGTD).'
