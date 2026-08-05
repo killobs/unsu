@@ -2,13 +2,13 @@
   "normas_gobpe": {
     "fallos_consecutivos": 0,
     "resultado": "ok",
-    "ultima_corrida": "2026-08-04T12:44:22.927671+00:00",
+    "ultima_corrida": "2026-08-05T12:40:04.703662+00:00",
     "ultimo_mensaje": "Extractor sin implementar: falta el mapeo entidad -> slug de gob.pe y confirmar acceso estable desde GitHub Actions. Ver el docstring del módulo. No se modificó ningún dato."
   },
   "oece_contrataciones": {
     "fallos_consecutivos": 0,
     "resultado": "ok",
-    "ultima_corrida": "2026-08-04T12:44:01.304408+00:00",
+    "ultima_corrida": "2026-08-05T12:39:44.895052+00:00",
     "ultimo_mensaje": "0 candidatos brutos, 0 sistemas nuevos, 0 entidades nuevas"
   },
   "planes_gobierno_digital": {
@@ -20,7 +20,7 @@
   "pnssp": {
     "fallos_consecutivos": 0,
     "resultado": "ok",
-    "ultima_corrida": "2026-08-04T12:44:22.884957+00:00",
+    "ultima_corrida": "2026-08-05T12:40:04.660662+00:00",
     "ultimo_mensaje": "106 fichas revisadas en PNSSP, 1 entidades actualizadas"
   }
 }
