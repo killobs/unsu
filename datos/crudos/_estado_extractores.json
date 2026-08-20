@@ -2,13 +2,13 @@
   "normas_gobpe": {
     "fallos_consecutivos": 0,
     "resultado": "ok",
-    "ultima_corrida": "2026-08-19T11:01:22.586446+00:00",
+    "ultima_corrida": "2026-08-20T11:03:08.512201+00:00",
     "ultimo_mensaje": "Extractor sin implementar: falta el mapeo entidad -> slug de gob.pe y confirmar acceso estable desde GitHub Actions. Ver el docstring del módulo. No se modificó ningún dato."
   },
   "oece_contrataciones": {
     "fallos_consecutivos": 0,
     "resultado": "ok",
-    "ultima_corrida": "2026-08-19T11:00:18.159792+00:00",
+    "ultima_corrida": "2026-08-20T11:02:45.094683+00:00",
     "ultimo_mensaje": "0 candidatos brutos, 0 sistemas nuevos, 0 entidades nuevas"
   },
   "planes_gobierno_digital": {
@@ -18,9 +18,9 @@
     "ultimo_mensaje": "Extractor sin implementar: no existe un indice centralizado de PGD por entidad y el proyecto no puede pagar un servicio de busqueda. Ver el docstring del modulo. No se modifico ningun dato."
   },
   "pnssp": {
-    "fallos_consecutivos": 1,
-    "resultado": "error",
-    "ultima_corrida": "2026-08-19T11:01:22.454176+00:00",
-    "ultimo_mensaje": "<urlopen error [Errno -3] Temporary failure in name resolution>"
+    "fallos_consecutivos": 0,
+    "resultado": "ok",
+    "ultima_corrida": "2026-08-20T11:03:08.470180+00:00",
+    "ultimo_mensaje": "106 fichas revisadas en PNSSP, 1 entidades actualizadas"
   }
 }
