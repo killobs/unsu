@@ -17,7 +17,7 @@ obligaciones:
   fecha_limite: '2026-09-10'
   evidencia:
   - url: https://www.softwarepublico.gob.pe/catalogo/catalogo_servicios.aspx
-    fecha_captura: '2026-09-05'
+    fecha_captura: '2026-09-06'
     descripcion: '5 software(s) registrados en PNSSP, con licencia declarada libre/abierta: ChatBOT Normativo - YachAI-Bot, GOBI - Guía de Orientación Basada en Inteligencia, GenIA - Sistema Inteligente de Transcripción y Documentación de Reuniones, Invoker Refirma, Sistema de Registro de Visitas. Sin enlace a repositorio de código verificable en la ficha de detalle.'
 - obligacion: Documentacion de sistemas de riesgo alto
   estado: no_verificable_desde_fuentes_publicas
